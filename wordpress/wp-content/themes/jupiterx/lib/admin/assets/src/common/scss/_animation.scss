@@ -1,0 +1,11 @@
+.jupiterx-spin {
+	animation: jupiterx-spin 2s infinite linear;
+}
+
+@keyframes jupiterx-spin {
+	from {
+		transform: rotate(0deg);
+	} to {
+		transform: rotate(360deg);
+	}
+}

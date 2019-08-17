@@ -4,8 +4,7 @@
  *
  * Learn more: http://codex.wordpress.org/Template_Hierarchy
  *
- * @package Timber
- * @since Timber 1.0
+ * @package Timber Lite
  */
 
 if ( ! defined( 'ABSPATH' ) ){

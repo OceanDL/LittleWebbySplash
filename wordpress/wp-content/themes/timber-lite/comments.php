@@ -5,7 +5,7 @@
  * and the comment form. The actual display of comments is
  * handled by a callback to wpgrade_comment() which is
  * located in the functions.php file.
- * @package Timber
+ * @package Timber Lite
  * @since   Timber 1.0
  */
 
@@ -47,7 +47,7 @@ if ( post_password_required() ) {
 				 * define wpgrade_comment() and that will be used instead.
 				 * See wpgrade_comment() in inc/template-tags.php for more.
 				 */
-				wp_list_comments( array( 'callback' => 'timber_comment', 'short_ping' => true ) ); ?>
+				wp_list_comments( array( 'callback' => 'timber_lite_comment', 'short_ping' => true ) ); ?>
 			</ol><!-- .commentlist -->
 
 			<?php if ( get_comment_pages_count() > 1 && get_option( 'page_comments' ) ) : // are there comments to navigate through ?>

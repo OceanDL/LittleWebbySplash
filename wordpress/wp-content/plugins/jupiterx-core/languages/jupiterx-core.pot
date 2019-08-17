@@ -1,0 +1,814 @@
+# Copyright (C) 2019 Jupiter X Core
+# This file is distributed under the same license as the Jupiter X Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Jupiter X Core\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Artbees <info@artbees.net>\n"
+"Last-Translator: Artbees Team <info@artbees.net>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: jupiterx-core.php:218, jupiterx-core.php:218, includes/dashboard/widgets/class-overview.php:126
+msgid "Control Panel"
+msgstr ""
+
+#: jupiterx-core.php:222, jupiterx-core.php:222, includes/dashboard/widgets/class-overview.php:125
+msgid "Customize"
+msgstr ""
+
+#: jupiterx-core.php:224, jupiterx-core.php:224, includes/dashboard/widgets/class-overview.php:246
+msgid "Help"
+msgstr ""
+
+#: jupiterx-core.php:227, jupiterx-core.php:227, includes/dashboard/widgets/class-overview.php:254
+msgid "Upgrade"
+msgstr ""
+
+#: jupiterx-core.php:453
+msgid "Activate Product"
+msgstr ""
+
+#: includes/compiler/class-compiler.php:945
+msgid "Not cool, Jupiter cannot work its magic :("
+msgstr ""
+
+#: includes/compiler/class-compiler.php:950
+msgid "Your current install or file permission prevents Jupiter from working its magic. Please get in touch with Jupiter support. We will gladly get you started within 24 - 48 hours (working days)."
+msgstr ""
+
+#: includes/compiler/class-compiler.php:955
+msgid "Contact Jupiter Support"
+msgstr ""
+
+#: includes/compiler/class-compiler.php:960
+msgid "Send us an automatic report"
+msgstr ""
+
+#: includes/compiler/class-compiler.php:961
+msgid "We respect your time and understand you might not be able to contact us."
+msgstr ""
+
+#: includes/compiler/class-compiler.php:997
+msgid "Thanks for your contribution by reporting this issue. We hope to hear from you again."
+msgstr ""
+
+#: includes/control-panel/class-image-sizes.php:75
+msgid "Options are not valid."
+msgstr ""
+
+#: includes/control-panel/class-settings.php:51, includes/dashboard/class.php:45
+msgid "Type param is missing."
+msgstr ""
+
+#. translators: Function request type to initialize.
+#. translators: action type
+#: includes/control-panel/class-settings.php:65, includes/dashboard/class.php:54
+msgid "Type param (%s) is not valid."
+msgstr ""
+
+#: includes/control-panel/class-settings.php:81
+msgid "Assets flushed successfully."
+msgstr ""
+
+#: includes/control-panel/class-settings.php:93
+msgid "Fields param is missing."
+msgstr ""
+
+#: includes/control-panel/class-settings.php:114
+msgid "Settings saved successfully."
+msgstr ""
+
+#: includes/control-panel/functions.php:28
+msgid "Get started:"
+msgstr ""
+
+#: includes/control-panel/functions.php:42
+msgid "SVG Support"
+msgstr ""
+
+#: includes/control-panel/functions.php:50
+msgid "Enable this option to upload SVG to WordPress Media Library."
+msgstr ""
+
+#: includes/control-panel/functions.php:57
+msgid "Google Analytics ID"
+msgstr ""
+
+#: includes/control-panel/functions.php:58
+msgid "Adding Google Analytics code into Jupiter X"
+msgstr ""
+
+#: includes/control-panel/functions.php:62
+msgid "IP Anonymization"
+msgstr ""
+
+#: includes/control-panel/functions.php:68
+msgid "Enable IP Anonymization for Google Analytics."
+msgstr ""
+
+#: includes/control-panel/functions.php:71
+msgid "Adobe Fonts Project ID"
+msgstr ""
+
+#: includes/control-panel/functions.php:72
+msgid "Using Adobe fonts (formerly Typekit) in Jupiter X"
+msgstr ""
+
+#. translators: %s: html
+#. translators: %s: html
+#: includes/control-panel/functions.php:80, includes/control-panel/functions.php:96
+msgid "Tracking Codes After %s Tag"
+msgstr ""
+
+#. translators: %s: html
+#. translators: %s: html
+#: includes/control-panel/functions.php:88, includes/control-panel/functions.php:104
+msgid "Tracking Codes Before %s Tag"
+msgstr ""
+
+#: includes/dashboard/class.php:68
+msgid "The get_sites function is not defined."
+msgstr ""
+
+#: includes/dashboard/class.php:95
+msgid "Site param is missing."
+msgstr ""
+
+#: includes/post-type/class.php:36
+msgctxt "Portfolio General Name"
+msgid "Portfolios"
+msgstr ""
+
+#: includes/post-type/class.php:37
+msgctxt "Portfolio Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/post-type/class.php:38
+msgid "Portfolios"
+msgstr ""
+
+#: includes/post-type/class.php:39, includes/post-type/class.php:51, includes/widgets/widget-posts.php:41
+msgid "Portfolio"
+msgstr ""
+
+#: includes/post-type/class.php:40
+msgid "All Portfolios"
+msgstr ""
+
+#: includes/post-type/class.php:52
+msgid "Portfolio Description"
+msgstr ""
+
+#: includes/post-type/class.php:86
+msgctxt "Category General Name"
+msgid "Categories"
+msgstr ""
+
+#: includes/post-type/class.php:87
+msgctxt "Category Singular Name"
+msgid "Category"
+msgstr ""
+
+#: includes/post-type/class.php:88
+msgid "Categories"
+msgstr ""
+
+#: includes/post-type/class.php:89
+msgid "All Categories"
+msgstr ""
+
+#: includes/post-type/class.php:90
+msgid "Parent Category"
+msgstr ""
+
+#: includes/post-type/class.php:91
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/post-type/class.php:92
+msgid "New Category Name"
+msgstr ""
+
+#: includes/post-type/class.php:93
+msgid "Add New Category"
+msgstr ""
+
+#: includes/post-type/class.php:94
+msgid "Edit Category"
+msgstr ""
+
+#: includes/post-type/class.php:95
+msgid "Update Category"
+msgstr ""
+
+#: includes/post-type/class.php:96
+msgid "View Category"
+msgstr ""
+
+#: includes/post-type/class.php:97
+msgid "Separate categories  with commas"
+msgstr ""
+
+#: includes/post-type/class.php:98
+msgid "Add or remove categories "
+msgstr ""
+
+#: includes/post-type/class.php:99, includes/post-type/class.php:147
+msgid "Choose from the most used"
+msgstr ""
+
+#: includes/post-type/class.php:100
+msgid "Popular Categories"
+msgstr ""
+
+#: includes/post-type/class.php:101
+msgid "Search Categories"
+msgstr ""
+
+#: includes/post-type/class.php:102, includes/post-type/class.php:150
+msgid "Not Found"
+msgstr ""
+
+#: includes/post-type/class.php:103
+msgid "No categories "
+msgstr ""
+
+#: includes/post-type/class.php:104
+msgid "Categories list"
+msgstr ""
+
+#: includes/post-type/class.php:105
+msgid "Categories list navigation"
+msgstr ""
+
+#: includes/post-type/class.php:134
+msgctxt "Tag General Name"
+msgid "Tags"
+msgstr ""
+
+#: includes/post-type/class.php:135
+msgctxt "Tag Singular Name"
+msgid "Tag"
+msgstr ""
+
+#: includes/post-type/class.php:136
+msgid "Tags"
+msgstr ""
+
+#: includes/post-type/class.php:137
+msgid "All Tags"
+msgstr ""
+
+#: includes/post-type/class.php:138
+msgid "Parent Tag"
+msgstr ""
+
+#: includes/post-type/class.php:139
+msgid "Parent Tag:"
+msgstr ""
+
+#: includes/post-type/class.php:140
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/post-type/class.php:141
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/post-type/class.php:142
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/post-type/class.php:143
+msgid "Update Tag"
+msgstr ""
+
+#: includes/post-type/class.php:144
+msgid "View Tag"
+msgstr ""
+
+#: includes/post-type/class.php:145
+msgid "Separate tags with commas"
+msgstr ""
+
+#: includes/post-type/class.php:146
+msgid "Add or remove tags"
+msgstr ""
+
+#: includes/post-type/class.php:148
+msgid "Popular Tags"
+msgstr ""
+
+#: includes/post-type/class.php:149
+msgid "Search Tags"
+msgstr ""
+
+#: includes/post-type/class.php:151
+msgid "No tags"
+msgstr ""
+
+#: includes/post-type/class.php:152
+msgid "Tags list"
+msgstr ""
+
+#: includes/post-type/class.php:153
+msgid "Tags list navigation"
+msgstr ""
+
+#. translators: 1. Heads up title.
+#: includes/updater/functions.php:38
+msgid "%1$s We have found conflicts on updating this plugin. Please resolve following issues before you continue otherwise it may cause unknown issues."
+msgstr ""
+
+#: includes/updater/functions.php:38
+msgid "Heads up!"
+msgstr ""
+
+#: includes/widgets/class.php:471
+msgid "Add"
+msgstr ""
+
+#: includes/widgets/widget-nav-menu.php:108
+msgid "Vertical"
+msgstr ""
+
+#: includes/widgets/widget-nav-menu.php:109
+msgid "Horizontal"
+msgstr ""
+
+#: includes/widgets/widget-nav-menu.php:116
+msgid "Orientation:"
+msgstr ""
+
+#: includes/widgets/widget-nav-menu.php:149
+msgid "Space between:"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:28, includes/widgets/widget-posts.php:136
+msgid "Jupiter X - Posts"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:29
+msgid "Custom lists of posts."
+msgstr ""
+
+#: includes/widgets/widget-posts.php:34, includes/widgets/widget-posts.php:125, includes/widgets/widget-social.php:33
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:40
+msgid "Post"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:49
+msgid "Recent"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:50
+msgid "Popular"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:51
+msgid "Commented"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:58, includes/widgets/widget-posts.php:69
+msgid "Category"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:80
+msgid "Show portfolio title on hover"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:89
+msgid "Show post date"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:98
+msgid "Show comment count"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:107
+msgid "Show thumbnail"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:116
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:122
+msgid "Order by"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:124
+msgid "Date"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:126
+msgid "Menu order"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:127
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:317
+msgid " on "
+msgstr ""
+
+#: includes/widgets/widget-posts.php:437
+msgid "No Comments"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:439
+msgid " Comments"
+msgstr ""
+
+#: includes/widgets/widget-posts.php:441
+msgid "1 Comment"
+msgstr ""
+
+#: includes/widgets/widget-social.php:28, includes/widgets/widget-social.php:158
+msgid "Jupiter X - Social Networks"
+msgstr ""
+
+#: includes/widgets/widget-social.php:29
+msgid "Social network icons."
+msgstr ""
+
+#: includes/widgets/widget-social.php:37
+msgid "Choose social networks"
+msgstr ""
+
+#: includes/widgets/widget-social.php:41
+msgid "Android"
+msgstr ""
+
+#: includes/widgets/widget-social.php:42
+msgid "Apple"
+msgstr ""
+
+#: includes/widgets/widget-social.php:43
+msgid "Behance"
+msgstr ""
+
+#: includes/widgets/widget-social.php:44
+msgid "Bitbucket"
+msgstr ""
+
+#: includes/widgets/widget-social.php:45
+msgid "Delicious"
+msgstr ""
+
+#: includes/widgets/widget-social.php:46
+msgid "Digg"
+msgstr ""
+
+#: includes/widgets/widget-social.php:47
+msgid "Dribbble"
+msgstr ""
+
+#: includes/widgets/widget-social.php:48
+msgid "Facebook"
+msgstr ""
+
+#: includes/widgets/widget-social.php:49
+msgid "Flickr"
+msgstr ""
+
+#: includes/widgets/widget-social.php:50
+msgid "Foursquare"
+msgstr ""
+
+#: includes/widgets/widget-social.php:51
+msgid "Github"
+msgstr ""
+
+#: includes/widgets/widget-social.php:52
+msgid "Google Plus"
+msgstr ""
+
+#: includes/widgets/widget-social.php:53
+msgid "Instagram"
+msgstr ""
+
+#: includes/widgets/widget-social.php:54
+msgid "JSFiddle"
+msgstr ""
+
+#: includes/widgets/widget-social.php:55
+msgid "Linkedin"
+msgstr ""
+
+#: includes/widgets/widget-social.php:56
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/widget-social.php:57
+msgid "Pinterest"
+msgstr ""
+
+#: includes/widgets/widget-social.php:58
+msgid "Product Hunt"
+msgstr ""
+
+#: includes/widgets/widget-social.php:59
+msgid "Reddit"
+msgstr ""
+
+#: includes/widgets/widget-social.php:60
+msgid "RSS"
+msgstr ""
+
+#: includes/widgets/widget-social.php:61
+msgid "Skype"
+msgstr ""
+
+#: includes/widgets/widget-social.php:62
+msgid "Snapchat"
+msgstr ""
+
+#: includes/widgets/widget-social.php:63
+msgid "Soundcloud"
+msgstr ""
+
+#: includes/widgets/widget-social.php:64
+msgid "Spotify"
+msgstr ""
+
+#: includes/widgets/widget-social.php:65
+msgid "Stack Overflow"
+msgstr ""
+
+#: includes/widgets/widget-social.php:66
+msgid "Steam"
+msgstr ""
+
+#: includes/widgets/widget-social.php:67
+msgid "Stumbleupon"
+msgstr ""
+
+#: includes/widgets/widget-social.php:68
+msgid "Telegram"
+msgstr ""
+
+#: includes/widgets/widget-social.php:69
+msgid "TripAdvisor"
+msgstr ""
+
+#: includes/widgets/widget-social.php:70
+msgid "Tumblr"
+msgstr ""
+
+#: includes/widgets/widget-social.php:71
+msgid "Twitch"
+msgstr ""
+
+#: includes/widgets/widget-social.php:72
+msgid "Twitter"
+msgstr ""
+
+#: includes/widgets/widget-social.php:73
+msgid "Vimeo"
+msgstr ""
+
+#: includes/widgets/widget-social.php:74
+msgid "VK"
+msgstr ""
+
+#: includes/widgets/widget-social.php:75
+msgid "Weibo"
+msgstr ""
+
+#: includes/widgets/widget-social.php:76
+msgid "Weixin"
+msgstr ""
+
+#: includes/widgets/widget-social.php:77
+msgid "Whatsapp"
+msgstr ""
+
+#: includes/widgets/widget-social.php:78
+msgid "WordPress"
+msgstr ""
+
+#: includes/widgets/widget-social.php:79
+msgid "Xing"
+msgstr ""
+
+#: includes/widgets/widget-social.php:80
+msgid "Yelp"
+msgstr ""
+
+#: includes/widgets/widget-social.php:81
+msgid "Youtube"
+msgstr ""
+
+#: includes/widgets/widget-social.php:82
+msgid "500px"
+msgstr ""
+
+#: includes/widgets/widget-social.php:88
+msgid "Open links in new tab"
+msgstr ""
+
+#: includes/widgets/widget-social.php:97
+msgid "Icon size"
+msgstr ""
+
+#: includes/widgets/widget-social.php:104
+msgid "Border radius"
+msgstr ""
+
+#: includes/widgets/widget-social.php:110
+msgid "Space between icons"
+msgstr ""
+
+#: includes/widgets/widget-social.php:115
+msgid "Use custom colors"
+msgstr ""
+
+#: includes/widgets/widget-social.php:120
+msgid "Icon color"
+msgstr ""
+
+#: includes/widgets/widget-social.php:129
+msgid "Background color"
+msgstr ""
+
+#: includes/widgets/widget-social.php:138
+msgid "Icon hover color"
+msgstr ""
+
+#: includes/widgets/widget-social.php:147
+msgid "Background hover color"
+msgstr ""
+
+#: includes/control-panel/views/image-sizes.php:16
+msgid "Image Sizes"
+msgstr ""
+
+#: includes/control-panel/views/image-sizes.php:17
+msgid "Custom size for images"
+msgstr ""
+
+#: includes/control-panel/views/image-sizes.php:20
+msgid "Add a New Size"
+msgstr ""
+
+#: includes/control-panel/views/image-sizes.php:33
+msgid "Name"
+msgstr ""
+
+#: includes/control-panel/views/image-sizes.php:36
+msgid "Size"
+msgstr ""
+
+#: includes/control-panel/views/image-sizes.php:39
+msgid "Crop"
+msgstr ""
+
+#: includes/control-panel/views/image-sizes.php:46
+msgid "Edit"
+msgstr ""
+
+#: includes/control-panel/views/image-sizes.php:47
+msgid "Remove"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:15
+msgid "Settings"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:20
+msgid "Flush Assets Cache"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:21
+msgid "Flushing..."
+msgstr ""
+
+#: includes/control-panel/views/settings.php:22
+msgid "Clear CSS, Javascript and images cached files. New cached versions will be compiled/created on page load."
+msgstr ""
+
+#: includes/control-panel/views/settings.php:26
+msgid "Development Mode"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:32
+msgid "This option should be enabled while your website is in development."
+msgstr ""
+
+#: includes/control-panel/views/settings.php:35
+msgid "Cache Busting"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:41
+msgid "Enable cache busting technique."
+msgstr ""
+
+#: includes/control-panel/views/settings.php:48
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:52
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:56
+msgid "Twitter Access Token"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:60
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:64
+msgid "MailChimp API Key"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:68
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:72
+msgid "Google Maps API Key"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:78
+msgid "Save Settings"
+msgstr ""
+
+#: includes/control-panel/views/settings.php:79
+msgid "Saving..."
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:41
+msgid "Jupiter X Overview"
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:122
+msgid "Jupiter X"
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:149
+msgid "Recently Edited"
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:155
+msgctxt "Dashboard Overview Widget Recently Date"
+msgid "M jS"
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:174
+msgid "Flush network cache"
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:175
+msgid "Regenerate Jupiter X and Elementor's cache in all network sites."
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:181
+msgid "Tools"
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:189
+msgid "Run"
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:207
+msgid "News & Updates"
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:220
+msgid "New"
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:241
+msgid "Blog"
+msgstr ""
+
+#: includes/dashboard/widgets/class-overview.php:267
+msgid "(opens in a new window)"
+msgstr ""
+
+#: includes/updater/views/html-notice-update-extensions-themes-inline.php:18
+msgid "Plugins"
+msgstr ""
+
+#: includes/updater/views/html-notice-update-extensions-themes-inline.php:19, includes/updater/views/html-notice-update-extensions-themes-inline.php:37
+msgid "Upgrade to version"
+msgstr ""
+
+#: includes/updater/views/html-notice-update-extensions-themes-inline.php:36
+msgid "Themes"
+msgstr ""

@@ -1,0 +1,130 @@
+// Dashboard widgets
+//
+
+// Jupiter X Overview
+#jupiterx-dashboard-overview {
+
+	// Header
+	.jupiterx-admin-widget-overview-header {
+		display: flex;
+		width: 100%;
+		-webkit-box-shadow: 0 5px 8px rgba(0, 0, 0, 0.05);
+		box-shadow: 0 5px 8px rgba(0, 0, 0, 0.05);
+		margin: 0 -12px 8px;
+		padding: 0 12px 13px;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.jupiterx-admin-widget-overview-branding {
+		display: flex;
+		line-height: 1;
+	}
+
+	.jupiterx-admin-widget-overview-version {
+		align-self: center;
+		padding-left: 12px;
+		font-size: 0.9em;
+	}
+
+	.jupiterx-admin-widget-overview-header .button:first-child {
+		margin-right: 6px;
+	}
+
+	.jupiterx-dashboard-widget .jupiterx-admin-widget-overview-heading {
+		font-weight: 700;
+		border-bottom: 1px solid #eee;
+		margin: 0 -12px;
+		padding: 6px 12px;
+	}
+
+	.jupiterx-admin-widget-overview-recent-post {
+		color: #72777c;
+		margin-top: 10px;
+	 }
+
+	.dashicons {
+		vertical-align: middle;
+		font-size: 17px;
+	}
+
+	// Tools
+	.jupiterx-admin-widget-overview-tool {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		margin-bottom: .7rem;
+
+		.button {
+			margin-left: .5rem;
+		}
+	}
+
+	.jupiterx-admin-widget-overview-tool-title {
+		font-weight: 500;
+	}
+
+	.jupiterx-admin-widget-overview-tool-desc {
+		display: block;
+		font-size: 0.9em;
+		color: #72777c;
+	}
+
+	// Posts
+	.jupiterx-admin-widget-overview-badge {
+		background: #39b54a;
+		color: white;
+		font-size: 0.75em;
+		padding: 3px 6px;
+		border-radius: 3px;
+		text-transform: uppercase;
+	}
+
+	.jupiterx-admin-widget-overview-post {
+		margin-top: 10px;
+	}
+
+	.jupiterx-admin-widget-overview-post-link {
+		padding-bottom: 5px;
+		display: inline-block;
+	}
+
+	.jupiterx-admin-widget-overview-feed {
+		font-size: 14px;
+		font-weight: 500;
+	}
+
+	.jupiterx-admin-widget-overview-post-description {
+		margin: 0 0 1.5em;
+	}
+
+	// Footer
+	.jupiterx-admin-widget-overview-footer {
+		margin: 0 -12px -12px;
+		padding: 12px;
+		border-top: 1px solid #eee;
+	}
+
+	.jupiterx-admin-widget-overview-footer ul li:first-child{
+		padding-left: 0;
+		border: none;
+	}
+
+	.jupiterx-admin-widget-overview-footer ul {
+		display: flex;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.jupiterx-admin-widget-overview-footer li {
+		padding: 0 10px;
+		margin: 0;
+		border-left: 1px solid #ddd;
+
+		&.jupiterx-admin-widget-overview-footer-upgrade a {
+			color: #ff0084;
+		}
+	}
+
+}

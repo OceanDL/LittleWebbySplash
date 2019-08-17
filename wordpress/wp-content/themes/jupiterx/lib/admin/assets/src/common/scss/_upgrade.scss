@@ -1,0 +1,163 @@
+.jupiterx-modal-upgrade {
+	width: 617px;
+
+	.jupiterx-modal-header,
+	.jupiterx-modal-desc {
+		padding-left: 19px;
+		padding-right: 19px;
+	}
+
+	.jupiterx-modal-icon-custom {
+		color: #f23c97;
+	}
+
+	.jupiterx-modal-title {
+		img.emoji {
+			font-size: 30px;
+		}
+	}
+}
+
+.jupiterx-upgrade-step {
+	position: relative;
+	display: flex;
+	opacity: 0.5;
+	pointer-events: none;
+
+	&:not(:last-child) {
+		padding-bottom: 33px;
+
+		.jupiterx-upgrade-count:after {
+			position: absolute;
+			left: 12px;
+			top: 33px;
+			bottom: 5px;
+			content: '';
+			display: block;
+			width: 3px;
+			background-color: #c0c6cc;
+		}
+	}
+}
+
+.jupiterx-upgrade-count {
+	margin-right: 14px;
+}
+
+.jupiterx-upgrade-num {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 28px;
+	height: 28px;
+	background-color: #c0c6cc;
+	border-radius: 50%;
+	color: #fff;
+}
+
+.jupiterx-upgrade-content {
+	flex: 1 0 auto;
+}
+
+.jupiterx-upgrade-title {
+	margin-bottom: 8px;
+	color: #212529;
+}
+
+.jupiterx-upgrade-api-field {
+	margin-bottom: 13px;
+
+	.jupiterx-form-control {
+		flex: 1 0 auto;
+	}
+
+	.invalid {
+		border-color: #dc3545;
+	}
+}
+
+.jupiterx-upgrade-activate {
+	.jupiterx-spin {
+		position: relative;
+		top: 2px;
+		display: inline-block;
+		margin-left: 8px;
+		font-style: normal;
+		font-variant: normal;
+		text-rendering: auto;
+		line-height: 1;
+
+		&:before {
+			display: block;
+		}
+	}
+}
+
+.jupiterx-upgrade-buy {
+	.jupiterx-upgrade-title {
+		display: flex;
+		align-items: center;
+
+		[class*=jupiterx-icon] {
+			display: inline-block;
+			vertical-align: middle;
+			color: #adb5bd;
+			font-size: 20px;
+			line-height: 1;
+		}
+	}
+}
+
+.jupiterx-upgrade-help-buy {
+	margin-left: auto;
+
+	a:hover {
+		text-decoration: none;
+	}
+}
+
+.jupiterx-upgrade-activate-key {
+	.jupiterx-upgrade-help-icon {
+		display: block;
+		margin-left: 9px;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+}
+
+.jupiterx-upgrade-step.active {
+	opacity: 1;
+	pointer-events: all;
+
+	.jupiterx-upgrade-num {
+		background-color: #3593ff;
+	}
+}
+
+.jupiterx-upgrade-step.done {
+	opacity: 1;
+	pointer-events: all;
+
+	.jupiterx-upgrade-count:after,
+	.jupiterx-upgrade-num {
+		background-color: #3593ff;
+	}
+}
+
+.jupiterx-upgrade-footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+}
+
+.jupiterx-upgrade-learn-more {
+	font-size: 16px;
+
+	.jupiterx-icon-external-link-alt {
+		vertical-align: middle;
+		color: #adb5bd;
+	}
+}

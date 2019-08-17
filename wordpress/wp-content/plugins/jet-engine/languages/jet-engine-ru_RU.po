@@ -1,0 +1,2933 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JetEngine for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-17 10:42+0200\n"
+"PO-Revision-Date: 2019-01-17 10:42+0200\n"
+"Last-Translator: dev-admin <art@artabr.ru>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;_ex:1,2c;_n:1,2;_nx:4c,1,2;_n_noop:1,2;"
+"_nx_noop:4c,1,2\n"
+"esc_attr__;_x: 1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: cherry-framework\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: includes/compatibility/packages/acf.php:58
+msgid "ACF Gallery as WP Gallery"
+msgstr "ACF Галерея в качестве WP галереи"
+
+#: includes/compatibility/packages/acf.php:275
+msgid "ACF"
+msgstr "ACF"
+
+#: includes/compatibility/packages/acf.php:360
+msgid "ACF Field"
+msgstr "ACF поле"
+
+#: includes/compatibility/packages/meta-box.php:79
+msgid "Meta Box"
+msgstr "Блок метаданных"
+
+#: includes/compatibility/packages/meta-box.php:264
+msgid "Meta Box Field"
+msgstr "Поле блока метаданных"
+
+#: includes/compatibility/packages/woocommerce.php:44
+msgid "Price"
+msgstr "Цена"
+
+#: includes/compatibility/packages/woocommerce.php:50
+msgid "Sale Price"
+msgstr "Цена распродажи"
+
+#: includes/compatibility/packages/woocommerce.php:56
+msgid "SKU"
+msgstr "Артикул"
+
+#: includes/compatibility/packages/woocommerce.php:62
+msgid "Sales"
+msgstr "Продажи"
+
+#: includes/compatibility/packages/woocommerce.php:68
+msgid "Average Rating"
+msgstr "Средний рейтинг"
+
+#: includes/compatibility/packages/woocommerce.php:74
+msgid "Stock Status"
+msgstr "Статус наличия на складе"
+
+#: includes/compatibility/packages/woocommerce.php:80
+msgid "Weight"
+msgstr "Вес"
+
+#: includes/compatibility/packages/woocommerce.php:86
+msgid "Length"
+msgstr "Длина"
+
+#: includes/compatibility/packages/woocommerce.php:92
+#: includes/modules/calendar/calendar.php:232
+#: includes/modules/calendar/calendar.php:791
+msgid "Width"
+msgstr "Ширина"
+
+#: includes/compatibility/packages/woocommerce.php:98
+#: includes/modules/calendar/calendar.php:249
+#: includes/modules/calendar/calendar.php:813
+msgid "Height"
+msgstr "Высота"
+
+#: includes/compatibility/packages/woocommerce.php:114
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: includes/compatibility/packages/wpml.php:51
+msgid "Listing Grid: Not found message"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:64
+msgid "Field: Date format (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:69
+msgid "Field: Separator for the decimal point (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:74
+msgid "Field: Thousands separator (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:79
+msgid "Field: Field format (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:92
+msgid "Link: Label (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:105
+msgid "Meta: Prefix (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:110
+msgid "Meta: Suffix (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:115
+msgid "Meta: Zero Comments Format (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:120
+msgid "Meta: One Comments Format (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:125
+msgid "Meta: More Comments Format (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:130
+msgid "Meta: Date Format (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:143
+msgid "Terms: Prefix (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:148
+msgid "Terms: Suffix (if used)"
+msgstr ""
+
+#: includes/compatibility/packages/wpml.php:161
+msgid "Repeater: Field format (if used)"
+msgstr ""
+
+#: includes/controls/meta-box-controls.php:53
+#: includes/controls/post-type-controls.php:132
+#: includes/controls/relation-controls.php:53
+#: includes/controls/taxonomy-controls.php:53
+#: includes/list-tables/meta-boxes-list-table.php:21
+#: includes/list-tables/post-types-list-table.php:20
+#: includes/list-tables/relations-list-table.php:23
+msgid "Actions"
+msgstr "Действия"
+
+#: includes/controls/meta-box-controls.php:66
+#: includes/listings/dynamic-widgets/dynamic-link.php:176
+#: includes/listings/dynamic-widgets/dynamic-meta.php:233
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:121
+#: includes/listings/dynamic-widgets/dynamic-terms.php:132
+#: includes/listings/static-widgets/grid.php:37
+#: includes/modules/calendar/calendar.php:52
+msgid "General"
+msgstr "Общие"
+
+#: includes/controls/meta-box-controls.php:72
+#: includes/controls/meta-fields-controls.php:46
+#: includes/controls/post-type-controls.php:164
+#: includes/controls/taxonomy-controls.php:85
+msgid "Meta Fields"
+msgstr "Метаполя"
+
+#: includes/controls/meta-box-controls.php:103
+#: includes/controls/post-type-controls.php:203
+#: includes/controls/relation-controls.php:86
+#: includes/controls/taxonomy-controls.php:115
+#: includes/list-tables/meta-boxes-list-table.php:18
+#: includes/list-tables/post-types-list-table.php:18
+#: includes/list-tables/relations-list-table.php:18
+#: includes/listings/static-widgets/grid.php:305
+#: includes/listings/static-widgets/grid.php:412
+#: includes/listings/static-widgets/grid.php:617
+msgid "Name"
+msgstr "Имя"
+
+#: includes/controls/meta-box-controls.php:111
+msgid "Meta Box for"
+msgstr "Блок метаданных для"
+
+#: includes/controls/meta-box-controls.php:113
+#: includes/dynamic-tags/tags/custom-field-tag.php:64
+#: includes/dynamic-tags/tags/custom-image-tag.php:158
+msgid "Select..."
+msgstr "Выбрать..."
+
+#: includes/controls/meta-box-controls.php:114
+#: includes/list-tables/meta-boxes-list-table.php:52
+#: includes/listings/dynamic-widgets/dynamic-meta.php:146
+#: includes/listings/dynamic-widgets/dynamic-meta.php:169
+#: includes/listings/dynamic-widgets/dynamic-meta.php:191
+msgid "Post"
+msgstr "Запись"
+
+#: includes/controls/meta-box-controls.php:115
+#: includes/controls/post-type-controls.php:614
+#: includes/list-tables/meta-boxes-list-table.php:52
+#: includes/listings/static-widgets/grid.php:360
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: includes/controls/meta-box-controls.php:124
+#: includes/controls/meta-fields-controls.php:76 includes/skins/export.php:413
+#: includes/skins/import.php:138
+msgid "Post types"
+msgstr "Типы записей"
+
+#: includes/controls/meta-box-controls.php:136 includes/skins/export.php:434
+#: includes/skins/import.php:174 includes/taxonomies/manager.php:97
+#: includes/taxonomies/manager.php:98
+msgid "Taxonomies"
+msgstr "Таксономии"
+
+#: includes/controls/meta-box-controls.php:148
+msgid "Specific Posts"
+msgstr "Избранные посты"
+
+#: includes/controls/meta-box-controls.php:154
+msgid "Clear"
+msgstr "Очистить"
+
+#: includes/controls/meta-fields-controls.php:47
+msgid "New Meta Field"
+msgstr "Новое метаполе"
+
+#: includes/controls/meta-fields-controls.php:54
+#: includes/controls/meta-fields-controls.php:146
+#: includes/controls/post-type-controls.php:384
+#: includes/controls/post-type-controls.php:588
+#: includes/listings/dynamic-widgets/dynamic-field.php:607
+#: includes/listings/static-widgets/grid.php:304
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/controls/meta-fields-controls.php:61
+#: includes/controls/meta-fields-controls.php:152
+msgid "Name / ID"
+msgstr "Имя / ID"
+
+#: includes/controls/meta-fields-controls.php:68
+#: includes/controls/meta-fields-controls.php:158
+#: includes/controls/post-type-controls.php:595
+#: includes/list-tables/relations-list-table.php:21
+#: includes/listings/dynamic-widgets/dynamic-meta.php:43
+#: includes/listings/static-widgets/grid.php:143
+#: includes/listings/static-widgets/grid.php:306
+#: includes/listings/static-widgets/grid.php:517
+#: includes/listings/static-widgets/grid.php:756
+msgid "Type"
+msgstr "Тип"
+
+#: includes/controls/meta-fields-controls.php:85
+msgid ""
+"Save as timestamp. Check this if you will need to sort or query posts by date"
+msgstr ""
+"Сохранить как метку времени. Активируйте, если вам будет необходимо "
+"сортировать или запрашивать записи по дате"
+
+#: includes/controls/meta-fields-controls.php:96
+msgid "Allow to select multiple values"
+msgstr "Разрешить, чтобы выбрать несколько значений"
+
+#: includes/controls/meta-fields-controls.php:107
+msgid "Options List"
+msgstr "Список опций"
+
+#: includes/controls/meta-fields-controls.php:108
+msgid "New Option"
+msgstr "Новая опция"
+
+#: includes/controls/meta-fields-controls.php:116
+#: includes/listings/static-widgets/grid.php:489
+#: includes/listings/static-widgets/grid.php:745
+msgid "Value"
+msgstr "Значение"
+
+#: includes/controls/meta-fields-controls.php:122
+#: includes/listings/dynamic-widgets/dynamic-link.php:66
+msgid "Label"
+msgstr "Ярлык"
+
+#: includes/controls/meta-fields-controls.php:137
+msgid "Repeater Fields"
+msgstr "Поля Repeater"
+
+#: includes/controls/meta-fields-controls.php:138
+msgid "New Field"
+msgstr "Новое поле"
+
+#: includes/controls/meta-fields-controls.php:180
+msgid "Text"
+msgstr "Text"
+
+#: includes/controls/meta-fields-controls.php:181
+#: includes/listings/dynamic-widgets/dynamic-field.php:608
+#: includes/listings/dynamic-widgets/dynamic-meta.php:47
+#: includes/listings/static-widgets/grid.php:307
+msgid "Date"
+msgstr "Дата"
+
+#: includes/controls/meta-fields-controls.php:182
+msgid "Time"
+msgstr "Time"
+
+#: includes/controls/meta-fields-controls.php:183
+msgid "Datetime"
+msgstr "Datetime"
+
+#: includes/controls/meta-fields-controls.php:184
+msgid "Textarea"
+msgstr "Textarea"
+
+#: includes/controls/meta-fields-controls.php:185
+msgid "WYSIWYG"
+msgstr "WYSIWYG"
+
+#: includes/controls/meta-fields-controls.php:186
+msgid "Switcher"
+msgstr "Switcher"
+
+#: includes/controls/meta-fields-controls.php:187
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: includes/controls/meta-fields-controls.php:188
+msgid "Iconpicker"
+msgstr "Iconpicker"
+
+#: includes/controls/meta-fields-controls.php:189
+msgid "Media"
+msgstr "Media"
+
+#: includes/controls/meta-fields-controls.php:190
+msgid "Gallery"
+msgstr "Gallery"
+
+#: includes/controls/meta-fields-controls.php:191
+msgid "Radio"
+msgstr "Radio"
+
+#: includes/controls/meta-fields-controls.php:192
+msgid "Repeater"
+msgstr "Repeater"
+
+#: includes/controls/meta-fields-controls.php:193
+msgid "Select"
+msgstr "Select"
+
+#: includes/controls/meta-fields-controls.php:194
+msgid "Colorpicker"
+msgstr "Colorpicker"
+
+#: includes/controls/meta-fields-controls.php:195
+#: includes/document-types/listing-item.php:44 includes/skins/import.php:244
+#: templates/listings-popup.php:16
+msgid "Posts"
+msgstr "Записи"
+
+#: includes/controls/post-type-controls.php:33
+msgid "Add Post Type"
+msgstr "Добавить тип записи"
+
+#: includes/controls/post-type-controls.php:81
+#: includes/list-tables/meta-boxes-list-table.php:111
+#: includes/list-tables/post-types-list-table.php:86
+#: includes/list-tables/relations-list-table.php:121
+#: includes/list-tables/taxonomies-list-table.php:34
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/controls/post-type-controls.php:145
+#: includes/controls/taxonomy-controls.php:66
+msgid "General Information"
+msgstr "Общая информация"
+
+#: includes/controls/post-type-controls.php:151
+#: includes/controls/taxonomy-controls.php:72
+#: includes/listings/dynamic-widgets/dynamic-terms.php:227
+msgid "Labels"
+msgstr "Ярлыки"
+
+#: includes/controls/post-type-controls.php:152
+#: includes/controls/taxonomy-controls.php:73 includes/cpt/manager.php:489
+#: includes/list-tables/meta-boxes-list-table.php:110
+#: includes/list-tables/post-types-list-table.php:85
+#: includes/list-tables/relations-list-table.php:120
+#: includes/list-tables/taxonomies-list-table.php:33
+msgid "Edit"
+msgstr "Редактировать"
+
+#: includes/controls/post-type-controls.php:158
+#: includes/controls/relation-controls.php:66
+#: includes/controls/taxonomy-controls.php:79 includes/meta-boxes/post.php:26
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/controls/post-type-controls.php:170
+#: includes/controls/post-type-controls.php:580
+msgid "Admin Columns"
+msgstr ""
+
+#: includes/controls/post-type-controls.php:212
+#: includes/controls/taxonomy-controls.php:124
+#: includes/listings/static-widgets/grid.php:411
+#: includes/listings/static-widgets/grid.php:618
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/controls/post-type-controls.php:226
+#: includes/controls/taxonomy-controls.php:149
+msgid "Post type singular name"
+msgstr "Имя типа записи в ед. числе"
+
+#: includes/controls/post-type-controls.php:234
+#: includes/controls/taxonomy-controls.php:157
+msgid "Admin Menu text"
+msgstr "Текст для дешборда"
+
+#: includes/controls/post-type-controls.php:242
+msgid "Add New on Toolbar"
+msgstr "Опция добавления новой публикации в дешборде"
+
+#: includes/controls/post-type-controls.php:250
+#: includes/listings/post-type.php:259 includes/pages/list-meta.php:37
+#: includes/pages/list-relations.php:37 includes/pages/list-tax.php:37
+#: includes/pages/list.php:37
+msgid "Add New"
+msgstr "Создать"
+
+#: includes/controls/post-type-controls.php:258
+#: includes/listings/post-type.php:260 includes/listings/post-type.php:262
+msgid "Add New Item"
+msgstr "Добавить новую"
+
+#: includes/controls/post-type-controls.php:266
+#: includes/controls/taxonomy-controls.php:189
+msgid "New Item"
+msgstr "Новая запись"
+
+#: includes/controls/post-type-controls.php:274
+#: includes/controls/taxonomy-controls.php:173
+#: includes/listings/post-type.php:261
+msgid "Edit Item"
+msgstr "Редактировать"
+
+#: includes/controls/post-type-controls.php:282
+#: includes/controls/taxonomy-controls.php:181
+#: includes/listings/post-type.php:263
+msgid "View Item"
+msgstr "Просмотреть"
+
+#: includes/controls/post-type-controls.php:290
+#: includes/controls/taxonomy-controls.php:165
+msgid "All Items"
+msgstr "Все записи"
+
+#: includes/controls/post-type-controls.php:298
+#: includes/controls/taxonomy-controls.php:213
+msgid "Search for items"
+msgstr "Искать по записям"
+
+#: includes/controls/post-type-controls.php:306
+#: includes/controls/taxonomy-controls.php:229
+msgid "Parent Item"
+msgstr "Родительская запись"
+
+#: includes/controls/post-type-controls.php:314
+#: includes/controls/taxonomy-controls.php:269
+msgid "Not found label"
+msgstr "Текст в случае если запись не найдена"
+
+#: includes/controls/post-type-controls.php:322
+msgid "Not found in trash label"
+msgstr "Не найдено в корзине"
+
+#: includes/controls/post-type-controls.php:330
+msgid "Override the \"Featured Image\" label"
+msgstr "Текст, замещающий стандатрный для обозначения миниатюры"
+
+#: includes/controls/post-type-controls.php:338
+msgid "Override the \"Set Featured Image\" label"
+msgstr "Текст, замещающий стандартный для опции Установить миниатюру"
+
+#: includes/controls/post-type-controls.php:346
+msgid "Override the \"Remove Featured Image\" label"
+msgstr "Текст, замещающий стандартный текст опции Удалить миниатюру"
+
+#: includes/controls/post-type-controls.php:354
+msgid "Override the \"Use Featured Image\" label"
+msgstr "Текст, замещающий стандартный текст опции Использовать миниатюру"
+
+#: includes/controls/post-type-controls.php:362
+msgid "The post type archive label used in nav menus"
+msgstr "Название архива типа записи в навигационном меню"
+
+#: includes/controls/post-type-controls.php:370
+msgid "Override the \"Insert into post\" page label"
+msgstr "Текст, замещающий стандартный текст опции Вставить в запись"
+
+#: includes/controls/post-type-controls.php:378
+msgid "Overrides the \"Uploaded to this post\""
+msgstr "Текст, замещающий стандартный текст опции Загрузить в запись"
+
+#: includes/controls/post-type-controls.php:385
+msgid "Editor"
+msgstr "Редактор"
+
+#: includes/controls/post-type-controls.php:386
+#: includes/listings/dynamic-widgets/dynamic-meta.php:49
+msgid "Comments"
+msgstr "Комментарии"
+
+#: includes/controls/post-type-controls.php:387
+msgid "Revisions"
+msgstr "Исправления"
+
+#: includes/controls/post-type-controls.php:388
+msgid "Trackbacks"
+msgstr "Обратные ссылки"
+
+#: includes/controls/post-type-controls.php:389
+#: includes/listings/dynamic-widgets/dynamic-image.php:142
+#: includes/listings/dynamic-widgets/dynamic-link.php:125
+#: includes/listings/dynamic-widgets/dynamic-meta.php:48
+#: includes/listings/static-widgets/grid.php:303
+msgid "Author"
+msgstr "Автор"
+
+#: includes/controls/post-type-controls.php:390
+#: includes/listings/dynamic-widgets/dynamic-field.php:610
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: includes/controls/post-type-controls.php:391
+msgid "Page Attributes"
+msgstr "Атрибуты страницы"
+
+#: includes/controls/post-type-controls.php:392
+msgid "Thumbnail (Featured Image)"
+msgstr "Миниатюра"
+
+#: includes/controls/post-type-controls.php:393
+msgid "Custom Fields"
+msgstr "Кастомные поля"
+
+#: includes/controls/post-type-controls.php:394
+msgid "Post Formats"
+msgstr "Форматы записи"
+
+#: includes/controls/post-type-controls.php:405
+#: includes/controls/taxonomy-controls.php:282
+msgid "Is Public"
+msgstr "Публичное?"
+
+#: includes/controls/post-type-controls.php:417
+#: includes/controls/taxonomy-controls.php:294
+msgid "Publicly Queryable"
+msgstr "Доступно публично по запросам?"
+
+#: includes/controls/post-type-controls.php:429
+#: includes/controls/taxonomy-controls.php:306
+msgid "Show Admin UI"
+msgstr "Показывать в дешборде"
+
+#: includes/controls/post-type-controls.php:441
+#: includes/controls/taxonomy-controls.php:318
+msgid "Show in Admin Menu"
+msgstr ""
+
+#: includes/controls/post-type-controls.php:453
+#: includes/controls/taxonomy-controls.php:330
+msgid "Show in Nav Menu"
+msgstr "Показывать в навигационном меню"
+
+#: includes/controls/post-type-controls.php:465
+msgid "Show in Rest API (allow Gutenberg editor)"
+msgstr ""
+
+#: includes/controls/post-type-controls.php:477
+#: includes/controls/taxonomy-controls.php:354
+msgid "Register Query Var"
+msgstr "Регистрировать Query Var"
+
+#: includes/controls/post-type-controls.php:489
+#: includes/controls/taxonomy-controls.php:366
+msgid "Rewrite"
+msgstr "Переписать"
+
+#: includes/controls/post-type-controls.php:501
+#: includes/controls/taxonomy-controls.php:378
+msgid "Post type slug will be used if empty"
+msgstr "Если не заполнено, будет использован ярлык типа записи"
+
+#: includes/controls/post-type-controls.php:502
+#: includes/controls/taxonomy-controls.php:379
+msgid "Rewrite Slug"
+msgstr "Переписать slug"
+
+#: includes/controls/post-type-controls.php:510
+msgid "Capability Type"
+msgstr "Тип возможности"
+
+#: includes/controls/post-type-controls.php:518
+msgid "Has Archive"
+msgstr "Имеет архив"
+
+#: includes/controls/post-type-controls.php:530
+#: includes/controls/taxonomy-controls.php:387
+msgid "Hierarchical"
+msgstr "Иерархическая структура"
+
+#: includes/controls/post-type-controls.php:542
+msgid "Menu Position"
+msgstr "Положение в меню"
+
+#: includes/controls/post-type-controls.php:550
+msgid "Menu Icon"
+msgstr "Иконка меню"
+
+#: includes/controls/post-type-controls.php:566
+msgid "Supports"
+msgstr "Поддерживает"
+
+#: includes/controls/post-type-controls.php:581
+msgid "New Column"
+msgstr ""
+
+#: includes/controls/post-type-controls.php:597
+msgid "Meta Value"
+msgstr ""
+
+#: includes/controls/post-type-controls.php:598
+msgid "Post Terms"
+msgstr ""
+
+#: includes/controls/post-type-controls.php:599
+msgid "Custom Callback"
+msgstr ""
+
+#: includes/controls/post-type-controls.php:607
+msgid "Value from meta field"
+msgstr ""
+
+#: includes/controls/post-type-controls.php:621
+msgid "Callback function name"
+msgstr ""
+
+#: includes/controls/post-type-controls.php:628
+msgid "Column order"
+msgstr ""
+
+#: includes/controls/post-type-controls.php:635
+msgid "Value prefix"
+msgstr ""
+
+#: includes/controls/post-type-controls.php:642
+msgid "Value suffix"
+msgstr ""
+
+#: includes/controls/relation-controls.php:94
+msgid "Post type 1 (Parent)"
+msgstr "Тип поста 1 (Родительский)"
+
+#: includes/controls/relation-controls.php:103
+msgid "Post type 2 (Child)"
+msgstr "Тип поста 2 (Дочерний)"
+
+#: includes/controls/relation-controls.php:112
+msgid "Relation Type"
+msgstr "Тип связи"
+
+#: includes/controls/relation-controls.php:120
+msgid "Add metabox to parent page"
+msgstr "Добавить мета бокс на родительскую страницу"
+
+#: includes/controls/relation-controls.php:131
+msgid "Add metabox to child page"
+msgstr "Добавить мета бокс на дочернюю страницу"
+
+#: includes/controls/taxonomy-controls.php:133
+msgid "Post Type"
+msgstr "Тип записи"
+
+#: includes/controls/taxonomy-controls.php:197
+msgid "Update Item"
+msgstr "Обновить элемент"
+
+#: includes/controls/taxonomy-controls.php:205
+msgid "New Item Name"
+msgstr "Имя нового элемента"
+
+#: includes/controls/taxonomy-controls.php:221
+msgid "Parent item text"
+msgstr "Текст родительского элемента"
+
+#: includes/controls/taxonomy-controls.php:237
+msgid "The popular items text"
+msgstr "Текст популярных элементов"
+
+#: includes/controls/taxonomy-controls.php:245
+msgid "The separate item with commas text"
+msgstr "Текст, относящиийся к разделению элементов запятыми"
+
+#: includes/controls/taxonomy-controls.php:253
+msgid "The add or remove items text"
+msgstr "Текст, относящийся к добавлению или удалению элементов"
+
+#: includes/controls/taxonomy-controls.php:261
+msgid "The choose from most used text used"
+msgstr "Текст, относящийся к выбиранию из самых используемых, используется"
+
+#: includes/controls/taxonomy-controls.php:342
+msgid "Show in Rest API (allow tax in Gutenberg editor)"
+msgstr ""
+
+#: includes/cpt/data.php:73 includes/cpt/data.php:121
+#: includes/cpt/data.php:155 includes/listings/post-type.php:176
+#: includes/meta-boxes/data.php:43 includes/skins/import.php:32
+msgid "You don't have permissions to do this"
+msgstr "У вас нет для этого прав"
+
+#: includes/cpt/data.php:88
+msgid "Couldn't create item"
+msgstr "Не удалось создать элемент"
+
+#: includes/cpt/data.php:131 includes/meta-boxes/data.php:53
+msgid "Please provide item ID to delete"
+msgstr "Пожалуйста, предоставьте ID элемента, чтобы удалить"
+
+#: includes/cpt/data.php:170
+msgid "Item ID not passed"
+msgstr "ID элемента не принято"
+
+#: includes/cpt/data.php:183
+msgid "Couldn't update item"
+msgstr "Не удалось обновить элемент"
+
+#: includes/cpt/data.php:212
+msgid "Please set post type slug"
+msgstr "Пожалуйста, установите ярлык типа записи"
+
+#: includes/cpt/data.php:220
+msgid "Please set post type name"
+msgstr "Пожалуйста, установите имя типа записи"
+
+#: includes/cpt/data.php:228
+msgid "Please change post type slug. Current is reserved for WordPress needs"
+msgstr ""
+"Пожалуйста, измените ярлык типа записи, т.к. он уже используется для нужд "
+"WordPress"
+
+#: includes/cpt/manager.php:421 includes/cpt/manager.php:422
+msgid "Post Types"
+msgstr "Типы записей"
+
+#: includes/cpt/manager.php:490
+msgid "Close"
+msgstr "Закрыть"
+
+#: includes/cpt/manager.php:491
+msgid "Are you sure you want to delete this item?"
+msgstr "Вы уверены, что вы хотите удалить этот элемент?"
+
+#: includes/dashboard.php:42 includes/dashboard.php:43
+#: includes/dynamic-tags/module.php:21
+msgid "JetEngine"
+msgstr "JetEngine"
+
+#: includes/dashboard.php:92
+msgid "JetEngine Dashboard"
+msgstr "Панель управления JetEngine"
+
+#: includes/document-types/listing-item.php:14
+#: includes/listings/post-type.php:258
+msgid "Listing Item"
+msgstr "Листинг"
+
+#: includes/document-types/listing-item.php:24
+msgid "Listing Settings"
+msgstr "Настройки листинга"
+
+#: includes/document-types/listing-item.php:33
+msgid ""
+"<b>Please note:</b> You need to reload page after applying new source, "
+"changing post type or taxonomy. New meta fields and options for dynamic "
+"fields will be applied only after reloading."
+msgstr ""
+"<b>Обратите внимание:</b>Вам необходимо перезагрузить страницу после "
+"применения нового источника, изменения типа записи или таксономии. Новые "
+"метаполя и параметры для динамических полей будут применены только после "
+"перезагрузки."
+
+#: includes/document-types/listing-item.php:40 templates/listings-popup.php:14
+msgid "Listing source:"
+msgstr "Источник листинга:"
+
+#: includes/document-types/listing-item.php:45
+#: includes/listings/static-widgets/grid.php:424 includes/skins/import.php:279
+#: templates/listings-popup.php:17
+msgid "Terms"
+msgstr "Категории"
+
+#: includes/document-types/listing-item.php:53 templates/listings-popup.php:21
+msgid "From post type:"
+msgstr "Для типа записи:"
+
+#: includes/document-types/listing-item.php:65 templates/listings-popup.php:29
+msgid "From taxonomy:"
+msgstr "Для таксономии:"
+
+#: includes/document-types/listing-item.php:78
+msgid "Preview Width"
+msgstr "Ширина для предпросмотра"
+
+#: includes/dynamic-tags/tags/custom-field-tag.php:14
+msgid "Custom Field"
+msgstr "Кастомное поле"
+
+#: includes/dynamic-tags/tags/custom-field-tag.php:41
+#: includes/dynamic-tags/tags/custom-image-tag.php:32
+#: includes/listings/dynamic-widgets/dynamic-field.php:325
+#: includes/listings/static-widgets/grid.php:407
+msgid "Field"
+msgstr "Поле"
+
+#: includes/dynamic-tags/tags/custom-image-tag.php:14
+msgid "Custom Image"
+msgstr "Кастомное изображение"
+
+#: includes/dynamic-tags/tags/custom-image-tag.php:50
+msgid "Queried term thumbnial"
+msgstr "Миниатюра для избранной категории"
+
+#: includes/dynamic-tags/tags/custom-image-tag.php:51
+msgid "For taxonomy archives only"
+msgstr "Только для архивов таксономии"
+
+#: includes/dynamic-tags/tags/custom-image-tag.php:60
+msgid "Thumbnail meta key"
+msgstr "Мета ключ миниатюры"
+
+#: includes/dynamic-tags/tags/custom-image-tag.php:74
+msgid "Fallback"
+msgstr "Контент в случае отсутствия метаданных"
+
+#: includes/dynamic-tags/tags/custom-image-tag.php:159
+#: includes/listings/dynamic-widgets/dynamic-image.php:271
+msgid "Post thumbnail"
+msgstr "Миниатюра записи"
+
+#: includes/functions.php:70
+#: includes/listings/dynamic-widgets/dynamic-image.php:259
+#: includes/modules/calendar/calendar.php:101
+msgid "Full"
+msgstr "Полный"
+
+#: includes/list-tables/meta-boxes-list-table.php:19
+msgid "Object"
+msgstr "Объект"
+
+#: includes/list-tables/meta-boxes-list-table.php:20
+msgid "Where"
+msgstr "Где"
+
+#: includes/list-tables/post-types-list-table.php:19
+msgid "SLug"
+msgstr "Slug"
+
+#: includes/list-tables/relations-list-table.php:19
+msgid "Object 1"
+msgstr "Объект 1"
+
+#: includes/list-tables/relations-list-table.php:20
+msgid "Object 2"
+msgstr "Объект 2"
+
+#: includes/list-tables/relations-list-table.php:22
+msgid "Meta Key"
+msgstr "Мета ключ"
+
+#: includes/list-tables/relations-list-table.php:53
+#: includes/list-tables/relations-list-table.php:68
+msgid "Post type not exists"
+msgstr "Тип поста не существует"
+
+#: includes/list-tables/relations-list-table.php:93
+msgid "Relation not exists"
+msgstr "Связь не существует"
+
+#: includes/listings/data.php:398
+msgid "Post/Term Data"
+msgstr "Данные записи/категории"
+
+#: includes/listings/data.php:399
+msgid "Meta Data"
+msgstr "Метаданные"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:17
+msgid "Dynamic Field"
+msgstr "Dynamic Field"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:33
+#: includes/listings/dynamic-widgets/dynamic-field.php:609
+#: includes/listings/dynamic-widgets/dynamic-image.php:33
+#: includes/listings/dynamic-widgets/dynamic-link.php:31
+#: includes/listings/dynamic-widgets/dynamic-meta.php:34
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:34
+#: includes/listings/dynamic-widgets/dynamic-terms.php:33
+msgid "Content"
+msgstr "Контент"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:40
+#: includes/listings/dynamic-widgets/dynamic-image.php:40
+#: includes/listings/dynamic-widgets/dynamic-link.php:40
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:51
+msgid "Source"
+msgstr "Источник"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:50
+msgid "Object Field"
+msgstr "Поле объекта"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:67
+msgid "Meta Field"
+msgstr "Метаполе"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:88
+msgid "Or enter meta field key"
+msgstr "Или вставьте ключ метаполя"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:92
+#: includes/listings/dynamic-widgets/dynamic-image.php:111
+#: includes/listings/dynamic-widgets/dynamic-link.php:59
+msgid "Note: this filed will override Meta Field value"
+msgstr "Внимание: данные из этого поля изменят значение для исходного метаполя"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:102
+#: includes/listings/dynamic-widgets/dynamic-link.php:77
+msgid "Field Icon"
+msgstr "Иконка поля"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:113
+msgid "HTML tag"
+msgstr "HTML разметка"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:132
+msgid "Hide if value is empty"
+msgstr "Скрыть, если значение отсутствует"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:134
+#: includes/listings/dynamic-widgets/dynamic-field.php:147
+#: includes/listings/dynamic-widgets/dynamic-field.php:231
+#: includes/listings/dynamic-widgets/dynamic-field.php:247
+#: includes/listings/dynamic-widgets/dynamic-field.php:299
+#: includes/listings/dynamic-widgets/dynamic-image.php:79
+#: includes/listings/dynamic-widgets/dynamic-image.php:123
+#: includes/listings/dynamic-widgets/dynamic-link.php:109
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:201
+#: includes/listings/dynamic-widgets/dynamic-terms.php:52
+#: includes/listings/dynamic-widgets/dynamic-terms.php:89
+#: includes/listings/static-widgets/grid.php:74
+#: includes/listings/static-widgets/grid.php:648
+#: includes/modules/gallery-grid.php:196
+#: includes/modules/gallery-slider.php:351
+msgid "Yes"
+msgstr "Да"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:135
+#: includes/listings/dynamic-widgets/dynamic-field.php:148
+#: includes/listings/dynamic-widgets/dynamic-field.php:232
+#: includes/listings/dynamic-widgets/dynamic-field.php:248
+#: includes/listings/dynamic-widgets/dynamic-field.php:300
+#: includes/listings/dynamic-widgets/dynamic-image.php:80
+#: includes/listings/dynamic-widgets/dynamic-image.php:124
+#: includes/listings/dynamic-widgets/dynamic-image.php:140
+#: includes/listings/dynamic-widgets/dynamic-link.php:110
+#: includes/listings/dynamic-widgets/dynamic-link.php:123
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:202
+#: includes/listings/dynamic-widgets/dynamic-terms.php:53
+#: includes/listings/dynamic-widgets/dynamic-terms.php:90
+#: includes/listings/static-widgets/grid.php:75
+#: includes/listings/static-widgets/grid.php:649
+#: includes/modules/gallery-grid.php:197
+#: includes/modules/gallery-slider.php:352
+msgid "No"
+msgstr "Нет"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:145
+msgid "Filter field output"
+msgstr "Споcоб вывода поля"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:158
+msgid "Callback"
+msgstr "Callback"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:171
+#: includes/listings/dynamic-widgets/dynamic-meta.php:131
+msgid "Format"
+msgstr "Формат"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:178
+#: includes/listings/dynamic-widgets/dynamic-meta.php:134
+msgid "Documentation on date and time formatting"
+msgstr "Документация по форматированию даты и времени"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:185
+msgid "Decimal point"
+msgstr "Разделитель"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:188
+msgid "Sets the separator for the decimal point"
+msgstr "Установить десятичный разделитель"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:199
+msgid "Thousands separator"
+msgstr "Разделитель для тысячных"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:212
+msgid "Decimal points"
+msgstr "Десятичные разделители"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:218
+msgid "Sets the number of visible decimal points"
+msgstr "Установливает число видимых десятичных чисел"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:229
+msgid "Single value"
+msgstr "Одиночное значение"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:245
+msgid "Add links to related posts"
+msgstr "Добавить ссылки к похожим записям"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:261
+msgid "Related list HTML tag"
+msgstr "HTML тэг для списка похожих записей"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:279
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:392
+#: includes/listings/dynamic-widgets/dynamic-terms.php:77
+#: includes/listings/dynamic-widgets/dynamic-terms.php:374
+msgid "Delimiter"
+msgstr "Разделитель"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:297
+msgid "Customize field output"
+msgstr "Настроить вывод поля"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:310
+msgid "Field format"
+msgstr "Формат поля"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:313
+#, php-format
+msgid "%s will be replaced with field value"
+msgstr ""
+"%s используется для замены значения поля. Используйте разметку для "
+"форматирования."
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:334
+#: includes/listings/dynamic-widgets/dynamic-field.php:519
+#: includes/listings/dynamic-widgets/dynamic-meta.php:432
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:262
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:293
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:401
+#: includes/listings/dynamic-widgets/dynamic-terms.php:178
+#: includes/listings/dynamic-widgets/dynamic-terms.php:383
+#: includes/listings/dynamic-widgets/dynamic-terms.php:467
+#: includes/listings/dynamic-widgets/dynamic-terms.php:515
+#: includes/modules/gallery-grid.php:103 includes/modules/gallery-grid.php:123
+#: includes/modules/gallery-slider.php:83
+#: includes/modules/gallery-slider.php:103
+#: includes/modules/gallery-slider.php:227
+#: includes/modules/gallery-slider.php:270
+msgid "Color"
+msgstr "Цвет"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:353
+msgid "Field content width"
+msgstr "Ширина контента поля"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:357
+msgid "Auto"
+msgstr "Авто"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:358
+#: includes/listings/dynamic-widgets/dynamic-link.php:161
+msgid "Fullwidth"
+msgstr "По ширине"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:370
+msgid "Display"
+msgstr "Формат отображения"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:374
+#: includes/listings/dynamic-widgets/dynamic-meta.php:113
+msgid "Inline"
+msgstr "В строку"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:375
+msgid "Multiline"
+msgstr "Многострочный"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:383
+msgid "Widget Items Alignment"
+msgstr "Выравнивание элементов виджета"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:388
+#: includes/listings/dynamic-widgets/dynamic-field.php:418
+#: includes/listings/dynamic-widgets/dynamic-image.php:169
+#: includes/listings/dynamic-widgets/dynamic-link.php:149
+#: includes/listings/dynamic-widgets/dynamic-meta.php:247
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:158
+#: includes/listings/dynamic-widgets/dynamic-terms.php:146
+#: includes/modules/calendar/calendar.php:744
+#: includes/modules/calendar/calendar.php:770
+#: includes/modules/calendar/calendar.php:1031
+msgid "Left"
+msgstr "Слева"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:392
+#: includes/listings/dynamic-widgets/dynamic-field.php:422
+#: includes/listings/dynamic-widgets/dynamic-image.php:173
+#: includes/listings/dynamic-widgets/dynamic-link.php:153
+#: includes/listings/dynamic-widgets/dynamic-meta.php:251
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:162
+#: includes/listings/dynamic-widgets/dynamic-terms.php:150
+#: includes/modules/calendar/calendar.php:748
+#: includes/modules/calendar/calendar.php:774
+#: includes/modules/calendar/calendar.php:1035
+msgid "Center"
+msgstr "По центру"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:396
+#: includes/listings/dynamic-widgets/dynamic-field.php:426
+#: includes/listings/dynamic-widgets/dynamic-image.php:177
+#: includes/listings/dynamic-widgets/dynamic-link.php:157
+#: includes/listings/dynamic-widgets/dynamic-meta.php:255
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:166
+#: includes/listings/dynamic-widgets/dynamic-terms.php:154
+#: includes/modules/calendar/calendar.php:752
+#: includes/modules/calendar/calendar.php:778
+#: includes/modules/calendar/calendar.php:1039
+msgid "Right"
+msgstr "Справа"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:406
+msgid "Icon and field value. Affects to single line field values."
+msgstr "Значение иконки и поля. Влияет на значение полей одной строки."
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:413
+msgid "Field Content Alignment"
+msgstr "Выравнивание контента поля"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:436
+msgid "Field value. Affects to multiline field values."
+msgstr "Значение поля. Влияет на многострочные значения полей."
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:451
+#: includes/listings/dynamic-widgets/dynamic-link.php:289
+#: includes/listings/dynamic-widgets/dynamic-meta.php:367
+#: includes/listings/dynamic-widgets/dynamic-meta.php:570
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:363
+#: includes/listings/dynamic-widgets/dynamic-terms.php:318
+#: includes/modules/calendar/calendar.php:175
+#: includes/modules/calendar/calendar.php:471
+#: includes/modules/calendar/calendar.php:564
+#: includes/modules/calendar/calendar.php:852
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:464
+#: includes/listings/dynamic-widgets/dynamic-link.php:301
+#: includes/listings/dynamic-widgets/dynamic-meta.php:379
+#: includes/listings/dynamic-widgets/dynamic-meta.php:582
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:378
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:412
+#: includes/listings/dynamic-widgets/dynamic-terms.php:330
+#: includes/modules/calendar/calendar.php:187
+#: includes/modules/calendar/calendar.php:864
+msgid "Margin"
+msgstr "Внешний отступ"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:478
+#: includes/listings/dynamic-widgets/dynamic-image.php:202
+#: includes/listings/dynamic-widgets/dynamic-link.php:314
+#: includes/listings/dynamic-widgets/dynamic-meta.php:392
+#: includes/listings/dynamic-widgets/dynamic-meta.php:595
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:334
+#: includes/listings/dynamic-widgets/dynamic-terms.php:343
+#: includes/modules/calendar/calendar.php:200
+#: includes/modules/calendar/calendar.php:293
+#: includes/modules/calendar/calendar.php:324
+#: includes/modules/calendar/calendar.php:831
+msgid "Border"
+msgstr "Граница"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:487
+#: includes/listings/dynamic-widgets/dynamic-image.php:211
+#: includes/listings/dynamic-widgets/dynamic-link.php:323
+#: includes/listings/dynamic-widgets/dynamic-meta.php:401
+#: includes/listings/dynamic-widgets/dynamic-meta.php:604
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:343
+#: includes/listings/dynamic-widgets/dynamic-terms.php:352
+#: includes/modules/calendar/calendar.php:209
+#: includes/modules/calendar/calendar.php:302
+#: includes/modules/calendar/calendar.php:333
+#: includes/modules/calendar/calendar.php:529
+#: includes/modules/calendar/calendar.php:641
+#: includes/modules/calendar/calendar.php:840
+msgid "Border Radius"
+msgstr "Скругление углов"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:510
+#: includes/listings/dynamic-widgets/dynamic-meta.php:57
+#: includes/listings/dynamic-widgets/dynamic-meta.php:423
+#: includes/listings/dynamic-widgets/dynamic-terms.php:169
+msgid "Icon"
+msgstr "Иконка"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:530
+#: includes/listings/dynamic-widgets/dynamic-meta.php:443
+#: includes/listings/dynamic-widgets/dynamic-terms.php:189
+#: includes/listings/dynamic-widgets/dynamic-terms.php:394
+msgid "Size"
+msgstr "Размер"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:548
+#: includes/listings/dynamic-widgets/dynamic-meta.php:461
+#: includes/listings/dynamic-widgets/dynamic-terms.php:207
+#: includes/listings/dynamic-widgets/dynamic-terms.php:478
+#: includes/listings/dynamic-widgets/dynamic-terms.php:526
+msgid "Gap"
+msgstr "Отступ"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:568
+msgid "Misc"
+msgstr "Разное"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:618
+msgid "Term name"
+msgstr "Заголовок категории"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:619
+msgid "Term description"
+msgstr "Описание категории"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:620
+msgid "Posts count"
+msgstr "Количество записей"
+
+#: includes/listings/dynamic-widgets/dynamic-field.php:722
+msgid ""
+"<strong>Warning:</strong> Error appears on callback applying. Please select "
+"other callback to filter field value."
+msgstr ""
+"<strong>Предупреждение:</strong> Возникает ошибка при использовании "
+"callback. Выберите другой callback, для вывода значения поля."
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:17
+msgid "Dynamic Image"
+msgstr "Dynamic Image"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:55
+msgid "Or enter custom meta field key"
+msgstr "Или введите ключ кастомного метаполя"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:59
+msgid "Note: this filed will override Source value"
+msgstr "Внимание: это поле отменит исходное значение"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:66
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:70
+msgid "Note: this option will work only if image stored as attachment ID"
+msgstr ""
+"Внимание: эта опция сработает только в том случае, если изображение будет "
+"сохранено как прикреплённый ID"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:77
+msgid "Linked image"
+msgstr "Изображение со ссылкой"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:89
+msgid "Link Source"
+msgstr "Источник ссылки"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:107
+#: includes/listings/dynamic-widgets/dynamic-link.php:55
+msgid "Or enter post meta field key"
+msgstr "Или введите ключ метаполя записи"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:121
+#: includes/listings/dynamic-widgets/dynamic-link.php:107
+msgid "Open in new window"
+msgstr "Открыть в новом окне"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:136
+#: includes/listings/dynamic-widgets/dynamic-link.php:119
+msgid "Add \"rel\" attr"
+msgstr "Добавить \"rel\" аттрибут"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:141
+#: includes/listings/dynamic-widgets/dynamic-link.php:124
+msgid "Alternate"
+msgstr "Alternate"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:143
+#: includes/listings/dynamic-widgets/dynamic-link.php:126
+msgid "Bookmark"
+msgstr "Bookmark"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:144
+#: includes/listings/dynamic-widgets/dynamic-link.php:127
+msgid "External"
+msgstr "External"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:145
+#: includes/listings/dynamic-widgets/dynamic-link.php:128
+msgid "Help"
+msgstr "Help"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:146
+#: includes/listings/dynamic-widgets/dynamic-link.php:129
+msgid "License"
+msgstr "License"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:147
+#: includes/listings/dynamic-widgets/dynamic-link.php:130
+msgid "Next"
+msgstr "Next"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:148
+#: includes/listings/dynamic-widgets/dynamic-link.php:131
+msgid "Nofollow"
+msgstr "Nofollow"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:149
+#: includes/listings/dynamic-widgets/dynamic-link.php:132
+msgid "Noreferrer"
+msgstr "Noreferrer"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:150
+#: includes/listings/dynamic-widgets/dynamic-link.php:133
+msgid "Noopener"
+msgstr "Noopener"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:151
+#: includes/listings/dynamic-widgets/dynamic-link.php:134
+msgid "Prev"
+msgstr "Prev"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:152
+#: includes/listings/dynamic-widgets/dynamic-link.php:135
+msgid "Search"
+msgstr "Search"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:153
+#: includes/listings/dynamic-widgets/dynamic-link.php:136
+msgid "Tag"
+msgstr "Tag"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:164
+#: includes/listings/dynamic-widgets/dynamic-link.php:144
+#: includes/listings/dynamic-widgets/dynamic-meta.php:242
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:153
+#: includes/listings/dynamic-widgets/dynamic-terms.php:141
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:192
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/listings/dynamic-widgets/dynamic-image.php:275
+#: includes/listings/dynamic-widgets/dynamic-link.php:439
+msgid "Permalink"
+msgstr "Постоянная ссылка"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:15
+msgid "Dynamic Link"
+msgstr "Dynamic Link"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:68
+msgid "Read More"
+msgstr "Читать далее"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:69
+msgid "You can use next macros in this field: "
+msgstr "Вы можете использовать следующие макросы в этом поле: "
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:88
+msgid "HTML wrapper"
+msgstr "HTML обертка"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:195
+#: includes/listings/dynamic-widgets/dynamic-meta.php:289
+#: includes/listings/dynamic-widgets/dynamic-meta.php:492
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:255
+#: includes/listings/dynamic-widgets/dynamic-terms.php:246
+#: includes/modules/calendar/calendar.php:351
+#: includes/modules/calendar/calendar.php:667
+msgid "Normal"
+msgstr "Стандарт"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:210
+#: includes/listings/dynamic-widgets/dynamic-link.php:249
+#: includes/listings/dynamic-widgets/dynamic-meta.php:307
+#: includes/listings/dynamic-widgets/dynamic-meta.php:338
+#: includes/listings/dynamic-widgets/dynamic-meta.php:510
+#: includes/listings/dynamic-widgets/dynamic-meta.php:541
+#: includes/listings/dynamic-widgets/dynamic-terms.php:261
+#: includes/listings/dynamic-widgets/dynamic-terms.php:289
+#: includes/modules/calendar/calendar.php:358
+#: includes/modules/calendar/calendar.php:390
+#: includes/modules/calendar/calendar.php:452
+#: includes/modules/calendar/calendar.php:674
+#: includes/modules/calendar/calendar.php:705
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:221
+#: includes/listings/dynamic-widgets/dynamic-link.php:260
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:234
+#: includes/listings/dynamic-widgets/dynamic-meta.php:320
+#: includes/listings/dynamic-widgets/dynamic-meta.php:523
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:286
+#: includes/listings/dynamic-widgets/dynamic-terms.php:274
+#: includes/modules/calendar/calendar.php:383
+#: includes/modules/gallery-slider.php:259
+msgid "Hover"
+msgstr "При наведении"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:271
+#: includes/listings/dynamic-widgets/dynamic-meta.php:349
+#: includes/listings/dynamic-widgets/dynamic-meta.php:552
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:315
+#: includes/listings/dynamic-widgets/dynamic-terms.php:300
+#: includes/modules/calendar/calendar.php:412
+#: includes/modules/calendar/calendar.php:496
+#: includes/modules/calendar/calendar.php:630
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:343
+msgid "Icon Position"
+msgstr "Положение иконки"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:347
+msgid "Before Label"
+msgstr "Перед ярлыком"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:348
+msgid "After Label"
+msgstr "После ярлыка"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:359
+msgid "Icon Size"
+msgstr "Размер иконки"
+
+#: includes/listings/dynamic-widgets/dynamic-link.php:377
+#: includes/listings/dynamic-widgets/dynamic-link.php:398
+msgid "Icon Gap"
+msgstr "Отступ от иконки"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:18
+msgid "Dynamic Meta"
+msgstr "Dynamic Meta"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:68
+#: includes/listings/dynamic-widgets/dynamic-meta.php:626
+msgid "Prefix"
+msgstr "Префикс"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:77
+#: includes/listings/dynamic-widgets/dynamic-meta.php:673
+msgid "Suffix"
+msgstr "Суффикс"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:109
+#: includes/modules/calendar/calendar.php:130
+msgid "Layout"
+msgstr "Макет"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:114
+msgid "List"
+msgstr "Список"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:124
+msgid "Date Settings"
+msgstr "Настройки даты"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:141
+#: includes/listings/dynamic-widgets/dynamic-meta.php:164
+#: includes/listings/dynamic-widgets/dynamic-meta.php:187
+msgid "Link"
+msgstr "Ссылка"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:145
+msgid "Archive"
+msgstr "Archive"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:147
+#: includes/listings/dynamic-widgets/dynamic-meta.php:170
+#: includes/listings/dynamic-widgets/dynamic-meta.php:192
+#: includes/listings/static-widgets/grid.php:301
+#: includes/listings/static-widgets/grid.php:624
+msgid "None"
+msgstr "Отсутствует"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:157
+msgid "Author Settings"
+msgstr "Настройки автора"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:168
+msgid "Author Archives"
+msgstr "Архивы автора"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:180
+msgid "Comments Settings"
+msgstr "Настройки комментариев"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:200
+msgid "Zero Comments Format"
+msgstr "Формат отсутствия комментариев"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:210
+msgid "One Comments Format"
+msgstr "Формат одного комментария"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:220
+msgid "More Comments Format"
+msgstr "Формат большего количества комментариев"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:224
+#, php-format
+msgid "Use % for comments number"
+msgstr "Использовать  % f - вместо количества комментариев"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:270
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:190
+msgid "Items"
+msgstr "Элементы"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:296
+#: includes/listings/dynamic-widgets/dynamic-meta.php:327
+#: includes/listings/dynamic-widgets/dynamic-meta.php:499
+#: includes/listings/dynamic-widgets/dynamic-meta.php:530
+#: includes/modules/calendar/calendar.php:145
+#: includes/modules/calendar/calendar.php:370
+#: includes/modules/calendar/calendar.php:401
+#: includes/modules/calendar/calendar.php:441
+#: includes/modules/calendar/calendar.php:553
+#: includes/modules/calendar/calendar.php:685
+#: includes/modules/calendar/calendar.php:716
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:481
+msgid "Items Value"
+msgstr "Значение элементов"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:635
+#: includes/listings/dynamic-widgets/dynamic-meta.php:682
+#: includes/listings/dynamic-widgets/dynamic-terms.php:412
+msgid "Left Gap"
+msgstr "Отступ слева"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:653
+#: includes/listings/dynamic-widgets/dynamic-meta.php:700
+#: includes/listings/dynamic-widgets/dynamic-terms.php:430
+msgid "Right Gap"
+msgstr "Отступ справа"
+
+#: includes/listings/dynamic-widgets/dynamic-meta.php:991
+#: includes/listings/dynamic-widgets/dynamic-terms.php:680
+msgid ""
+"Dynamic Terms widget allowed only for Posts listing source or in Post context"
+msgstr ""
+"Виджет динамических категорий может применяться только для листингов записей "
+"или в контексте записи"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:18
+msgid "Dynamic Repeater"
+msgstr "Dynamic Repeater"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:42
+msgid ""
+"<b>Note</b> this widget could process only repeater meta fields created with "
+"JetThemeCore or ACF plugins"
+msgstr ""
+"<b>Внимание</b> этот виджет может обрабатывать только метаполя формата "
+"Repeater созданные с помощью плагинов JetThemeCore или ACF"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:66
+msgid "Item format"
+msgstr "Формат элемента"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:69
+msgid "You can render repeater fields values with macros %repeater field name%"
+msgstr ""
+"Вы можете отображать значение полей Repeater с использованием макроса "
+"%заголовок поля Repeater%"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:76
+msgid "Item HTML tag"
+msgstr "HTML тэг элемента"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:90
+msgid "Items delimiter"
+msgstr "Разделитель элементов"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:99
+msgid "Before items markup"
+msgstr "Разметка перед элементами"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:102
+msgid "HTML to output before repeater items"
+msgstr "HTML  перед элементами Repeater"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:109
+msgid "After items markup"
+msgstr "Разметка после элементов"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:112
+msgid "HTML to output after repeater items"
+msgstr "HTML после элементов Repeater"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:130
+msgid "Direction"
+msgstr "Направление"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:135
+msgid "Horizontal"
+msgstr "Горизонтальное"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:139
+msgid "Vertical"
+msgstr "Вертикальное"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:199
+msgid "Fixed item size"
+msgstr "Фиксированый размер элемента"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:211
+msgid "Item Width"
+msgstr "Ширина элемента"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:232
+msgid "Item Height"
+msgstr "Высота элемента"
+
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:273
+#: includes/listings/dynamic-widgets/dynamic-repeater.php:304
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: includes/listings/dynamic-widgets/dynamic-terms.php:17
+msgid "Dynamic Terms"
+msgstr "Dynamic Terms"
+
+#: includes/listings/dynamic-widgets/dynamic-terms.php:40
+msgid "From taxonomy"
+msgstr "Из таксономии"
+
+#: includes/listings/dynamic-widgets/dynamic-terms.php:50
+msgid "Show all terms"
+msgstr "Показать все категории"
+
+#: includes/listings/dynamic-widgets/dynamic-terms.php:62
+msgid "Terms number to show"
+msgstr "Показывать количество категорий"
+
+#: includes/listings/dynamic-widgets/dynamic-terms.php:86
+msgid "Linked terms"
+msgstr ""
+
+#: includes/listings/dynamic-widgets/dynamic-terms.php:87
+msgid "Terms labels are linked to term archive page"
+msgstr ""
+
+#: includes/listings/dynamic-widgets/dynamic-terms.php:99
+msgid "Terms Icon"
+msgstr "Иконка категорий"
+
+#: includes/listings/dynamic-widgets/dynamic-terms.php:110
+msgid "Text before terms list"
+msgstr ""
+
+#: includes/listings/dynamic-widgets/dynamic-terms.php:120
+msgid "Text after terms list"
+msgstr ""
+
+#: includes/listings/dynamic-widgets/dynamic-terms.php:450
+msgid "Text before"
+msgstr ""
+
+#: includes/listings/dynamic-widgets/dynamic-terms.php:498
+msgid "Text after"
+msgstr ""
+
+#: includes/listings/manager.php:181
+msgid "Listing Elements"
+msgstr "Listing Elements"
+
+#: includes/listings/manager.php:374
+msgid "Format date"
+msgstr "Форматирование  даты"
+
+#: includes/listings/manager.php:375
+msgid "Format date (localized)"
+msgstr ""
+
+#: includes/listings/manager.php:376
+msgid "Format number"
+msgstr "Форматирование числа"
+
+#: includes/listings/manager.php:377
+msgid "Get post/page link"
+msgstr "Вставить ссылку на пост/страницу"
+
+#: includes/listings/manager.php:378
+msgid "Get term link"
+msgstr "Вставить ссылку на категорию"
+
+#: includes/listings/manager.php:379
+msgid "Embed URL"
+msgstr "Вставить URL-адрес"
+
+#: includes/listings/manager.php:380
+msgid "Make clickable"
+msgstr "Сделать активным при клике"
+
+#: includes/listings/manager.php:381
+msgid "Embed icon from Iconpicker"
+msgstr "Вставить иконку из Iconpicker"
+
+#: includes/listings/manager.php:382
+msgid "Multiple select field values"
+msgstr "Множественные значения полей формата select"
+
+#: includes/listings/manager.php:383
+msgid "Checkbox field values"
+msgstr "Значения поля чекбокса"
+
+#: includes/listings/manager.php:384
+msgid "Get post titles from IDs"
+msgstr "Получить заголовки записи из ID"
+
+#: includes/listings/manager.php:385
+msgid "Related posts list"
+msgstr "Список похожих записей"
+
+#: includes/listings/manager.php:386
+msgid "Get image by ID"
+msgstr "Получить изображение по ID"
+
+#: includes/listings/post-type.php:91
+msgid ""
+"You need an <b>Elementor Page Builder</b> plugin to create and edit listing "
+"items"
+msgstr ""
+"Для создания и редактирования листингов необходим плагин <b>Elementor Page "
+"Builder</b>"
+
+#: includes/listings/post-type.php:95
+msgid "Install Elementor Page Builder"
+msgstr "Установить Elementor Page Builder"
+
+#: includes/listings/post-type.php:177 includes/listings/post-type.php:194
+#: includes/listings/post-type.php:220
+msgid "Error"
+msgstr "Ошибка"
+
+#: includes/listings/post-type.php:183
+msgid ""
+"Please install <a href=\"https://wordpress.org/plugins/elementor/\" target="
+"\"_blank\">Elementor page builder</a> to manage listings layout"
+msgstr ""
+"Пожалуйста, установите <a href=\"https://wordpress.org/plugins/elementor/\" "
+"target=\"_blank\">Elementor page builder</a> для управления макетами "
+"листингов"
+
+#: includes/listings/post-type.php:184
+msgid "Elementor missed"
+msgstr "Не хватает Elementor"
+
+#: includes/listings/post-type.php:193
+msgid "Incorrect template type. Please try again."
+msgstr "Неправильный тип шаблона. Пожалуйста, попытайтесь снова."
+
+#: includes/listings/post-type.php:219
+msgid "Can't create template. Please try again"
+msgstr "Не удалось создать шаблон. Пожалуйста, попытайтесь снова"
+
+#: includes/listings/post-type.php:257
+msgid "Listing Items"
+msgstr "Листинги"
+
+#: includes/listings/post-type.php:264
+msgid "Search Item"
+msgstr "Найти листинг"
+
+#: includes/listings/post-type.php:265
+msgid "No Templates Found"
+msgstr "Шаблоны не найдены"
+
+#: includes/listings/post-type.php:266
+msgid "No Templates Found In Trash"
+msgstr "Шаблоны не найдены в корзине"
+
+#: includes/listings/post-type.php:267
+msgid "My Library"
+msgstr "Моя библиотека"
+
+#: includes/listings/post-type.php:295 includes/listings/post-type.php:296
+#: includes/skins/export.php:476 includes/skins/import.php:215
+msgid "Listings"
+msgstr "Листинги"
+
+#: includes/listings/static-widgets/grid.php:21
+msgid "Listing Grid"
+msgstr ""
+
+#: includes/listings/static-widgets/grid.php:44
+#: includes/modules/calendar/calendar.php:59
+msgid "Listing"
+msgstr "Листинг"
+
+#: includes/listings/static-widgets/grid.php:54
+msgid "Columns Number"
+msgstr "Количество колонок"
+
+#: includes/listings/static-widgets/grid.php:71
+msgid "Use as Archive Template"
+msgstr "Использовать как Archive Template"
+
+#: includes/listings/static-widgets/grid.php:84
+msgid "Posts number"
+msgstr "Количество записей"
+
+#: includes/listings/static-widgets/grid.php:99
+msgid "Not found message"
+msgstr "Сообщение в случае отсутствия данных"
+
+#: includes/listings/static-widgets/grid.php:101
+msgid "No data was found"
+msgstr "Данные не найдены"
+
+#: includes/listings/static-widgets/grid.php:115
+msgid "Posts Query"
+msgstr "Запрос записей"
+
+#: includes/listings/static-widgets/grid.php:123
+#: includes/listings/static-widgets/grid.php:584
+msgid "Set advanced query parameters"
+msgstr "Задать расширенные параметры query"
+
+#: includes/listings/static-widgets/grid.php:131
+#: includes/listings/static-widgets/grid.php:593
+msgid ""
+"You select <b>Use as Archive Template</b> option, so other query parameters "
+"will be ignored"
+msgstr ""
+"Вы выбираете опцию <b>Использовать как Archive Template</b>, поэтому другие "
+"параметры будут проигнорированы"
+
+#: includes/listings/static-widgets/grid.php:147
+msgid "Posts Parameters"
+msgstr "Параметры записей"
+
+#: includes/listings/static-widgets/grid.php:148
+msgid "Order & Offset"
+msgstr "Порядок и оффсет"
+
+#: includes/listings/static-widgets/grid.php:149
+msgid "Tax Query"
+msgstr "Query таксономий"
+
+#: includes/listings/static-widgets/grid.php:150
+#: includes/listings/static-widgets/grid.php:702
+msgid "Meta Query"
+msgstr "Query метаданных"
+
+#: includes/listings/static-widgets/grid.php:151
+msgid "Date Query"
+msgstr "Query по дате"
+
+#: includes/listings/static-widgets/grid.php:159
+msgid "Column"
+msgstr "Колонка"
+
+#: includes/listings/static-widgets/grid.php:163
+msgid "Post date"
+msgstr "Дата записи"
+
+#: includes/listings/static-widgets/grid.php:164
+msgid "Post date GMT"
+msgstr "Дата записи GMT"
+
+#: includes/listings/static-widgets/grid.php:165
+msgid "Post modified"
+msgstr "Дата изменения записи"
+
+#: includes/listings/static-widgets/grid.php:166
+msgid "Post modified GMT"
+msgstr "Дата изменения записи GMT"
+
+#: includes/listings/static-widgets/grid.php:177
+msgid "After"
+msgstr "После"
+
+#: includes/listings/static-widgets/grid.php:180
+msgid "Date to retrieve posts after. Accepts strtotime()-compatible string"
+msgstr ""
+"Дата, после которой отображать записи. Работает с strtotime()-compatible "
+"string"
+
+#: includes/listings/static-widgets/grid.php:191
+msgid "Before"
+msgstr "До"
+
+#: includes/listings/static-widgets/grid.php:194
+msgid "Date to retrieve posts before. Accepts strtotime()-compatible string"
+msgstr ""
+"Дата, до которой отображать записи. Работает с strtotime()-compatible string"
+
+#: includes/listings/static-widgets/grid.php:205
+msgid "Include posts by IDs"
+msgstr "Включить записи по ID"
+
+#: includes/listings/static-widgets/grid.php:208
+#: includes/listings/static-widgets/grid.php:234
+msgid "Eg. 12, 24, 33"
+msgstr "Например: 12, 24, 33"
+
+#: includes/listings/static-widgets/grid.php:218
+msgid "Exclude posts by IDs"
+msgstr "Исключить записи по ID"
+
+#: includes/listings/static-widgets/grid.php:221
+msgid ""
+"Eg. 12, 24, 33. If this is used in the same query as Include posts by IDs, "
+"it will be ignored"
+msgstr ""
+"Например: 12, 24, 33. Если используется в одном и том же запросе, что и "
+"включенные записи по ID, то будет проигнорировано"
+
+#: includes/listings/static-widgets/grid.php:231
+msgid "Get child of"
+msgstr "Отображать дочерние записи для"
+
+#: includes/listings/static-widgets/grid.php:244
+msgid "Get posts with status"
+msgstr "Отображать записи со статусом"
+
+#: includes/listings/static-widgets/grid.php:248
+msgid "Publish"
+msgstr "Publish"
+
+#: includes/listings/static-widgets/grid.php:249
+msgid "Pending"
+msgstr "Pending"
+
+#: includes/listings/static-widgets/grid.php:250
+msgid "Draft"
+msgstr "Draft"
+
+#: includes/listings/static-widgets/grid.php:251
+msgid "Auto draft"
+msgstr "Auto draft"
+
+#: includes/listings/static-widgets/grid.php:252
+msgid "Future"
+msgstr "Future"
+
+#: includes/listings/static-widgets/grid.php:253
+msgid "Private"
+msgstr "Private"
+
+#: includes/listings/static-widgets/grid.php:254
+msgid "Trash"
+msgstr "Trash"
+
+#: includes/listings/static-widgets/grid.php:255
+msgid "Any"
+msgstr "Любые"
+
+#: includes/listings/static-widgets/grid.php:266
+msgid "Posts offset"
+msgstr "Отступ записей"
+
+#: includes/listings/static-widgets/grid.php:281
+#: includes/listings/static-widgets/grid.php:632
+msgid "Order"
+msgstr "Порядок"
+
+#: includes/listings/static-widgets/grid.php:285
+#: includes/listings/static-widgets/grid.php:636
+msgid "ASC"
+msgstr "ASC"
+
+#: includes/listings/static-widgets/grid.php:286
+#: includes/listings/static-widgets/grid.php:637
+msgid "DESC"
+msgstr "DESC"
+
+#: includes/listings/static-widgets/grid.php:297
+msgid "Order by"
+msgstr "Упорядочить по"
+
+#: includes/listings/static-widgets/grid.php:302
+msgid "ID"
+msgstr "ID"
+
+#: includes/listings/static-widgets/grid.php:308
+msgid "Modified"
+msgstr "Дата изменения"
+
+#: includes/listings/static-widgets/grid.php:309
+#: includes/listings/static-widgets/grid.php:622
+msgid "Parent"
+msgstr "Родительская запись"
+
+#: includes/listings/static-widgets/grid.php:310
+msgid "Rand"
+msgstr "В случайном порядке"
+
+#: includes/listings/static-widgets/grid.php:311
+msgid "Comment count"
+msgstr "Количество комментариев"
+
+#: includes/listings/static-widgets/grid.php:312
+msgid "Relevance"
+msgstr "Актуальность"
+
+#: includes/listings/static-widgets/grid.php:313
+msgid "Menu order"
+msgstr "Порядок меню"
+
+#: includes/listings/static-widgets/grid.php:314
+msgid "Meta value"
+msgstr "Значение метаданных"
+
+#: includes/listings/static-widgets/grid.php:325
+msgid "Meta key to order"
+msgstr "Введите мета ключ чтоб упорядочить"
+
+#: includes/listings/static-widgets/grid.php:329
+msgid "Set meta field name to order by"
+msgstr ""
+"Введите имя мета ключа для того чтобы упорядочить посты используя его "
+"значения"
+
+#: includes/listings/static-widgets/grid.php:340
+msgid "Meta type"
+msgstr "Тип метаданных"
+
+#: includes/listings/static-widgets/grid.php:344
+#: includes/listings/static-widgets/grid.php:889
+msgid "NUMERIC"
+msgstr "NUMERIC"
+
+#: includes/listings/static-widgets/grid.php:345
+#: includes/listings/static-widgets/grid.php:891
+msgid "CHAR"
+msgstr "CHAR"
+
+#: includes/listings/static-widgets/grid.php:346
+#: includes/listings/static-widgets/grid.php:892
+msgid "DATE"
+msgstr "DATE"
+
+#: includes/listings/static-widgets/grid.php:347
+#: includes/listings/static-widgets/grid.php:893
+msgid "DATETIME"
+msgstr "DATETIME"
+
+#: includes/listings/static-widgets/grid.php:348
+#: includes/listings/static-widgets/grid.php:894
+msgid "DECIMAL"
+msgstr "DECIMAL"
+
+#: includes/listings/static-widgets/grid.php:373
+msgid "Taxonomy from meta field"
+msgstr "Таксономия из метаполя"
+
+#: includes/listings/static-widgets/grid.php:377
+msgid "Get taxonomy name from current page meta field"
+msgstr "Получить имя таксономии из метаполя текущей страницы"
+
+#: includes/listings/static-widgets/grid.php:388
+#: includes/listings/static-widgets/grid.php:463
+#: includes/listings/static-widgets/grid.php:722
+msgid "Operator"
+msgstr "Оператор"
+
+#: includes/listings/static-widgets/grid.php:391
+msgid "IN"
+msgstr "IN"
+
+#: includes/listings/static-widgets/grid.php:392
+msgid "NOT IN"
+msgstr "NOT IN"
+
+#: includes/listings/static-widgets/grid.php:393
+#: includes/listings/static-widgets/grid.php:544
+#: includes/listings/static-widgets/grid.php:557
+#: includes/listings/static-widgets/grid.php:780
+msgid "AND"
+msgstr "AND"
+
+#: includes/listings/static-widgets/grid.php:394
+msgid "EXISTS"
+msgstr "EXISTS"
+
+#: includes/listings/static-widgets/grid.php:395
+msgid "NOT EXISTS"
+msgstr "NOT EXISTS"
+
+#: includes/listings/static-widgets/grid.php:410
+#: includes/listings/static-widgets/grid.php:620
+msgid "Term ID"
+msgstr "ID категории"
+
+#: includes/listings/static-widgets/grid.php:437
+msgid "Terms from meta field"
+msgstr "Категории из метаполей"
+
+#: includes/listings/static-widgets/grid.php:441
+msgid "Get terms IDs from current page meta field"
+msgstr "Получить ID категорий из метаполей текущей страницы"
+
+#: includes/listings/static-widgets/grid.php:451
+#: includes/listings/static-widgets/grid.php:713
+msgid "Key (name/ID)"
+msgstr "Ключ (имя/ID)"
+
+#: includes/listings/static-widgets/grid.php:467
+#: includes/listings/static-widgets/grid.php:726
+msgid "Equal"
+msgstr "Equal"
+
+#: includes/listings/static-widgets/grid.php:468
+#: includes/listings/static-widgets/grid.php:727
+msgid "Not equal"
+msgstr "Not equal"
+
+#: includes/listings/static-widgets/grid.php:469
+#: includes/listings/static-widgets/grid.php:728
+msgid "Greater than"
+msgstr "Greater than"
+
+#: includes/listings/static-widgets/grid.php:470
+#: includes/listings/static-widgets/grid.php:729
+msgid "Greater or equal"
+msgstr "Greater or equal"
+
+#: includes/listings/static-widgets/grid.php:471
+#: includes/listings/static-widgets/grid.php:730
+msgid "Less than"
+msgstr "Less than"
+
+#: includes/listings/static-widgets/grid.php:472
+#: includes/listings/static-widgets/grid.php:731
+msgid "Equal or less"
+msgstr "Equal or less"
+
+#: includes/listings/static-widgets/grid.php:473
+#: includes/listings/static-widgets/grid.php:732
+msgid "Like"
+msgstr "Like"
+
+#: includes/listings/static-widgets/grid.php:474
+#: includes/listings/static-widgets/grid.php:733
+msgid "Not like"
+msgstr "Not like"
+
+#: includes/listings/static-widgets/grid.php:475
+#: includes/listings/static-widgets/grid.php:734
+msgid "In"
+msgstr "In"
+
+#: includes/listings/static-widgets/grid.php:476
+#: includes/listings/static-widgets/grid.php:735
+msgid "Not in"
+msgstr "Not in"
+
+#: includes/listings/static-widgets/grid.php:477
+#: includes/listings/static-widgets/grid.php:736
+msgid "Between"
+msgstr "Between"
+
+#: includes/listings/static-widgets/grid.php:478
+#: includes/listings/static-widgets/grid.php:737
+msgid "Not between"
+msgstr "Not between"
+
+#: includes/listings/static-widgets/grid.php:493
+#: includes/listings/static-widgets/grid.php:749
+msgid ""
+"For <b>In</b>, <b>Not in</b>, <b>Between</b> and <b>Not between</b> compare "
+"separate multiple values with comma"
+msgstr ""
+"Для <b>In</b>, <b>Not in</b>, <b>Between</b> и <b>Not between</b>сравнений "
+"задайте отдельные значения через запятую"
+
+#: includes/listings/static-widgets/grid.php:503
+msgid "Or get value from query variable"
+msgstr "Или получите значение из переменной запроса"
+
+#: includes/listings/static-widgets/grid.php:507
+msgid ""
+"Set query variable name (from URL or WordPress query var) to get value from"
+msgstr ""
+"Задайте имя переменной запроса (из URL или запроса WordPress var), чтобы "
+"получить ее значение"
+
+#: includes/listings/static-widgets/grid.php:540
+#: includes/listings/static-widgets/grid.php:776
+msgid "Meta query relation"
+msgstr "Отношение мета-запросов"
+
+#: includes/listings/static-widgets/grid.php:545
+#: includes/listings/static-widgets/grid.php:558
+#: includes/listings/static-widgets/grid.php:781
+msgid "OR"
+msgstr "OR"
+
+#: includes/listings/static-widgets/grid.php:553
+msgid "Tax query relation"
+msgstr "Отношение запросов категорий"
+
+#: includes/listings/static-widgets/grid.php:576
+msgid "Terms Query"
+msgstr "Query категорий"
+
+#: includes/listings/static-widgets/grid.php:603
+msgid "Get terms of posts"
+msgstr "Получить категории записей"
+
+#: includes/listings/static-widgets/grid.php:613
+msgid "Order By"
+msgstr "Упорядочить по"
+
+#: includes/listings/static-widgets/grid.php:619
+msgid "Term Group"
+msgstr "Группа категорий"
+
+#: includes/listings/static-widgets/grid.php:621
+msgid "Description"
+msgstr "Описание"
+
+#: includes/listings/static-widgets/grid.php:623
+msgid "Count"
+msgstr "Количество"
+
+#: includes/listings/static-widgets/grid.php:645
+msgid "Hide empty"
+msgstr "Скрывать в случае отсутствия данных"
+
+#: includes/listings/static-widgets/grid.php:658
+msgid "Include terms"
+msgstr "Включить категории"
+
+#: includes/listings/static-widgets/grid.php:662
+msgid "Comma/space-separated string of term ids to include"
+msgstr ""
+"Чтобы включить, введите ID категорий в одну строку, разделяя их запятой / "
+"пробелом"
+
+#: includes/listings/static-widgets/grid.php:669
+msgid "Exclude terms"
+msgstr "Исключить категории"
+
+#: includes/listings/static-widgets/grid.php:673
+msgid ""
+"Comma/space-separated string of term ids to exclude. Ignore if <b>Include "
+"terms</b> not empty"
+msgstr ""
+"Чтобы исключить, введите ID категорий в одну строку, разделяя их запятой / "
+"пробелом. Игнорировать, если поле <b>Включить категории</b> не пустое"
+
+#: includes/listings/static-widgets/grid.php:680
+msgid "Offset"
+msgstr "Оффсет"
+
+#: includes/listings/static-widgets/grid.php:692
+msgid "Child of"
+msgstr "Дочерний элемент"
+
+#: includes/listings/static-widgets/grid.php:695
+msgid "Term ID to retrieve child terms of"
+msgstr "ID категорий, чтобы отображать дочерние категории"
+
+#: includes/listings/static-widgets/grid.php:795
+msgid "Widget Visibility"
+msgstr "Видимость виджета"
+
+#: includes/listings/static-widgets/grid.php:800
+msgid "Always show"
+msgstr "Всегда показывать"
+
+#: includes/listings/static-widgets/grid.php:801
+msgid "Query is empty"
+msgstr "Пустое Query"
+
+#: includes/listings/static-widgets/grid.php:807
+msgid "Hide widget if"
+msgstr "Скрывать виджет если"
+
+#: includes/listings/static-widgets/grid.php:827
+#: includes/modules/gallery-grid.php:159
+msgid "Columns"
+msgstr "Колонки"
+
+#: includes/listings/static-widgets/grid.php:836
+msgid "Horizontal Gap"
+msgstr "Горизонтальный отступ"
+
+#: includes/listings/static-widgets/grid.php:854
+msgid "Vertical Gap"
+msgstr "Вертикальный отступ"
+
+#: includes/listings/static-widgets/grid.php:890
+msgid "BINARY"
+msgstr "BINARY"
+
+#: includes/listings/static-widgets/grid.php:895
+msgid "SIGNED"
+msgstr "SIGNED"
+
+#: includes/listings/static-widgets/grid.php:896
+msgid "UNSIGNED"
+msgstr "UNSIGNED"
+
+#: includes/listings/static-widgets/grid.php:1386
+msgid "Please select listing to show."
+msgstr "Пожалуйста, выберите листинг для отображения."
+
+#: includes/meta-boxes/manager.php:269 includes/meta-boxes/manager.php:270
+#: includes/pages/list-meta.php:58 includes/skins/export.php:455
+#: includes/skins/import.php:103
+msgid "Meta Boxes"
+msgstr "Метабоксы"
+
+#: includes/meta-boxes/post.php:84
+msgid "Name: "
+msgstr "Заголовок:"
+
+#: includes/meta-boxes/post.php:248
+msgid "name: "
+msgstr "name: "
+
+#: includes/modules/calendar.php:33
+msgid "Calendar"
+msgstr ""
+
+#: includes/modules/calendar/calendar.php:27
+msgid "Listing Calendar"
+msgstr ""
+
+#: includes/modules/calendar/calendar.php:69
+msgid "Group posts by"
+msgstr "Сгруппировать посты по"
+
+#: includes/modules/calendar/calendar.php:73
+msgid "Post publication date"
+msgstr "Дате публикации"
+
+#: includes/modules/calendar/calendar.php:74
+msgid "Post modification date"
+msgstr "Дате внесения изменений"
+
+#: includes/modules/calendar/calendar.php:75
+msgid "Date from custom field"
+msgstr "Дате из мета поля"
+
+#: includes/modules/calendar/calendar.php:83
+msgid "Meta field name"
+msgstr "Заголовок мета поля"
+
+#: includes/modules/calendar/calendar.php:87
+msgid ""
+"This field must contain date to group posts by. Works only in \"Save as "
+"timestamp\" option for meta field is active"
+msgstr ""
+"Данное поле олжно содержать дату по которой происходит группировка постов. "
+"Активируйте опцию \"Сохранить как метку времени\" для мета поля чтобы "
+"использовать его значение"
+
+#: includes/modules/calendar/calendar.php:97
+msgid "Week days format"
+msgstr "Формат дней недели"
+
+#: includes/modules/calendar/calendar.php:102
+msgid "Short"
+msgstr "Сокращенный"
+
+#: includes/modules/calendar/calendar.php:103
+msgid "Initial letter"
+msgstr "Заглавная буква"
+
+#: includes/modules/calendar/calendar.php:121
+msgid "Caption"
+msgstr "Описание"
+
+#: includes/modules/calendar/calendar.php:134
+msgid "Layout 1"
+msgstr ""
+
+#: includes/modules/calendar/calendar.php:135
+msgid "Layout 2"
+msgstr ""
+
+#: includes/modules/calendar/calendar.php:136
+msgid "Layout 3"
+msgstr ""
+
+#: includes/modules/calendar/calendar.php:137
+msgid "Layout 4"
+msgstr ""
+
+#: includes/modules/calendar/calendar.php:156
+msgid "Label Color"
+msgstr "Цвет маркера"
+
+#: includes/modules/calendar/calendar.php:223
+msgid "Navigation Arrows"
+msgstr "Навигационные элементы"
+
+#: includes/modules/calendar/calendar.php:266
+msgid "Arrow Size"
+msgstr "Размер элементов"
+
+#: includes/modules/calendar/calendar.php:285
+msgid "Prev Arrow (Default)"
+msgstr "Назад (По умолчанию)"
+
+#: includes/modules/calendar/calendar.php:316
+msgid "Next Arrow"
+msgstr "Вперед"
+
+#: includes/modules/calendar/calendar.php:432
+msgid "Week Days"
+msgstr "Дни недели"
+
+#: includes/modules/calendar/calendar.php:483
+#: includes/modules/calendar/calendar.php:611
+msgid "Border Width"
+msgstr "Ширина контура"
+
+#: includes/modules/calendar/calendar.php:507
+msgid "First Border Color"
+msgstr "Первый цвет контура"
+
+#: includes/modules/calendar/calendar.php:518
+msgid "Last Border Color"
+msgstr "Второй цвет контура"
+
+#: includes/modules/calendar/calendar.php:544
+msgid "Days"
+msgstr "Дни"
+
+#: includes/modules/calendar/calendar.php:576
+msgid "Min height"
+msgstr "Минимальная высота"
+
+#: includes/modules/calendar/calendar.php:594
+msgid "Gap between events"
+msgstr "Отступ между событиями"
+
+#: includes/modules/calendar/calendar.php:656
+msgid "Date Label"
+msgstr "Маркер даты"
+
+#: includes/modules/calendar/calendar.php:698
+msgid "Has Events"
+msgstr "Содержит события"
+
+#: includes/modules/calendar/calendar.php:739
+msgid "Date Box Alignment"
+msgstr "Выравнивание контейнера даты"
+
+#: includes/modules/calendar/calendar.php:765
+msgid "Date Text Alignment"
+msgstr "Выравнивание текста даты"
+
+#: includes/modules/calendar/calendar.php:876
+msgid "Disabled Days (not in current month)"
+msgstr "Не включенные дни (не в текущем месяце)"
+
+#: includes/modules/calendar/calendar.php:885
+msgid "Opacity"
+msgstr "Прозрачность"
+
+#: includes/modules/calendar/calendar.php:899
+msgid "Day Background Color"
+msgstr "День: цвет фона "
+
+#: includes/modules/calendar/calendar.php:910
+msgid "Day Border Color"
+msgstr "Цень: цвет контура"
+
+#: includes/modules/calendar/calendar.php:921
+msgid "Day Label Text Color"
+msgstr "День: Цвет заголовока"
+
+#: includes/modules/calendar/calendar.php:932
+msgid "Day Label Background Color"
+msgstr "День: цвет фона заголовка"
+
+#: includes/modules/calendar/calendar.php:943
+msgid "Day Label Border Color"
+msgstr "День: цвет контура заголовка"
+
+#: includes/modules/calendar/calendar.php:956
+msgid "Mobile"
+msgstr "Мобильная адаптивность"
+
+#: includes/modules/calendar/calendar.php:965
+msgid "Mobile Trigger Color"
+msgstr "Цвет триггера"
+
+#: includes/modules/calendar/calendar.php:976
+msgid "Active Mobile Trigger Color"
+msgstr "Цвет активного триггера"
+
+#: includes/modules/calendar/calendar.php:987
+msgid "Mobile Trigger Width"
+msgstr "Ширина триггера"
+
+#: includes/modules/calendar/calendar.php:1009
+msgid "Mobile Trigger Height"
+msgstr "Высота триггера"
+
+#: includes/modules/calendar/calendar.php:1026
+msgid "Mobile Trigger Alignment"
+msgstr "Выравнивание триггера"
+
+#: includes/modules/calendar/calendar.php:1052
+msgid "Mobile Trigger Border Radius"
+msgstr "Ширина контура триггера"
+
+#: includes/modules/calendar/calendar.php:1064
+msgid "Mobile Trigger Margin"
+msgstr "Внешний отступ триггера"
+
+#: includes/modules/calendar/calendar.php:1076
+msgid "Mobile Event Margin"
+msgstr "Внешний отступ для события (мобильное устройство)"
+
+#: includes/modules/gallery-grid.php:33
+msgid "Grid Gallery for Dynamic Field widget"
+msgstr "Grid Gallery для виджета Dynamic Field"
+
+#: includes/modules/gallery-grid.php:56
+msgid "Images gallery grid"
+msgstr "Галерея изображений в формате Grid "
+
+#: includes/modules/gallery-grid.php:71
+#: includes/modules/gallery-slider.php:132
+msgid "Images gap"
+msgstr "Отступ изображений"
+
+#: includes/modules/gallery-grid.php:96 includes/modules/gallery-slider.php:76
+msgid "Image Overlay"
+msgstr "Перекрытие изображения"
+
+#: includes/modules/gallery-grid.php:116
+#: includes/modules/gallery-slider.php:96
+msgid "Hover Overlay"
+msgstr "Перекрытие при наведении курсора"
+
+#: includes/modules/gallery-grid.php:139
+#: includes/modules/gallery-slider.php:119
+msgid "Lightbox Icon Color"
+msgstr "Цвет иконки лайтбокса"
+
+#: includes/modules/gallery-grid.php:180
+#: includes/modules/gallery-slider.php:335
+msgid "Images Size"
+msgstr "Размер изображений"
+
+#: includes/modules/gallery-grid.php:194
+#: includes/modules/gallery-slider.php:349
+msgid "Use lightbox"
+msgstr "Использовать лайтбокс"
+
+#: includes/modules/gallery-slider.php:33
+msgid "Slider Gallery for Dynamic Field widget"
+msgstr "Slider Gallery для виджета Dynamic Field"
+
+#: includes/modules/gallery-slider.php:56
+msgid "Images gallery slider"
+msgstr "Галерея изображений в формате Slider"
+
+#: includes/modules/gallery-slider.php:157
+msgid "Slider arrows"
+msgstr "Стрелки слайдера"
+
+#: includes/modules/gallery-slider.php:170
+msgid "Slider arrows box size"
+msgstr "Размер ячейки стрелок слайдера"
+
+#: includes/modules/gallery-slider.php:192
+msgid "Slider arrows size"
+msgstr "Размер стрелок слайдера"
+
+#: includes/modules/gallery-slider.php:216
+msgid "Noraml"
+msgstr "Стандартный"
+
+#: includes/modules/gallery-slider.php:242
+#: includes/modules/gallery-slider.php:285
+msgid "Background"
+msgstr "Фон"
+
+#: includes/modules/gallery-slider.php:314
+msgid "Slides to show"
+msgstr "Показывать слайды"
+
+#: includes/modules/manager.php:75
+msgid "Modules Manager"
+msgstr "Менеджер виджетов"
+
+#: includes/modules/manager.php:101
+msgid "Available Modules"
+msgstr "Доступные виджеты"
+
+#: includes/modules/manager.php:102
+msgid "List of additional JetEngine modules"
+msgstr "Список дополнительных виджетов JetEngine"
+
+#: includes/modules/manager.php:113
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/modules/qr-code.php:35
+msgid "QR Code for Dynamic Field widget"
+msgstr "QR код для виджета Dynamic Field"
+
+#: includes/modules/qr-code.php:57
+msgid "QR Code"
+msgstr "QR код"
+
+#: includes/modules/qr-code.php:72
+msgid "QR Code Size"
+msgstr "Размер QR кода"
+
+#: includes/pages/add-meta.php:33
+msgid "Add New Meta Box"
+msgstr "Добавить новый блок метаданных"
+
+#: includes/pages/add-meta.php:46
+msgid "Add Meta Box"
+msgstr "Добавить блок метаданных"
+
+#: includes/pages/add-relation.php:33
+msgid "Add New Posts Relationship"
+msgstr "Добавить новую связь между записями"
+
+#: includes/pages/add-relation.php:46
+msgid "Add Relation"
+msgstr "Добавить связь"
+
+#: includes/pages/add-tax.php:33
+msgid "Add New Taxonomy"
+msgstr "Добавить новую таксономию"
+
+#: includes/pages/add-tax.php:46
+msgid "Add Taxonomy"
+msgstr "Добавить таксономию"
+
+#: includes/pages/add.php:33
+msgid "Add New Post Type"
+msgstr "Добавить новый тип записи"
+
+#: includes/pages/edit-meta.php:33
+msgid "Edit Meta Box"
+msgstr "Редактировать блок метаданных"
+
+#: includes/pages/edit-meta.php:48
+msgid "Please specify Meta Box ID"
+msgstr "Пожалуйста, укажите ID блока метаданных"
+
+#: includes/pages/edit-meta.php:57
+msgid "New meta box created!"
+msgstr "Новый мета блок создан!"
+
+#: includes/pages/edit-meta.php:68
+msgid "Update Meta Box"
+msgstr "Обновить блок метаданных"
+
+#: includes/pages/edit-relation.php:33
+msgid "Edit Relation"
+msgstr "Редактировать связь"
+
+#: includes/pages/edit-relation.php:48
+msgid "Please specify Relation ID"
+msgstr "Пожалуйста, укажите ID связи"
+
+#: includes/pages/edit-relation.php:57
+msgid "New relation created!"
+msgstr "Была создана новая связь!"
+
+#: includes/pages/edit-relation.php:68
+msgid "Update Relation"
+msgstr "Обновить связь"
+
+#: includes/pages/edit-tax.php:33
+msgid "Edit Taxonomy"
+msgstr "Редактировать таксономию"
+
+#: includes/pages/edit-tax.php:48
+msgid "Please specify Taxonomy ID"
+msgstr "Пожалуйста, укажите ID таксономии"
+
+#: includes/pages/edit-tax.php:57
+msgid "New taxonomy created!"
+msgstr "Новая таксономия создана!"
+
+#: includes/pages/edit-tax.php:68
+msgid "Update Taxonomy"
+msgstr "Обновить таксономию"
+
+#: includes/pages/edit.php:33
+msgid "Edit Post Type"
+msgstr "Редактировать тип записи"
+
+#: includes/pages/edit.php:48
+msgid "Please specify Post Type ID"
+msgstr "Пожалуйста, укажите ID типа записи"
+
+#: includes/pages/edit.php:57
+msgid "New post type created!"
+msgstr "Новый тип записи создан!"
+
+#: includes/pages/edit.php:68
+msgid "Update Post Type"
+msgstr "Обновить тип записи"
+
+#: includes/pages/list-relations.php:58
+msgid "Relations"
+msgstr "Связи"
+
+#: includes/pages/list-tax.php:58
+msgid "Custom Taxonomies List"
+msgstr "Список кастомных таксономий"
+
+#: includes/pages/list.php:58
+msgid "Custom Post Types List"
+msgstr "Список произвольных типов записей"
+
+#: includes/relations/data.php:43 includes/relations/data.php:70
+msgid "Please set both post types"
+msgstr "Пожалуйста, укажите оба типа записи"
+
+#: includes/relations/data.php:51 includes/relations/data.php:78
+msgid "Parent and child post type can't be the same"
+msgstr ""
+"Невозможно обозначить один тип записи одновременно как родительский и "
+"дочерний"
+
+#: includes/relations/manager.php:86
+msgid "One to one"
+msgstr ""
+
+#: includes/relations/manager.php:87
+msgid "One to many"
+msgstr ""
+
+#: includes/relations/manager.php:88
+msgid "Many to many"
+msgstr ""
+
+#: includes/relations/manager.php:150 includes/relations/manager.php:151
+#, php-format
+msgid "Related %s"
+msgstr "Похожие: %s"
+
+#: includes/relations/manager.php:167 includes/relations/manager.php:191
+#, php-format
+msgid "Select %s"
+msgstr "Выбрать %s"
+
+#: includes/relations/manager.php:170
+#, php-format
+msgid "Set Child %s"
+msgstr "Установить дочерний тип записи %s"
+
+#: includes/relations/manager.php:194
+#, php-format
+msgid "Set Parent %s"
+msgstr "Установить родительский тип записи %s"
+
+#: includes/relations/manager.php:239
+#, php-format
+msgid "Child %s"
+msgstr "Дочерняя запись %s"
+
+#: includes/relations/manager.php:245
+#, php-format
+msgid "Parent %s"
+msgstr "Родительская запись %s"
+
+#: includes/relations/manager.php:447 includes/relations/manager.php:448
+msgid "Posts Relations"
+msgstr "Связи между записями"
+
+#: includes/skins/export.php:368
+msgid "Export skin"
+msgstr "Экспортировать скин"
+
+#: includes/skins/export.php:372
+msgid ""
+"Export combination of post types, related taxonomies and listing items as "
+"new skin"
+msgstr ""
+"Экспортировать комбинацию типов записей, соответствующих таксономий и "
+"листингов как новый скин"
+
+#: includes/skins/export.php:408
+msgid "Export Settings"
+msgstr "Настройки экспортирования"
+
+#: includes/skins/export.php:497
+msgid "Sample Content"
+msgstr "Пример контента"
+
+#: includes/skins/export.php:502
+msgid "Add Sample Content"
+msgstr "Добавить пример контента"
+
+#: includes/skins/export.php:507
+msgid "Export"
+msgstr "Експортировать"
+
+#: includes/skins/import.php:36
+msgid "File not passed"
+msgstr "Файл не передан"
+
+#: includes/skins/import.php:42
+msgid "Format not allowed"
+msgstr "Формат не разрешен"
+
+#: includes/skins/import.php:49
+msgid "No data found in file"
+msgstr "В файле нет данных"
+
+#: includes/skins/import.php:361 includes/skins/import.php:376
+msgid "Import skin"
+msgstr "Импортировать скин"
+
+#: includes/skins/import.php:365
+msgid "Import new post types, taxonomies and listing items from JSON file"
+msgstr "Импортировать новые типы записей, таксономий и листинги из JSON файла"
+
+#: includes/skins/import.php:369
+msgid "Choose an JetEngine skin JSON file, and add it to your website"
+msgstr "Выберите JSON файл для JetEngine и добавьте его на свой сайт"
+
+#: includes/skins/import.php:390
+msgid "Imported"
+msgstr "Импортировано"
+
+#: includes/skins/manager.php:75
+msgid "Skins Manager"
+msgstr "Менеджер скинов"
+
+#: includes/taxonomies/data.php:52
+msgid "Please set taxonomy slug"
+msgstr "Пожалуйста, установите slug таксономии"
+
+#: includes/taxonomies/data.php:60
+msgid "Please set taxonomy name"
+msgstr "Пожалуйста, установите имя таксономии"
+
+#: includes/taxonomies/data.php:68
+msgid "Please set post type for taxonomy"
+msgstr "Пожалуйста, установите тип записи для таксономии"
+
+#: includes/taxonomies/data.php:76
+msgid "Please change taxonomy slug. Current is reserved for WordPress needs"
+msgstr ""
+"Пожалуйста, измените slug таксономии. Текущий зарезервирован для нужд "
+"WordPress"
+
+#: jet-engine.php:323
+msgid "Changelog"
+msgstr "Изменения"
+
+#: templates/listings-popup.php:10
+msgid "Setup Listing Item"
+msgstr "Создается новый шаблон листинга"
+
+#: templates/listings-popup.php:37
+msgid "Listing Item Name:"
+msgstr "Заголовок шаблона листинга:"
+
+#: templates/listings-popup.php:38
+msgid "Set listing name"
+msgstr "Задать заголовок для листинга"
+
+#: templates/listings-popup.php:42
+msgid "Create Listing Item"
+msgstr "Создать шаблон листинга"
+
+#~ msgid "Links"
+#~ msgstr "Ссылки"

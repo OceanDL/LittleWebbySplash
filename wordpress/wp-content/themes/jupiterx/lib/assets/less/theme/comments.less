@@ -1,0 +1,104 @@
+// Comments
+//
+
+.jupiterx-comments {
+    margin: 3rem 0 1.5rem;
+
+    ol, ul {
+        .list-unstyled();
+
+        &.children {
+            margin-left: 4vw;
+        }
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    .row {
+        margin-right: -8px;
+        margin-left: -8px;
+    }
+
+    [class*=col-] {
+        padding-right: 8px;
+        padding-left: 8px;
+    }
+
+    .comment-form-cookies-consent {
+        padding-right: 8px;
+        padding-left: 8px;
+        label {
+            margin-left: .5em;
+        }
+    }
+
+    .form-group {
+        flex-basis: 33.3333%;
+
+        @media @md-down {
+            flex-basis: 100%;
+        }
+    }
+}
+
+.jupiterx-no-comment {
+    color: @secondary;
+}
+
+.jupiterx-comments-title {
+    margin-bottom: 1.5rem;
+    font-size: @h5-font-size;
+}
+
+.jupiterx-comments-list {
+    margin: 0;
+}
+
+.jupiterx-comment {
+    padding-bottom: 1.5rem;
+}
+
+.jupiterx-comment-header {
+    margin-bottom: 1rem;
+}
+
+.jupiterx-comment-avatar {
+    float: left;
+    margin-right: 1rem;
+
+    img {
+        border-radius: @border-radius;
+    }
+}
+
+.jupiterx-comment-badge {
+    margin-left: .5rem;
+}
+
+.jupiterx-comment-meta {
+    font-size: @font-size-sm;
+    color: @secondary;
+}
+
+.jupiterx-comment-links {
+    margin-top: .75rem;
+    font-size: @font-size-sm;
+
+    .list-inline-item:not(:last-child) {
+        margin-right: 1rem;
+    }
+
+    a {
+        color: @secondary;
+    }
+}
+
+.comment-reply-title {
+    font-size: @h5-font-size;
+}
+
+.logged-in-as {
+    font-size: @font-size-sm;
+}

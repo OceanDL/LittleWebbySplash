@@ -4,7 +4,7 @@
  *
  * Contains the closing of the #content div and all content after
  *
- * @package Timber
+ * @package Timber Lite
  * @since Timber 1.0
  */
 
@@ -36,7 +36,7 @@ if ( $timber_show_footer ) {
 </div>
 
 <script>
-     var loaderRandomImages = <?php timber_the_random_projects_images_srcs(); ?>;
+     var loaderRandomImages = <?php timber_lite_the_random_projects_images_srcs(); ?>;
 </script>
 
 <?php wp_footer();?>

@@ -1,0 +1,94 @@
+.jupiterx {
+	@import 'bootstrap';
+}
+
+@import 'animation';
+@import 'upgrade';
+@import 'tgmpa';
+@import 'update-plugins';
+@import 'warning-badge';
+
+a:not(.btn):focus {
+	box-shadow: none;
+	outline: 0;
+}
+
+.jupiterx-pro-preview-lightbox {
+	z-index: 999999 !important;
+}
+
+.jupiterx-modal-upgrade {
+	.jupiterx-modal-icon-custom {
+		&.jupiterx-icon-times,
+		&.jupiterx-icon-check {
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			color: #fff;
+			border-radius: 50%;
+			width: 30px;
+			height: 30px;
+		}
+
+		&.jupiterx-icon-times {
+			background: #EC0A00;
+		}
+
+		&.jupiterx-icon-check {
+			background: #17A93D;
+		}
+
+		&.jupiterx-icon-key {
+			color: #6C767E;
+		}
+	}
+}
+
+.jupiterx-setup-wizard-message-box,
+.jupiterx-setup-wizard-message {
+	display: none !important; // @todo Temporary hidden. We should change this in the 1.3.0 version.
+}
+
+.jupiterx_plugin_upgrade_notice {
+	font-weight: 400;
+    background: #fff8e5!important;
+    border-left: 4px solid #ffb900;
+    border-top: 1px solid #ffb900;
+	padding: 20px 0!important;
+	margin: 0 -12px 0 -16px!important;
+
+	p {
+		padding: 0 20px;
+		margin: 0;
+		max-width: 700px;
+		line-height: 1.5em;
+
+		&:before {
+			display: none;
+		}
+	}
+
+	table.plugin-details-table {
+		tr {
+			background: transparent none!important;
+			border: 0!important;
+		}
+
+		th {
+			font-weight: 700;
+		}
+
+		td, th {
+			background: transparent none!important;
+			margin: 0;
+			padding: .75em 20px 0;
+			border: 0!important;
+			font-size: 1em;
+			box-shadow: none;
+		}
+	}
+
+	.dummy, ~ .dummy {
+		display: none;
+	}
+}
