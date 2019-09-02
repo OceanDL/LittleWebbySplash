@@ -1,0 +1,2655 @@
+# Copyright (C) 2019 Raven
+# This file is distributed under the same license as the Raven package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Raven\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Artbees <info@artbees.net>\n"
+"Last-Translator: Artbees Team <info@artbees.net>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/plugin.php:116, includes/plugin.php:127, includes/base/module-base.php:57, includes/base/module-base.php:67
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/plugin.php:230
+msgid "Raven - This plugin requires Jupiter X theme v1.3.0 and above. Please update your theme to the latest version."
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor
+#: includes/plugin.php:252
+msgid "%1$s requires %2$s plugin to be installed and activated."
+msgstr ""
+
+#: includes/plugin.php:254, includes/plugin.php:285, includes/plugin.php:318, includes/plugin.php:833
+msgid "Raven"
+msgstr ""
+
+#: includes/plugin.php:255, includes/plugin.php:286, includes/plugin.php:319
+msgid "Elementor"
+msgstr ""
+
+#: includes/plugin.php:263
+msgid "Install Elementor Now"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor
+#: includes/plugin.php:283
+msgid "%1$s requires %2$s plugin to be activated."
+msgstr ""
+
+#: includes/plugin.php:295
+msgid "Activate Elementor Now"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor
+#: includes/plugin.php:316
+msgid "%1$s requires version %3$s or greater of %2$s plugin."
+msgstr ""
+
+#: includes/plugin.php:329
+msgid "Update Elementor Now"
+msgstr ""
+
+#: includes/plugin.php:585
+msgid "Raven Elements"
+msgstr ""
+
+#: includes/plugin.php:839
+msgid "Google API Key"
+msgstr ""
+
+#: includes/plugin.php:843, includes/modules/forms/actions/mailchimp.php:413
+msgid "API Key"
+msgstr ""
+
+#. translators: %s: Google Developer Console URL
+#: includes/plugin.php:847
+msgid "This API key will be used for maps, places. <a href=\"%s\" target=\"_blank\">Get your API key</a>."
+msgstr ""
+
+#: includes/controls/file-uploader.php:109
+msgid "Upload File"
+msgstr ""
+
+#: includes/controls/file-uploader.php:126
+msgid "Maximum allowed file size is"
+msgstr ""
+
+#: includes/controls/hover-effect.php:129, includes/controls/loop-animation.php:132, includes/modules/categories/skins/skin-inner-content.php:73, includes/modules/categories/skins/skin-outer-content.php:66, includes/modules/image/widgets/image.php:70, includes/modules/nav-menu/widgets/nav-menu.php:822, includes/modules/nav-menu/widgets/nav-menu.php:1321, includes/modules/photo-album/skins/skin-cover.php:162, includes/modules/posts/classes/post-base.php:710, includes/modules/posts/carousel/actions/post-cover.php:323, includes/modules/posts/post/actions/post-cover.php:385
+msgid "None"
+msgstr ""
+
+#: includes/controls/media.php:117
+msgid "Media Upload"
+msgstr ""
+
+#: includes/editor-templates/templates.php:20
+msgid "Activate to Unlock"
+msgstr ""
+
+#: includes/editor-templates/templates.php:22
+msgid "Jupiter X Pro"
+msgstr ""
+
+#: includes/controls/group/background.php:127
+msgctxt "Background Control"
+msgid "Classic"
+msgstr ""
+
+#: includes/controls/group/background.php:131
+msgctxt "Background Control"
+msgid "Gradient"
+msgstr ""
+
+#: includes/controls/group/background.php:135
+msgctxt "Background Control"
+msgid "Background Video"
+msgstr ""
+
+#: includes/controls/group/background.php:156
+msgctxt "Background Control"
+msgid "Background Type"
+msgstr ""
+
+#: includes/controls/group/background.php:163
+msgctxt "Background Control"
+msgid "Color"
+msgstr ""
+
+#: includes/controls/group/background.php:166
+msgctxt "Background Control"
+msgid "Background Color"
+msgstr ""
+
+#: includes/controls/group/background.php:176, includes/controls/group/background.php:202
+msgctxt "Background Control"
+msgid "Location"
+msgstr ""
+
+#: includes/controls/group/background.php:191
+msgctxt "Background Control"
+msgid "Second Color"
+msgstr ""
+
+#: includes/controls/group/background.php:217
+msgctxt "Background Control"
+msgid "Type"
+msgstr ""
+
+#: includes/controls/group/background.php:220
+msgctxt "Background Control"
+msgid "Linear"
+msgstr ""
+
+#: includes/controls/group/background.php:221
+msgctxt "Background Control"
+msgid "Radial"
+msgstr ""
+
+#: includes/controls/group/background.php:232
+msgctxt "Background Control"
+msgid "Angle"
+msgstr ""
+
+#: includes/controls/group/background.php:255, includes/controls/group/background.php:292
+msgctxt "Background Control"
+msgid "Position"
+msgstr ""
+
+#: includes/controls/group/background.php:258, includes/controls/group/background.php:301
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr ""
+
+#: includes/controls/group/background.php:259, includes/controls/group/background.php:300
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr ""
+
+#: includes/controls/group/background.php:260, includes/controls/group/background.php:302
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr ""
+
+#: includes/controls/group/background.php:261, includes/controls/group/background.php:298
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr ""
+
+#: includes/controls/group/background.php:262, includes/controls/group/background.php:297
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr ""
+
+#: includes/controls/group/background.php:263, includes/controls/group/background.php:299
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr ""
+
+#: includes/controls/group/background.php:264, includes/controls/group/background.php:304
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/controls/group/background.php:265, includes/controls/group/background.php:303
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/controls/group/background.php:266, includes/controls/group/background.php:305
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/controls/group/background.php:280
+msgctxt "Background Control"
+msgid "Image"
+msgstr ""
+
+#: includes/controls/group/background.php:282
+msgctxt "Background Control"
+msgid "Background Image"
+msgstr ""
+
+#: includes/controls/group/background.php:296, includes/controls/group/background.php:321, includes/controls/group/background.php:339, includes/controls/group/background.php:359
+msgctxt "Background Control"
+msgid "Default"
+msgstr ""
+
+#: includes/controls/group/background.php:317
+msgctxt "Background Control"
+msgid "Attachment"
+msgstr ""
+
+#: includes/controls/group/background.php:322
+msgctxt "Background Control"
+msgid "Scroll"
+msgstr ""
+
+#: includes/controls/group/background.php:323
+msgctxt "Background Control"
+msgid "Fixed"
+msgstr ""
+
+#: includes/controls/group/background.php:335, includes/controls/group/background.php:341
+msgctxt "Background Control"
+msgid "Repeat"
+msgstr ""
+
+#: includes/controls/group/background.php:340
+msgctxt "Background Control"
+msgid "No-repeat"
+msgstr ""
+
+#: includes/controls/group/background.php:342
+msgctxt "Background Control"
+msgid "Repeat-x"
+msgstr ""
+
+#: includes/controls/group/background.php:343
+msgctxt "Background Control"
+msgid "Repeat-y"
+msgstr ""
+
+#: includes/controls/group/background.php:355
+msgctxt "Background Control"
+msgid "Size"
+msgstr ""
+
+#: includes/controls/group/background.php:360
+msgctxt "Background Control"
+msgid "Auto"
+msgstr ""
+
+#: includes/controls/group/background.php:361
+msgctxt "Background Control"
+msgid "Cover"
+msgstr ""
+
+#: includes/controls/group/background.php:362
+msgctxt "Background Control"
+msgid "Contain"
+msgstr ""
+
+#: includes/controls/group/background.php:374
+msgctxt "Background Control"
+msgid "Video Link"
+msgstr ""
+
+#: includes/controls/group/background.php:377
+msgid "YouTube link or video file (mp4 is recommended)."
+msgstr ""
+
+#: includes/controls/group/background.php:387
+msgctxt "Background Control"
+msgid "Background Fallback"
+msgstr ""
+
+#: includes/controls/group/background.php:388
+msgid "This cover image will replace the background video on mobile and tablet devices."
+msgstr ""
+
+#: includes/controls/group/parallax-scroll.php:86
+msgctxt "Parallax Scroll Control"
+msgid "X"
+msgstr ""
+
+#: includes/controls/group/parallax-scroll.php:91
+msgctxt "Parallax Scroll Control"
+msgid "Y"
+msgstr ""
+
+#: includes/controls/group/parallax-scroll.php:97
+msgctxt "Parallax Scroll Control"
+msgid "Z"
+msgstr ""
+
+#: includes/controls/group/parallax-scroll.php:102
+msgid "Smoothness (ms)"
+msgstr ""
+
+#: includes/controls/group/parallax-scroll.php:127
+msgctxt "Parallax Scroll Control"
+msgid "Parallax Scroll"
+msgstr ""
+
+#: includes/controls/group/posts.php:176
+msgctxt "Posts Group Control"
+msgid "Source"
+msgstr ""
+
+#: includes/controls/group/posts.php:259
+msgctxt "Posts Group Control"
+msgid "Posts"
+msgstr ""
+
+#: includes/controls/group/posts.php:372
+msgctxt "Posts Group Control"
+msgid "Authors"
+msgstr ""
+
+#: includes/controls/group/text-background.php:121
+msgctxt "Text Text Background Control"
+msgid "Solid"
+msgstr ""
+
+#: includes/controls/group/text-background.php:125
+msgctxt "Text Text Background Control"
+msgid "Gradient"
+msgstr ""
+
+#: includes/controls/group/text-background.php:145
+msgctxt "Text Background Control"
+msgid "Background Type"
+msgstr ""
+
+#: includes/controls/group/text-background.php:152
+msgctxt "Text Background Control"
+msgid "Color"
+msgstr ""
+
+#: includes/controls/group/text-background.php:155
+msgctxt "Text Background Control"
+msgid "Background Color"
+msgstr ""
+
+#: includes/controls/group/text-background.php:165, includes/controls/group/text-background.php:191
+msgctxt "Text Background Control"
+msgid "Location"
+msgstr ""
+
+#: includes/controls/group/text-background.php:180
+msgctxt "Text Background Control"
+msgid "Second Color"
+msgstr ""
+
+#: includes/controls/group/text-background.php:206
+msgctxt "Text Background Control"
+msgid "Type"
+msgstr ""
+
+#: includes/controls/group/text-background.php:209
+msgctxt "Text Background Control"
+msgid "Linear"
+msgstr ""
+
+#: includes/controls/group/text-background.php:210
+msgctxt "Text Background Control"
+msgid "Radial"
+msgstr ""
+
+#: includes/controls/group/text-background.php:221
+msgctxt "Text Background Control"
+msgid "Angle"
+msgstr ""
+
+#: includes/controls/group/text-background.php:244
+msgctxt "Text Background Control"
+msgid "Position"
+msgstr ""
+
+#: includes/controls/group/text-background.php:247
+msgctxt "Text Background Control"
+msgid "Center Center"
+msgstr ""
+
+#: includes/controls/group/text-background.php:248
+msgctxt "Text Background Control"
+msgid "Center Left"
+msgstr ""
+
+#: includes/controls/group/text-background.php:249
+msgctxt "Text Background Control"
+msgid "Center Right"
+msgstr ""
+
+#: includes/controls/group/text-background.php:250
+msgctxt "Text Background Control"
+msgid "Top Center"
+msgstr ""
+
+#: includes/controls/group/text-background.php:251
+msgctxt "Text Background Control"
+msgid "Top Left"
+msgstr ""
+
+#: includes/controls/group/text-background.php:252
+msgctxt "Text Background Control"
+msgid "Top Right"
+msgstr ""
+
+#: includes/controls/group/text-background.php:253
+msgctxt "Text Background Control"
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/controls/group/text-background.php:254
+msgctxt "Text Background Control"
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/controls/group/text-background.php:255
+msgctxt "Text Background Control"
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/modules/column/module.php:28
+msgid "Display"
+msgstr ""
+
+#: includes/modules/column/module.php:29
+msgid "This Raven option is deprecated and will be removed in v2.0. Set this to <strong>Block</strong> and use Elementor <strong>Custom Positioning</strong> feature."
+msgstr ""
+
+#: includes/modules/column/module.php:32, includes/modules/countdown/widgets/countdown.php:72
+msgid "Block"
+msgstr ""
+
+#: includes/modules/column/module.php:33
+msgid "Flex"
+msgstr ""
+
+#: includes/modules/column/module.php:41
+msgid "Content Orientation"
+msgstr ""
+
+#: includes/modules/column/module.php:46, includes/modules/nav-menu/widgets/nav-menu.php:196, includes/modules/tabs/widgets/tabs.php:110
+msgid "Horizontal"
+msgstr ""
+
+#: includes/modules/column/module.php:50, includes/modules/tabs/widgets/tabs.php:111
+msgid "Vertical"
+msgstr ""
+
+#: includes/modules/column/module.php:63, includes/modules/column/module.php:85
+msgid "Content Align"
+msgstr ""
+
+#: includes/modules/column/module.php:66, includes/modules/column/module.php:88, includes/modules/forms/actions/mailchimp.php:56, includes/modules/forms/widgets/form.php:260, includes/modules/forms/widgets/form.php:341
+msgid "Default"
+msgstr ""
+
+#: includes/modules/column/module.php:67, includes/modules/alert/widgets/alert.php:221, includes/modules/button/widgets/button.php:227, includes/modules/button/widgets/button.php:548, includes/modules/categories/skins/skin-base.php:265, includes/modules/categories/skins/skin-base.php:483, includes/modules/categories/skins/skin-base.php:601, includes/modules/categories/skins/skin-base.php:758, includes/modules/countdown/widgets/countdown.php:224, includes/modules/counter/widgets/counter.php:224, includes/modules/divider/widgets/divider.php:158, includes/modules/forms/widgets/form.php:1243, includes/modules/heading/widgets/heading.php:184, includes/modules/icon/widgets/icon.php:226, includes/modules/image/widgets/image.php:241, includes/modules/image/widgets/image.php:355, includes/modules/nav-menu/widgets/nav-menu.php:459, includes/modules/nav-menu/widgets/nav-menu.php:1568, includes/modules/nav-menu/widgets/nav-menu.php:1815, includes/modules/photo-album/skins/skin-base.php:201, includes/modules/photo-album/skins/skin-base.php:323, includes/modules/photo-album/skins/skin-base.php:436, includes/modules/posts/classes/post-base.php:361, includes/modules/posts/classes/post-base.php:649, includes/modules/posts/classes/post-base.php:682, includes/modules/posts/classes/post-base.php:1015, includes/modules/posts/classes/post-base.php:1260, includes/modules/posts/classes/post-base.php:1445, includes/modules/posts/classes/post-base.php:1602, includes/modules/posts/classes/post-base.php:1771, includes/modules/products/skins/classic.php:229, includes/modules/search-form/skins/classic.php:94, includes/modules/search-form/skins/full.php:342, includes/modules/shopping-cart/widgets/shopping-cart.php:123, includes/modules/shopping-cart/widgets/shopping-cart.php:490, includes/modules/site-logo/widgets/site-logo.php:147, includes/modules/posts/carousel/actions/post-cover.php:65, includes/modules/posts/post/actions/post-cover.php:67, includes/modules/posts/post/skins/base.php:314, includes/modules/posts/post/skins/base.php:802, includes/modules/posts/post/skins/base.php:1151
+msgid "Left"
+msgstr ""
+
+#: includes/modules/column/module.php:68, includes/modules/column/module.php:90, includes/modules/categories/skins/skin-base.php:296, includes/modules/posts/carousel/actions/post-cover.php:472
+msgid "Middle"
+msgstr ""
+
+#: includes/modules/column/module.php:69, includes/modules/alert/widgets/alert.php:229, includes/modules/button/widgets/button.php:235, includes/modules/button/widgets/button.php:552, includes/modules/categories/skins/skin-base.php:273, includes/modules/categories/skins/skin-base.php:491, includes/modules/categories/skins/skin-base.php:609, includes/modules/categories/skins/skin-base.php:766, includes/modules/countdown/widgets/countdown.php:232, includes/modules/counter/widgets/counter.php:232, includes/modules/divider/widgets/divider.php:166, includes/modules/forms/widgets/form.php:1251, includes/modules/heading/widgets/heading.php:192, includes/modules/icon/widgets/icon.php:234, includes/modules/image/widgets/image.php:249, includes/modules/image/widgets/image.php:363, includes/modules/nav-menu/widgets/nav-menu.php:467, includes/modules/nav-menu/widgets/nav-menu.php:1572, includes/modules/nav-menu/widgets/nav-menu.php:1823, includes/modules/photo-album/skins/skin-base.php:209, includes/modules/photo-album/skins/skin-base.php:331, includes/modules/photo-album/skins/skin-base.php:444, includes/modules/posts/classes/post-base.php:369, includes/modules/posts/classes/post-base.php:650, includes/modules/posts/classes/post-base.php:690, includes/modules/posts/classes/post-base.php:1023, includes/modules/posts/classes/post-base.php:1268, includes/modules/posts/classes/post-base.php:1453, includes/modules/posts/classes/post-base.php:1610, includes/modules/posts/classes/post-base.php:1779, includes/modules/products/skins/classic.php:237, includes/modules/search-form/skins/classic.php:102, includes/modules/search-form/skins/full.php:350, includes/modules/shopping-cart/widgets/shopping-cart.php:131, includes/modules/shopping-cart/widgets/shopping-cart.php:494, includes/modules/site-logo/widgets/site-logo.php:155, includes/modules/posts/carousel/actions/post-cover.php:73, includes/modules/posts/post/actions/post-cover.php:75, includes/modules/posts/post/skins/base.php:322, includes/modules/posts/post/skins/base.php:810, includes/modules/posts/post/skins/base.php:1159
+msgid "Right"
+msgstr ""
+
+#: includes/modules/column/module.php:70, includes/modules/column/module.php:92, includes/modules/button/widgets/button.php:522, includes/modules/countdown/widgets/countdown.php:177, includes/modules/counter/widgets/counter.php:197, includes/modules/nav-menu/widgets/nav-menu.php:425, includes/modules/nav-menu/widgets/nav-menu.php:773, includes/modules/posts/classes/post-base.php:981, includes/modules/posts/carousel/actions/post-classic.php:72, includes/modules/posts/carousel/actions/post-cover.php:436, includes/modules/posts/carousel/skins/base.php:604, includes/modules/posts/post/skins/base.php:262
+msgid "Space Between"
+msgstr ""
+
+#: includes/modules/column/module.php:71, includes/modules/column/module.php:93
+msgid "Space Evenly"
+msgstr ""
+
+#: includes/modules/column/module.php:72, includes/modules/column/module.php:94
+msgid "Space Around"
+msgstr ""
+
+#: includes/modules/column/module.php:89, includes/modules/categories/skins/skin-base.php:292, includes/modules/nav-menu/widgets/nav-menu.php:800, includes/modules/posts/classes/post-base.php:651, includes/modules/posts/carousel/actions/post-cover.php:468
+msgid "Top"
+msgstr ""
+
+#: includes/modules/column/module.php:91, includes/modules/categories/skins/skin-base.php:300, includes/modules/nav-menu/widgets/nav-menu.php:801, includes/modules/posts/carousel/actions/post-cover.php:476
+msgid "Bottom"
+msgstr ""
+
+#: includes/modules/custom-scripts/module.php:31
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: includes/modules/custom-scripts/module.php:40
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/modules/custom-scripts/module.php:52
+msgid "Custom JS"
+msgstr ""
+
+#: includes/modules/forms/module.php:42, includes/modules/button/widgets/button.php:43, includes/modules/button/widgets/button.php:417, includes/modules/categories/skins/skin-base.php:678, includes/modules/forms/widgets/form.php:321, includes/modules/posts/classes/post-base.php:1690
+msgid "Text"
+msgstr ""
+
+#: includes/modules/forms/module.php:43, includes/modules/forms/module.php:71, includes/modules/forms/actions/email.php:39, includes/modules/forms/actions/mailchimp.php:149
+msgid "Email"
+msgstr ""
+
+#: includes/modules/forms/module.php:44, includes/modules/forms/widgets/form.php:774
+msgid "Select"
+msgstr ""
+
+#: includes/modules/forms/module.php:45
+msgid "Textarea"
+msgstr ""
+
+#: includes/modules/forms/module.php:46
+msgid "Tel"
+msgstr ""
+
+#: includes/modules/forms/module.php:47, includes/modules/countdown/widgets/countdown.php:296, includes/modules/counter/widgets/counter.php:305, includes/modules/shopping-cart/widgets/shopping-cart.php:339
+msgid "Number"
+msgstr ""
+
+#: includes/modules/forms/module.php:48, includes/modules/posts/classes/post-base.php:227, includes/modules/posts/widgets/posts-carousel.php:116, includes/modules/posts/widgets/posts.php:110, includes/modules/products/widgets/products.php:95
+msgid "Date"
+msgstr ""
+
+#: includes/modules/forms/module.php:49
+msgid "Time"
+msgstr ""
+
+#: includes/modules/forms/module.php:50, includes/modules/forms/widgets/form.php:848
+msgid "Checkbox"
+msgstr ""
+
+#: includes/modules/forms/module.php:51, includes/modules/forms/widgets/form.php:1025
+msgid "Radio"
+msgstr ""
+
+#: includes/modules/forms/module.php:52
+msgid "Acceptance"
+msgstr ""
+
+#: includes/modules/forms/module.php:53, includes/modules/forms/fields/recaptcha.php:251
+msgid "reCAPTCHA"
+msgstr ""
+
+#: includes/modules/forms/module.php:54
+msgid "Address"
+msgstr ""
+
+#: includes/modules/forms/module.php:72, includes/modules/forms/actions/mailchimp.php:43, includes/modules/forms/actions/mailchimp.php:409
+msgid "MailChimp"
+msgstr ""
+
+#: includes/modules/forms/module.php:73, includes/modules/forms/actions/redirect.php:37
+msgid "Redirect"
+msgstr ""
+
+#: includes/modules/forms/module.php:74, includes/modules/forms/actions/slack.php:48
+msgid "Slack"
+msgstr ""
+
+#: includes/modules/forms/module.php:75, includes/modules/forms/actions/hubspot.php:44
+msgid "Hubspot"
+msgstr ""
+
+#: includes/modules/forms/module.php:76, includes/modules/forms/actions/download.php:38
+msgid "Download"
+msgstr ""
+
+#: includes/modules/forms/module.php:77, includes/modules/forms/actions/webhook.php:47
+msgid "Webhook"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:49
+msgid "Raven Alert: Title"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:54
+msgid "Raven Alert: Content"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:66
+msgid "Raven Button: Text"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:71
+msgid "Raven Button: Link"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:83
+msgid "Raven Categories: Text"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:88
+msgid "Raven Categories: Link"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:107
+msgid "Raven Form: Form name"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:112
+msgid "Raven Form: Submit button Text"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:117
+msgid "Raven Form: Success message"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:122
+msgid "Raven Form: Error message"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:127
+msgid "Raven Form: Required message"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:132
+msgid "Raven Form: Subscriber already exists message"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:145
+msgid "Raven Heading: Title"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:150
+msgid "Raven Heading: Link"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:162
+msgid "Raven Icon: Link"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:174
+msgid "Raven Image: Caption"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:179
+msgid "Raven Image: Link"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:198
+msgid "Raven Search Form: Placeholder"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:210
+msgid "Raven Site Logo: Link"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:229
+msgid "Raven Video: YouTube link"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:234
+msgid "Raven Video: Vimeo link"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:239
+msgid "Raven Video: Hosted video - MP4"
+msgstr ""
+
+#: includes/core/compatibility/wpml/module.php:244
+msgid "Raven Video: Hosted video - WebM"
+msgstr ""
+
+#: includes/core/library/documents/footer.php:69, includes/modules/forms/actions/slack.php:125
+msgid "Footer"
+msgstr ""
+
+#: includes/core/library/documents/header.php:69
+msgid "Header"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:15, includes/modules/alert/widgets/alert.php:115
+msgid "Alert"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:35, includes/modules/alert/widgets/alert.php:68, includes/modules/button/widgets/button.php:36, includes/modules/categories/widgets/categories.php:43, includes/modules/countdown/widgets/countdown.php:39, includes/modules/counter/widgets/counter.php:39, includes/modules/flex-spacer/widgets/flex-spacer.php:26, includes/modules/heading/widgets/heading.php:34, includes/modules/icon/widgets/icon.php:33, includes/modules/image/widgets/image.php:39, includes/modules/nav-menu/widgets/nav-menu.php:77, includes/modules/photo-album/widgets/photo-album.php:42, includes/modules/photo-roller/widgets/photo-roller.php:31, includes/modules/posts/widgets/posts-carousel.php:53, includes/modules/posts/widgets/posts.php:47, includes/modules/products/widgets/products.php:46, includes/modules/search-form/widgets/search-form.php:34, includes/modules/shopping-cart/widgets/shopping-cart.php:39, includes/modules/tabs/widgets/tabs.php:35, includes/modules/tabs/widgets/tabs.php:55
+msgid "Content"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:42, includes/modules/forms/widgets/form.php:73, includes/modules/tabs/widgets/tabs.php:105
+msgid "Type"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:46
+msgid "Info"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:47
+msgid "Success"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:48
+msgid "Warning"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:49
+msgid "Danger"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:57
+msgid "Title & Description"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:59, includes/modules/heading/widgets/heading.php:43
+msgid "Enter your title"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:60
+msgid "This is an Alert"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:70
+msgid "Enter your description"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:71
+msgid "I am a description. Click the edit button to change this text."
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:80, includes/modules/button/widgets/button.php:53, includes/modules/search-form/widgets/search-form.php:50, includes/modules/shopping-cart/widgets/shopping-cart.php:46
+msgid "Choose Icon"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:93, includes/modules/button/widgets/button.php:125, includes/modules/categories/skins/skin-base.php:64, includes/modules/countdown/widgets/countdown.php:60, includes/modules/counter/widgets/counter.php:127, includes/modules/forms/widgets/form.php:365, includes/modules/heading/widgets/heading.php:67, includes/modules/icon/widgets/icon.php:62, includes/modules/image/widgets/image.php:133, includes/modules/nav-menu/widgets/nav-menu.php:185, includes/modules/photo-album/skins/skin-base.php:34, includes/modules/photo-roller/widgets/photo-roller.php:57, includes/modules/posts/widgets/posts-carousel.php:82, includes/modules/posts/widgets/posts.php:76, includes/modules/products/widgets/products.php:73, includes/modules/shopping-cart/widgets/shopping-cart.php:59, includes/modules/tabs/widgets/tabs.php:98, includes/modules/video/widgets/video.php:241
+msgid "Settings"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:100
+msgid "Dismiss Button"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:102, includes/modules/categories/skins/skin-base.php:128, includes/modules/categories/skins/skin-base.php:140, includes/modules/categories/skins/skin-base.php:152, includes/modules/categories/skins/skin-base.php:164, includes/modules/categories/skins/skin-base.php:176, includes/modules/countdown/widgets/countdown.php:84, includes/modules/countdown/widgets/countdown.php:95, includes/modules/countdown/widgets/countdown.php:106, includes/modules/countdown/widgets/countdown.php:117, includes/modules/counter/widgets/counter.php:167, includes/modules/forms/widgets/form.php:375, includes/modules/forms/widgets/form.php:386, includes/modules/heading/widgets/heading.php:96, includes/modules/icon/widgets/icon.php:72, includes/modules/image/widgets/image.php:111, includes/modules/photo-album/skins/skin-base.php:89, includes/modules/photo-album/skins/skin-base.php:110, includes/modules/photo-album/skins/skin-base.php:122, includes/modules/posts/classes/post-base.php:145, includes/modules/posts/classes/post-base.php:176, includes/modules/posts/classes/post-base.php:207, includes/modules/posts/classes/post-base.php:219, includes/modules/posts/classes/post-base.php:231, includes/modules/posts/classes/post-base.php:243, includes/modules/posts/classes/post-base.php:255, includes/modules/posts/classes/post-base.php:267, includes/modules/posts/classes/post-base.php:279, includes/modules/posts/classes/post-base.php:306, includes/modules/posts/classes/post-base.php:318, includes/modules/products/skins/classic.php:89, includes/modules/video/widgets/video.php:135, includes/modules/video/widgets/video.php:213, includes/modules/video/widgets/video.php:277, includes/modules/video/widgets/video.php:290, includes/modules/video/widgets/video.php:304, includes/modules/video/widgets/video.php:363, includes/modules/video/widgets/video.php:377, includes/modules/video/widgets/video.php:391, includes/modules/posts/carousel/skins/base.php:77, includes/modules/posts/carousel/skins/base.php:89, includes/modules/posts/post/skins/base.php:119, includes/modules/posts/post/skins/base.php:134
+msgid "Hide"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:103, includes/modules/categories/skins/skin-base.php:127, includes/modules/categories/skins/skin-base.php:139, includes/modules/categories/skins/skin-base.php:151, includes/modules/categories/skins/skin-base.php:163, includes/modules/categories/skins/skin-base.php:175, includes/modules/countdown/widgets/countdown.php:83, includes/modules/countdown/widgets/countdown.php:94, includes/modules/countdown/widgets/countdown.php:105, includes/modules/countdown/widgets/countdown.php:116, includes/modules/counter/widgets/counter.php:166, includes/modules/forms/widgets/form.php:374, includes/modules/forms/widgets/form.php:385, includes/modules/heading/widgets/heading.php:97, includes/modules/icon/widgets/icon.php:71, includes/modules/image/widgets/image.php:110, includes/modules/photo-album/skins/skin-base.php:88, includes/modules/photo-album/skins/skin-base.php:109, includes/modules/photo-album/skins/skin-base.php:121, includes/modules/posts/classes/post-base.php:144, includes/modules/posts/classes/post-base.php:175, includes/modules/posts/classes/post-base.php:206, includes/modules/posts/classes/post-base.php:218, includes/modules/posts/classes/post-base.php:230, includes/modules/posts/classes/post-base.php:242, includes/modules/posts/classes/post-base.php:254, includes/modules/posts/classes/post-base.php:266, includes/modules/posts/classes/post-base.php:278, includes/modules/posts/classes/post-base.php:305, includes/modules/posts/classes/post-base.php:317, includes/modules/products/skins/classic.php:88, includes/modules/video/widgets/video.php:136, includes/modules/video/widgets/video.php:214, includes/modules/video/widgets/video.php:278, includes/modules/video/widgets/video.php:291, includes/modules/video/widgets/video.php:305, includes/modules/video/widgets/video.php:364, includes/modules/video/widgets/video.php:378, includes/modules/video/widgets/video.php:392, includes/modules/posts/carousel/skins/base.php:76, includes/modules/posts/carousel/skins/base.php:88, includes/modules/posts/post/skins/base.php:118, includes/modules/posts/post/skins/base.php:133
+msgid "Show"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:128, includes/modules/categories/skins/skin-base.php:338, includes/modules/categories/skins/skin-base.php:362, includes/modules/categories/skins/skin-base.php:813, includes/modules/categories/skins/skin-base.php:857, includes/modules/posts/classes/post-base.php:395, includes/modules/posts/classes/post-base.php:482, includes/modules/posts/classes/post-base.php:1829, includes/modules/posts/classes/post-base.php:1936, includes/modules/products/skins/classic.php:287, includes/modules/products/skins/classic.php:403, includes/modules/posts/carousel/actions/post-cover.php:99, includes/modules/posts/carousel/actions/post-cover.php:186, includes/modules/posts/post/actions/post-cover.php:101, includes/modules/posts/post/actions/post-cover.php:188, includes/modules/posts/post/skins/base.php:380, includes/modules/posts/post/skins/base.php:501, includes/modules/posts/post/skins/base.php:622, includes/modules/posts/post/skins/base.php:868, includes/modules/posts/post/skins/base.php:1000, includes/modules/posts/post/skins/base.php:1205, includes/modules/posts/post/skins/base.php:1312, includes/modules/posts/post/skins/base.php:1419
+msgid "Background Color Type"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:158, includes/modules/categories/skins/skin-base.php:680, includes/modules/countdown/widgets/countdown.php:67
+msgid "View"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:173, includes/modules/button/widgets/button.php:157, includes/modules/categories/skins/skin-base.php:687, includes/modules/countdown/widgets/countdown.php:137, includes/modules/divider/widgets/divider.php:94, includes/modules/forms/widgets/form.php:1188, includes/modules/nav-menu/widgets/nav-menu.php:1062, includes/modules/nav-menu/widgets/nav-menu.php:1120, includes/modules/nav-menu/widgets/nav-menu.php:1585, includes/modules/photo-album/skins/skin-cover.php:241, includes/modules/photo-album/skins/skin-cover.php:328, includes/modules/posts/classes/post-base.php:1699, includes/modules/products/skins/classic.php:155, includes/modules/search-form/skins/classic.php:37, includes/modules/search-form/skins/full.php:38, includes/modules/shopping-cart/widgets/shopping-cart.php:378, includes/modules/site-logo/widgets/site-logo.php:80, includes/modules/posts/carousel/skins/base.php:583, includes/modules/posts/post/skins/base.php:722
+msgid "Width"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:204, includes/modules/alert/widgets/alert.php:401, includes/modules/button/widgets/button.php:209, includes/modules/categories/skins/skin-base.php:248, includes/modules/countdown/widgets/countdown.php:203, includes/modules/counter/widgets/counter.php:289, includes/modules/counter/widgets/counter.php:335, includes/modules/forms/widgets/form.php:757, includes/modules/icon/widgets/icon.php:248, includes/modules/nav-menu/widgets/nav-menu.php:443, includes/modules/nav-menu/widgets/nav-menu.php:784, includes/modules/nav-menu/widgets/nav-menu.php:1267, includes/modules/nav-menu/widgets/nav-menu.php:1616, includes/modules/nav-menu/widgets/nav-menu.php:1799, includes/modules/posts/classes/post-base.php:344, includes/modules/posts/classes/post-base.php:998, includes/modules/products/skins/classic.php:211, includes/modules/search-form/skins/classic.php:77, includes/modules/search-form/skins/full.php:78, includes/modules/search-form/skins/full.php:325, includes/modules/shopping-cart/widgets/shopping-cart.php:107, includes/modules/shopping-cart/widgets/shopping-cart.php:426, includes/modules/tabs/widgets/tabs.php:248, includes/modules/tabs/widgets/tabs.php:292, includes/modules/posts/carousel/actions/post-cover.php:47, includes/modules/posts/carousel/skins/base.php:316, includes/modules/posts/carousel/skins/base.php:457, includes/modules/posts/post/actions/post-cover.php:49, includes/modules/posts/post/skins/base.php:294, includes/modules/posts/post/skins/base.php:782, includes/modules/posts/post/skins/base.php:1134
+msgid "Padding"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:216, includes/modules/button/widgets/button.php:221, includes/modules/button/widgets/button.php:543, includes/modules/categories/skins/skin-base.php:260, includes/modules/categories/skins/skin-base.php:478, includes/modules/categories/skins/skin-base.php:596, includes/modules/categories/skins/skin-base.php:753, includes/modules/countdown/widgets/countdown.php:220, includes/modules/counter/widgets/counter.php:220, includes/modules/divider/widgets/divider.php:152, includes/modules/forms/widgets/form.php:1237, includes/modules/heading/widgets/heading.php:178, includes/modules/icon/widgets/icon.php:222, includes/modules/image/widgets/image.php:237, includes/modules/image/widgets/image.php:351, includes/modules/nav-menu/widgets/nav-menu.php:455, includes/modules/nav-menu/widgets/nav-menu.php:1564, includes/modules/nav-menu/widgets/nav-menu.php:1811, includes/modules/photo-album/skins/skin-base.php:196, includes/modules/photo-album/skins/skin-base.php:318, includes/modules/photo-album/skins/skin-base.php:431, includes/modules/posts/classes/post-base.php:356, includes/modules/posts/classes/post-base.php:676, includes/modules/posts/classes/post-base.php:1010, includes/modules/posts/classes/post-base.php:1255, includes/modules/posts/classes/post-base.php:1440, includes/modules/posts/classes/post-base.php:1597, includes/modules/posts/classes/post-base.php:1765, includes/modules/products/skins/classic.php:224, includes/modules/search-form/skins/classic.php:89, includes/modules/search-form/skins/full.php:337, includes/modules/shopping-cart/widgets/shopping-cart.php:119, includes/modules/shopping-cart/widgets/shopping-cart.php:486, includes/modules/site-logo/widgets/site-logo.php:142, includes/modules/posts/carousel/actions/post-cover.php:59, includes/modules/posts/post/actions/post-cover.php:61, includes/modules/posts/post/skins/base.php:309, includes/modules/posts/post/skins/base.php:797, includes/modules/posts/post/skins/base.php:1146
+msgid "Alignment"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:225, includes/modules/button/widgets/button.php:231, includes/modules/categories/skins/skin-base.php:269, includes/modules/categories/skins/skin-base.php:487, includes/modules/categories/skins/skin-base.php:605, includes/modules/categories/skins/skin-base.php:762, includes/modules/countdown/widgets/countdown.php:228, includes/modules/counter/widgets/counter.php:228, includes/modules/divider/widgets/divider.php:162, includes/modules/forms/widgets/form.php:1247, includes/modules/heading/widgets/heading.php:188, includes/modules/icon/widgets/icon.php:230, includes/modules/image/widgets/image.php:245, includes/modules/image/widgets/image.php:359, includes/modules/nav-menu/widgets/nav-menu.php:463, includes/modules/nav-menu/widgets/nav-menu.php:1819, includes/modules/photo-album/skins/skin-base.php:205, includes/modules/photo-album/skins/skin-base.php:327, includes/modules/photo-album/skins/skin-base.php:440, includes/modules/posts/classes/post-base.php:365, includes/modules/posts/classes/post-base.php:686, includes/modules/posts/classes/post-base.php:1264, includes/modules/posts/classes/post-base.php:1449, includes/modules/posts/classes/post-base.php:1606, includes/modules/posts/classes/post-base.php:1775, includes/modules/products/skins/classic.php:233, includes/modules/search-form/skins/classic.php:98, includes/modules/search-form/skins/full.php:346, includes/modules/shopping-cart/widgets/shopping-cart.php:127, includes/modules/site-logo/widgets/site-logo.php:151, includes/modules/posts/carousel/actions/post-cover.php:69, includes/modules/posts/post/actions/post-cover.php:71, includes/modules/posts/post/skins/base.php:318, includes/modules/posts/post/skins/base.php:806, includes/modules/posts/post/skins/base.php:1155
+msgid "Center"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:239, includes/modules/button/widgets/button.php:267, includes/modules/button/widgets/button.php:347, includes/modules/categories/skins/skin-base.php:376, includes/modules/categories/skins/skin-base.php:871, includes/modules/countdown/widgets/countdown.php:251, includes/modules/forms/widgets/form.php:1363, includes/modules/icon/widgets/icon.php:296, includes/modules/icon/widgets/icon.php:358, includes/modules/image/widgets/image.php:263, includes/modules/nav-menu/widgets/nav-menu.php:518, includes/modules/nav-menu/widgets/nav-menu.php:606, includes/modules/nav-menu/widgets/nav-menu.php:694, includes/modules/nav-menu/widgets/nav-menu.php:876, includes/modules/nav-menu/widgets/nav-menu.php:1378, includes/modules/nav-menu/widgets/nav-menu.php:1627, includes/modules/nav-menu/widgets/nav-menu.php:1876, includes/modules/nav-menu/widgets/nav-menu.php:1969, includes/modules/photo-album/skins/skin-cover.php:31, includes/modules/photo-album/skins/skin-cover.php:383, includes/modules/posts/classes/post-base.php:408, includes/modules/posts/classes/post-base.php:495, includes/modules/posts/classes/post-base.php:762, includes/modules/posts/classes/post-base.php:849, includes/modules/posts/classes/post-base.php:1067, includes/modules/posts/classes/post-base.php:1157, includes/modules/posts/classes/post-base.php:1842, includes/modules/posts/classes/post-base.php:1949, includes/modules/products/skins/classic.php:301, includes/modules/products/skins/classic.php:417, includes/modules/search-form/skins/classic.php:144, includes/modules/search-form/skins/classic.php:237, includes/modules/search-form/skins/classic.php:358, includes/modules/search-form/skins/classic.php:442, includes/modules/search-form/skins/full.php:121, includes/modules/search-form/skins/full.php:214, includes/modules/search-form/skins/full.php:394, includes/modules/search-form/skins/full.php:487, includes/modules/shopping-cart/widgets/shopping-cart.php:176, includes/modules/shopping-cart/widgets/shopping-cart.php:269, includes/modules/shopping-cart/widgets/shopping-cart.php:438, includes/modules/tabs/widgets/tabs.php:142, includes/modules/posts/carousel/actions/post-cover.php:112, includes/modules/posts/carousel/actions/post-cover.php:199, includes/modules/posts/carousel/skins/base.php:347, includes/modules/posts/carousel/skins/base.php:488, includes/modules/posts/carousel/skins/base.php:709, includes/modules/posts/carousel/skins/base.php:801, includes/modules/posts/carousel/skins/base.php:893, includes/modules/posts/post/actions/post-cover.php:114, includes/modules/posts/post/actions/post-cover.php:201, includes/modules/posts/post/skins/base.php:396, includes/modules/posts/post/skins/base.php:517, includes/modules/posts/post/skins/base.php:638, includes/modules/posts/post/skins/base.php:884, includes/modules/posts/post/skins/base.php:1016, includes/modules/posts/post/skins/base.php:1218, includes/modules/posts/post/skins/base.php:1325, includes/modules/posts/post/skins/base.php:1432
+msgid "Border"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:248, includes/modules/alert/widgets/alert.php:371, includes/modules/button/widgets/button.php:276, includes/modules/button/widgets/button.php:356, includes/modules/categories/skins/skin-base.php:385, includes/modules/categories/skins/skin-base.php:513, includes/modules/categories/skins/skin-base.php:533, includes/modules/categories/skins/skin-base.php:631, includes/modules/categories/skins/skin-base.php:651, includes/modules/categories/skins/skin-base.php:788, includes/modules/categories/skins/skin-base.php:832, includes/modules/categories/skins/skin-base.php:880, includes/modules/countdown/widgets/countdown.php:304, includes/modules/countdown/widgets/countdown.php:337, includes/modules/forms/widgets/form.php:534, includes/modules/forms/widgets/form.php:702, includes/modules/forms/widgets/form.php:733, includes/modules/forms/widgets/form.php:791, includes/modules/forms/widgets/form.php:869, includes/modules/forms/widgets/form.php:1046, includes/modules/forms/widgets/form.php:1270, includes/modules/forms/widgets/form.php:1319, includes/modules/heading/widgets/heading.php:268, includes/modules/nav-menu/widgets/nav-menu.php:527, includes/modules/nav-menu/widgets/nav-menu.php:615, includes/modules/nav-menu/widgets/nav-menu.php:703, includes/modules/nav-menu/widgets/nav-menu.php:838, includes/modules/nav-menu/widgets/nav-menu.php:885, includes/modules/nav-menu/widgets/nav-menu.php:1200, includes/modules/nav-menu/widgets/nav-menu.php:1217, includes/modules/nav-menu/widgets/nav-menu.php:1338, includes/modules/nav-menu/widgets/nav-menu.php:1387, includes/modules/nav-menu/widgets/nav-menu.php:1636, includes/modules/nav-menu/widgets/nav-menu.php:1734, includes/modules/nav-menu/widgets/nav-menu.php:1754, includes/modules/nav-menu/widgets/nav-menu.php:1846, includes/modules/nav-menu/widgets/nav-menu.php:1885, includes/modules/nav-menu/widgets/nav-menu.php:1939, includes/modules/nav-menu/widgets/nav-menu.php:1978, includes/modules/photo-album/skins/skin-base.php:252, includes/modules/photo-album/skins/skin-base.php:281, includes/modules/photo-album/skins/skin-base.php:365, includes/modules/photo-album/skins/skin-base.php:394, includes/modules/photo-album/skins/skin-cover.php:40, includes/modules/photo-album/skins/skin-cover.php:392, includes/modules/posts/classes/post-base.php:417, includes/modules/posts/classes/post-base.php:504, includes/modules/posts/classes/post-base.php:771, includes/modules/posts/classes/post-base.php:858, includes/modules/posts/classes/post-base.php:930, includes/modules/posts/classes/post-base.php:1045, includes/modules/posts/classes/post-base.php:1085, includes/modules/posts/classes/post-base.php:1128, includes/modules/posts/classes/post-base.php:1175, includes/modules/posts/classes/post-base.php:1290, includes/modules/posts/classes/post-base.php:1311, includes/modules/posts/classes/post-base.php:1475, includes/modules/posts/classes/post-base.php:1508, includes/modules/posts/classes/post-base.php:1632, includes/modules/posts/classes/post-base.php:1652, includes/modules/posts/classes/post-base.php:1805, includes/modules/posts/classes/post-base.php:1851, includes/modules/posts/classes/post-base.php:1912, includes/modules/posts/classes/post-base.php:1958, includes/modules/products/skins/classic.php:261, includes/modules/products/skins/classic.php:311, includes/modules/products/skins/classic.php:377, includes/modules/products/skins/classic.php:427, includes/modules/search-form/skins/classic.php:153, includes/modules/search-form/skins/classic.php:246, includes/modules/search-form/skins/classic.php:336, includes/modules/search-form/skins/classic.php:367, includes/modules/search-form/skins/classic.php:420, includes/modules/search-form/skins/classic.php:451, includes/modules/search-form/skins/full.php:130, includes/modules/search-form/skins/full.php:223, includes/modules/search-form/skins/full.php:372, includes/modules/search-form/skins/full.php:403, includes/modules/search-form/skins/full.php:465, includes/modules/search-form/skins/full.php:496, includes/modules/shopping-cart/widgets/shopping-cart.php:154, includes/modules/shopping-cart/widgets/shopping-cart.php:185, includes/modules/shopping-cart/widgets/shopping-cart.php:247, includes/modules/shopping-cart/widgets/shopping-cart.php:278, includes/modules/shopping-cart/widgets/shopping-cart.php:356, includes/modules/tabs/widgets/tabs.php:151, includes/modules/tabs/widgets/tabs.php:217, includes/modules/tabs/widgets/tabs.php:272, includes/modules/tabs/widgets/tabs.php:316, includes/modules/video/widgets/video.php:479, includes/modules/posts/carousel/actions/post-cover.php:121, includes/modules/posts/carousel/actions/post-cover.php:208, includes/modules/posts/carousel/skins/base.php:276, includes/modules/posts/carousel/skins/base.php:356, includes/modules/posts/carousel/skins/base.php:417, includes/modules/posts/carousel/skins/base.php:497, includes/modules/posts/carousel/skins/base.php:674, includes/modules/posts/carousel/skins/base.php:721, includes/modules/posts/carousel/skins/base.php:766, includes/modules/posts/carousel/skins/base.php:813, includes/modules/posts/carousel/skins/base.php:858, includes/modules/posts/carousel/skins/base.php:905, includes/modules/posts/carousel/skins/base.php:968, includes/modules/posts/carousel/skins/base.php:1015, includes/modules/posts/carousel/skins/base.php:1062, includes/modules/posts/post/actions/post-cover.php:123, includes/modules/posts/post/actions/post-cover.php:210, includes/modules/posts/post/skins/base.php:350, includes/modules/posts/post/skins/base.php:408, includes/modules/posts/post/skins/base.php:471, includes/modules/posts/post/skins/base.php:529, includes/modules/posts/post/skins/base.php:592, includes/modules/posts/post/skins/base.php:650, includes/modules/posts/post/skins/base.php:838, includes/modules/posts/post/skins/base.php:896, includes/modules/posts/post/skins/base.php:970, includes/modules/posts/post/skins/base.php:1028, includes/modules/posts/post/skins/base.php:1181, includes/modules/posts/post/skins/base.php:1227, includes/modules/posts/post/skins/base.php:1288, includes/modules/posts/post/skins/base.php:1334, includes/modules/posts/post/skins/base.php:1395, includes/modules/posts/post/skins/base.php:1441
+msgid "Color"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:267, includes/modules/button/widgets/button.php:295, includes/modules/button/widgets/button.php:375, includes/modules/categories/skins/skin-base.php:404, includes/modules/categories/skins/skin-base.php:899, includes/modules/forms/widgets/form.php:936, includes/modules/forms/widgets/form.php:977, includes/modules/forms/widgets/form.php:1113, includes/modules/forms/widgets/form.php:1154, includes/modules/nav-menu/widgets/nav-menu.php:546, includes/modules/nav-menu/widgets/nav-menu.php:634, includes/modules/nav-menu/widgets/nav-menu.php:722, includes/modules/nav-menu/widgets/nav-menu.php:852, includes/modules/nav-menu/widgets/nav-menu.php:904, includes/modules/nav-menu/widgets/nav-menu.php:1353, includes/modules/nav-menu/widgets/nav-menu.php:1406, includes/modules/nav-menu/widgets/nav-menu.php:1655, includes/modules/nav-menu/widgets/nav-menu.php:1904, includes/modules/nav-menu/widgets/nav-menu.php:1997, includes/modules/photo-album/skins/skin-cover.php:59, includes/modules/photo-album/skins/skin-cover.php:408, includes/modules/posts/classes/post-base.php:436, includes/modules/posts/classes/post-base.php:523, includes/modules/posts/classes/post-base.php:787, includes/modules/posts/classes/post-base.php:874, includes/modules/posts/classes/post-base.php:1870, includes/modules/posts/classes/post-base.php:1977, includes/modules/products/skins/classic.php:331, includes/modules/products/skins/classic.php:447, includes/modules/search-form/skins/classic.php:172, includes/modules/search-form/skins/classic.php:265, includes/modules/search-form/skins/classic.php:386, includes/modules/search-form/skins/classic.php:470, includes/modules/search-form/skins/full.php:149, includes/modules/search-form/skins/full.php:242, includes/modules/search-form/skins/full.php:422, includes/modules/search-form/skins/full.php:515, includes/modules/shopping-cart/widgets/shopping-cart.php:204, includes/modules/shopping-cart/widgets/shopping-cart.php:297, includes/modules/tabs/widgets/tabs.php:187, includes/modules/posts/carousel/actions/post-cover.php:140, includes/modules/posts/carousel/actions/post-cover.php:227, includes/modules/posts/carousel/skins/base.php:375, includes/modules/posts/carousel/skins/base.php:516, includes/modules/posts/carousel/skins/base.php:741, includes/modules/posts/carousel/skins/base.php:833, includes/modules/posts/carousel/skins/base.php:925, includes/modules/posts/post/actions/post-cover.php:142, includes/modules/posts/post/actions/post-cover.php:229, includes/modules/posts/post/skins/base.php:428, includes/modules/posts/post/skins/base.php:549, includes/modules/posts/post/skins/base.php:670, includes/modules/posts/post/skins/base.php:916, includes/modules/posts/post/skins/base.php:1048, includes/modules/posts/post/skins/base.php:1246, includes/modules/posts/post/skins/base.php:1353, includes/modules/posts/post/skins/base.php:1460
+msgid "Border Width"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:277, includes/modules/button/widgets/button.php:305, includes/modules/button/widgets/button.php:385, includes/modules/categories/skins/skin-base.php:414, includes/modules/categories/skins/skin-base.php:909, includes/modules/countdown/widgets/countdown.php:268, includes/modules/forms/widgets/form.php:605, includes/modules/forms/widgets/form.php:657, includes/modules/forms/widgets/form.php:1006, includes/modules/forms/widgets/form.php:1397, includes/modules/icon/widgets/icon.php:313, includes/modules/icon/widgets/icon.php:375, includes/modules/image/widgets/image.php:280, includes/modules/nav-menu/widgets/nav-menu.php:556, includes/modules/nav-menu/widgets/nav-menu.php:644, includes/modules/nav-menu/widgets/nav-menu.php:732, includes/modules/nav-menu/widgets/nav-menu.php:914, includes/modules/nav-menu/widgets/nav-menu.php:1416, includes/modules/nav-menu/widgets/nav-menu.php:1665, includes/modules/nav-menu/widgets/nav-menu.php:1915, includes/modules/nav-menu/widgets/nav-menu.php:2008, includes/modules/photo-album/skins/skin-cover.php:69, includes/modules/photo-album/skins/skin-cover.php:418, includes/modules/posts/classes/post-base.php:446, includes/modules/posts/classes/post-base.php:533, includes/modules/posts/classes/post-base.php:797, includes/modules/posts/classes/post-base.php:884, includes/modules/posts/classes/post-base.php:1099, includes/modules/posts/classes/post-base.php:1189, includes/modules/posts/classes/post-base.php:1880, includes/modules/posts/classes/post-base.php:1987, includes/modules/products/skins/classic.php:342, includes/modules/products/skins/classic.php:458, includes/modules/search-form/skins/classic.php:182, includes/modules/search-form/skins/classic.php:275, includes/modules/search-form/skins/classic.php:396, includes/modules/search-form/skins/classic.php:480, includes/modules/search-form/skins/full.php:159, includes/modules/search-form/skins/full.php:252, includes/modules/search-form/skins/full.php:432, includes/modules/search-form/skins/full.php:525, includes/modules/shopping-cart/widgets/shopping-cart.php:214, includes/modules/shopping-cart/widgets/shopping-cart.php:307, includes/modules/shopping-cart/widgets/shopping-cart.php:447, includes/modules/posts/carousel/actions/post-cover.php:150, includes/modules/posts/carousel/actions/post-cover.php:237, includes/modules/posts/carousel/skins/base.php:385, includes/modules/posts/carousel/skins/base.php:526, includes/modules/posts/post/actions/post-cover.php:152, includes/modules/posts/post/actions/post-cover.php:239, includes/modules/posts/post/skins/base.php:441, includes/modules/posts/post/skins/base.php:562, includes/modules/posts/post/skins/base.php:683, includes/modules/posts/post/skins/base.php:929, includes/modules/posts/post/skins/base.php:1061, includes/modules/posts/post/skins/base.php:1256, includes/modules/posts/post/skins/base.php:1363, includes/modules/posts/post/skins/base.php:1470
+msgid "Border Radius"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:296, includes/modules/categories/skins/skin-base.php:149, includes/modules/categories/skins/skin-base.php:449, includes/modules/countdown/widgets/countdown.php:329, includes/modules/counter/widgets/counter.php:94, includes/modules/counter/widgets/counter.php:351, includes/modules/forms/actions/slack.php:93, includes/modules/heading/widgets/heading.php:41, includes/modules/photo-album/skins/skin-base.php:107, includes/modules/photo-album/skins/skin-base.php:235, includes/modules/photo-album/widgets/photo-album.php:61, includes/modules/posts/widgets/posts-carousel.php:117, includes/modules/posts/widgets/posts.php:111, includes/modules/products/widgets/products.php:96, includes/modules/tabs/widgets/tabs.php:209
+msgid "Title"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:304, includes/modules/alert/widgets/alert.php:336, includes/modules/button/widgets/button.php:443, includes/modules/button/widgets/button.php:472, includes/modules/image/widgets/image.php:380, includes/modules/nav-menu/widgets/nav-menu.php:492, includes/modules/nav-menu/widgets/nav-menu.php:580, includes/modules/nav-menu/widgets/nav-menu.php:668, includes/modules/nav-menu/widgets/nav-menu.php:946, includes/modules/nav-menu/widgets/nav-menu.php:982, includes/modules/nav-menu/widgets/nav-menu.php:1017, includes/modules/nav-menu/widgets/nav-menu.php:1449, includes/modules/nav-menu/widgets/nav-menu.php:1484, includes/modules/nav-menu/widgets/nav-menu.php:1519, includes/modules/search-form/skins/classic.php:122, includes/modules/search-form/skins/classic.php:215, includes/modules/search-form/skins/full.php:99, includes/modules/search-form/skins/full.php:192
+msgid "Text Color"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:328, includes/modules/categories/skins/skin-base.php:161, includes/modules/categories/skins/skin-base.php:552, includes/modules/forms/actions/slack.php:101, includes/modules/photo-album/skins/skin-base.php:119, includes/modules/photo-album/skins/skin-base.php:348, includes/modules/photo-album/widgets/photo-album.php:72, includes/modules/tabs/widgets/tabs.php:264
+msgid "Description"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:360, includes/modules/button/widgets/button.php:491, includes/modules/counter/widgets/counter.php:49, includes/modules/counter/widgets/counter.php:250, includes/modules/forms/widgets/form.php:330, includes/modules/forms/widgets/form.php:782, includes/modules/icon/widgets/icon.php:15, includes/modules/icon/widgets/icon.php:40, includes/modules/icon/widgets/icon.php:108, includes/modules/nav-menu/widgets/nav-menu.php:1167, includes/modules/posts/classes/post-base.php:157, includes/modules/posts/classes/post-base.php:188, includes/modules/search-form/skins/classic.php:307, includes/modules/search-form/skins/full.php:305, includes/modules/shopping-cart/widgets/shopping-cart.php:81, includes/modules/tabs/widgets/tabs.php:66, includes/modules/tabs/widgets/tabs.php:308, includes/modules/video/widgets/video.php:172, includes/modules/video/widgets/video.php:467
+msgid "Icon"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:385, includes/modules/button/widgets/button.php:502, includes/modules/counter/widgets/counter.php:271, includes/modules/forms/fields/recaptcha.php:139, includes/modules/forms/widgets/form.php:802, includes/modules/forms/widgets/form.php:856, includes/modules/forms/widgets/form.php:1033, includes/modules/icon/widgets/icon.php:138, includes/modules/icon/widgets/icon.php:189, includes/modules/image/widgets/image.php:184, includes/modules/nav-menu/widgets/nav-menu.php:1176, includes/modules/nav-menu/widgets/nav-menu.php:1707, includes/modules/nav-menu/widgets/nav-menu.php:1781, includes/modules/photo-album/skins/skin-cover.php:227, includes/modules/photo-album/skins/skin-cover.php:309, includes/modules/posts/classes/post-base.php:964, includes/modules/tabs/widgets/tabs.php:327, includes/modules/video/widgets/video.php:490, includes/modules/posts/carousel/skins/base.php:298, includes/modules/posts/carousel/skins/base.php:439, includes/modules/posts/carousel/skins/base.php:688, includes/modules/posts/carousel/skins/base.php:780, includes/modules/posts/carousel/skins/base.php:872
+msgid "Size"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:453
+msgid "Dismiss Alert"
+msgstr ""
+
+#: includes/modules/alert/widgets/alert.php:526
+msgid "Dismiss alert"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:17, includes/modules/categories/skins/skin-base.php:173, includes/modules/categories/skins/skin-base.php:670, includes/modules/forms/widgets/form.php:1180
+msgid "Button"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:45
+msgid "Enter your text"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:46
+msgid "Click me"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:62
+msgid "Show as Add to cart button"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:64, includes/modules/forms/actions/hubspot.php:234, includes/modules/forms/actions/slack.php:297, includes/modules/forms/actions/webhook.php:124, includes/modules/image/widgets/image.php:96, includes/modules/posts/classes/post-base.php:115, includes/modules/posts/classes/post-base.php:129, includes/modules/shopping-cart/widgets/shopping-cart.php:69, includes/modules/video/widgets/video.php:161, includes/modules/posts/carousel/skins/base.php:160, includes/modules/posts/carousel/skins/base.php:188, includes/modules/posts/carousel/skins/base.php:203
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:65, includes/modules/forms/actions/hubspot.php:234, includes/modules/forms/actions/slack.php:297, includes/modules/forms/actions/webhook.php:124, includes/modules/image/widgets/image.php:97, includes/modules/posts/classes/post-base.php:116, includes/modules/posts/classes/post-base.php:130, includes/modules/shopping-cart/widgets/shopping-cart.php:68, includes/modules/video/widgets/video.php:160, includes/modules/posts/carousel/skins/base.php:161, includes/modules/posts/carousel/skins/base.php:189, includes/modules/posts/carousel/skins/base.php:204
+msgid "No"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:79
+msgid "Product"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:93, includes/modules/button/widgets/button.php:108, includes/modules/heading/widgets/heading.php:51, includes/modules/icon/widgets/icon.php:49, includes/modules/site-logo/widgets/site-logo.php:55, includes/modules/video/widgets/video.php:62, includes/modules/video/widgets/video.php:76
+msgid "Link"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:95, includes/modules/button/widgets/button.php:110, includes/modules/heading/widgets/heading.php:53, includes/modules/nav-menu/widgets/nav-menu.php:242, includes/modules/nav-menu/widgets/nav-menu.php:382, includes/modules/site-logo/widgets/site-logo.php:57
+msgid "Enter your web address"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:132
+msgid "Hover Effects"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:149, includes/modules/categories/skins/skin-base.php:189, includes/modules/countdown/widgets/countdown.php:129, includes/modules/counter/widgets/counter.php:189, includes/modules/icon/widgets/icon.php:69, includes/modules/icon/widgets/icon.php:267, includes/modules/posts/classes/post-base.php:336, includes/modules/posts/carousel/actions/post-cover.php:39, includes/modules/posts/post/actions/post-cover.php:41
+msgid "Container"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:183, includes/modules/categories/skins/skin-base.php:197, includes/modules/categories/skins/skin-base.php:714, includes/modules/forms/widgets/form.php:1209, includes/modules/photo-album/skins/skin-base.php:152, includes/modules/photo-album/skins/skin-cover.php:260, includes/modules/photo-album/skins/skin-cover.php:347, includes/modules/posts/classes/post-base.php:1726, includes/modules/products/skins/classic.php:183, includes/modules/shopping-cart/widgets/shopping-cart.php:396, includes/modules/posts/carousel/actions/post-classic.php:54, includes/modules/posts/carousel/actions/post-cover.php:418, includes/modules/posts/post/skins/base.php:752
+msgid "Height"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:239, includes/modules/image/widgets/image.php:367, includes/modules/posts/classes/post-base.php:1783
+msgid "Justified"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:251, includes/modules/button/widgets/button.php:427, includes/modules/categories/skins/skin-base.php:326, includes/modules/categories/skins/skin-base.php:506, includes/modules/categories/skins/skin-base.php:624, includes/modules/categories/skins/skin-base.php:781, includes/modules/categories/skins/skin-inner-content.php:91, includes/modules/categories/skins/skin-outer-content.php:84, includes/modules/forms/fields/recaptcha.php:143, includes/modules/forms/widgets/form.php:579, includes/modules/forms/widgets/form.php:915, includes/modules/forms/widgets/form.php:1092, includes/modules/forms/widgets/form.php:1263, includes/modules/icon/widgets/icon.php:118, includes/modules/icon/widgets/icon.php:280, includes/modules/image/widgets/image.php:294, includes/modules/nav-menu/widgets/nav-menu.php:485, includes/modules/nav-menu/widgets/nav-menu.php:939, includes/modules/nav-menu/widgets/nav-menu.php:1193, includes/modules/nav-menu/widgets/nav-menu.php:1442, includes/modules/nav-menu/widgets/nav-menu.php:1727, includes/modules/nav-menu/widgets/nav-menu.php:1839, includes/modules/photo-album/skins/skin-base.php:245, includes/modules/photo-album/skins/skin-base.php:358, includes/modules/photo-album/skins/skin-cover.php:108, includes/modules/photo-album/skins/skin-cover.php:199, includes/modules/posts/classes/post-base.php:384, includes/modules/posts/classes/post-base.php:728, includes/modules/posts/classes/post-base.php:1038, includes/modules/posts/classes/post-base.php:1283, includes/modules/posts/classes/post-base.php:1468, includes/modules/posts/classes/post-base.php:1625, includes/modules/posts/classes/post-base.php:1798, includes/modules/products/skins/classic.php:253, includes/modules/search-form/skins/classic.php:115, includes/modules/search-form/skins/classic.php:329, includes/modules/search-form/skins/full.php:92, includes/modules/search-form/skins/full.php:365, includes/modules/shopping-cart/widgets/shopping-cart.php:147, includes/modules/posts/carousel/actions/post-cover.php:88, includes/modules/posts/carousel/actions/post-cover.php:341, includes/modules/posts/carousel/skins/base.php:269, includes/modules/posts/carousel/skins/base.php:664, includes/modules/posts/carousel/skins/base.php:958, includes/modules/posts/post/actions/post-cover.php:90, includes/modules/posts/post/actions/post-cover.php:403, includes/modules/posts/post/skins/base.php:340, includes/modules/posts/post/skins/base.php:828, includes/modules/posts/post/skins/base.php:1174
+msgid "Normal"
+msgstr ""
+
+#: includes/modules/button/widgets/button.php:331, includes/modules/button/widgets/button.php:456, includes/modules/categories/skins/skin-base.php:350, includes/modules/categories/skins/skin-base.php:526, includes/modules/categories/skins/skin-base.php:644, includes/modules/categories/skins/skin-base.php:825, includes/modules/categories/skins/skin-inner-content.php:133, includes/modules/categories/skins/skin-outer-content.php:126, includes/modules/forms/widgets/form.php:1312, includes/modules/icon/widgets/icon.php:169, includes/modules/icon/widgets/icon.php:342, includes/modules/image/widgets/image.php:315, includes/modules/nav-menu/widgets/nav-menu.php:573, includes/modules/nav-menu/widgets/nav-menu.php:975, includes/modules/nav-menu/widgets/nav-menu.php:1210, includes/modules/nav-menu/widgets/nav-menu.php:1477, includes/modules/nav-menu/widgets/nav-menu.php:1747, includes/modules/nav-menu/widgets/nav-menu.php:1932, includes/modules/photo-album/skins/skin-base.php:274, includes/modules/photo-album/skins/skin-base.php:387, includes/modules/photo-album/skins/skin-cover.php:132, includes/modules/photo-album/skins/skin-cover.php:281, includes/modules/posts/classes/post-base.php:471, includes/modules/posts/classes/post-base.php:814, includes/modules/posts/classes/post-base.php:1121, includes/modules/posts/classes/post-base.php:1304, includes/modules/posts/classes/post-base.php:1501, includes/modules/posts/classes/post-base.php:1645, includes/modules/posts/classes/post-base.php:1905, includes/modules/products/skins/classic.php:369, includes/modules/search-form/skins/classic.php:413, includes/modules/search-form/skins/full.php:458, includes/modules/shopping-cart/widgets/shopping-cart.php:240, includes/modules/posts/carousel/actions/post-cover.php:175, includes/modules/posts/carousel/actions/post-cover.php:368, includes/modules/posts/carousel/skins/base.php:410, includes/modules/posts/carousel/skins/base.php:848, includes/modules/posts/carousel/skins/base.php:1052, includes/modules/posts/post/actions/post-cover.php:177, includes/modules/posts/post/actions/post-cover.php:439, includes/modules/posts/post/skins/base.php:582, includes/modules/posts/post/skins/base.php:960, includes/modules/posts/post/skins/base.php:1388
+msgid "Hover"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:71, includes/modules/nav-menu/widgets/nav-menu.php:192, includes/modules/photo-album/skins/skin-base.php:41, includes/modules/products/skins/classic.php:30, includes/modules/posts/post/skins/base.php:36
+msgid "Layout"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:75, includes/modules/photo-album/skins/skin-base.php:45, includes/modules/products/skins/classic.php:34, includes/modules/posts/post/skins/base.php:40
+msgid "Grid"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:76, includes/modules/photo-album/skins/skin-base.php:46, includes/modules/posts/post/skins/base.php:41
+msgid "Masonry"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:85, includes/modules/counter/widgets/counter.php:134, includes/modules/photo-album/skins/skin-base.php:55, includes/modules/products/skins/classic.php:43, includes/modules/posts/post/skins/base.php:64
+msgid "Columns"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:91, includes/modules/counter/widgets/counter.php:138, includes/modules/photo-album/skins/skin-base.php:61, includes/modules/products/skins/classic.php:47, includes/modules/products/skins/classic.php:66, includes/modules/posts/carousel/skins/base.php:41, includes/modules/posts/carousel/skins/base.php:59, includes/modules/posts/post/skins/base.php:70
+msgid "1"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:92, includes/modules/counter/widgets/counter.php:139, includes/modules/photo-album/skins/skin-base.php:62, includes/modules/products/skins/classic.php:48, includes/modules/products/skins/classic.php:67, includes/modules/posts/carousel/skins/base.php:42, includes/modules/posts/carousel/skins/base.php:60, includes/modules/posts/post/skins/base.php:71
+msgid "2"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:93, includes/modules/counter/widgets/counter.php:140, includes/modules/photo-album/skins/skin-base.php:63, includes/modules/products/skins/classic.php:49, includes/modules/products/skins/classic.php:68, includes/modules/posts/carousel/skins/base.php:43, includes/modules/posts/carousel/skins/base.php:61, includes/modules/posts/post/skins/base.php:72
+msgid "3"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:94, includes/modules/counter/widgets/counter.php:141, includes/modules/photo-album/skins/skin-base.php:64, includes/modules/products/skins/classic.php:50, includes/modules/products/skins/classic.php:69, includes/modules/posts/carousel/skins/base.php:44, includes/modules/posts/carousel/skins/base.php:62, includes/modules/posts/post/skins/base.php:73
+msgid "4"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:95, includes/modules/counter/widgets/counter.php:142, includes/modules/photo-album/skins/skin-base.php:65, includes/modules/products/skins/classic.php:51, includes/modules/products/skins/classic.php:70, includes/modules/posts/carousel/skins/base.php:45, includes/modules/posts/carousel/skins/base.php:63, includes/modules/posts/post/skins/base.php:74
+msgid "5"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:96, includes/modules/counter/widgets/counter.php:143, includes/modules/photo-album/skins/skin-base.php:66, includes/modules/products/skins/classic.php:52, includes/modules/products/skins/classic.php:71, includes/modules/posts/carousel/skins/base.php:46, includes/modules/posts/carousel/skins/base.php:64, includes/modules/posts/post/skins/base.php:75
+msgid "6"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:117, includes/modules/categories/skins/skin-inner-content.php:69, includes/modules/categories/skins/skin-outer-content.php:62, includes/modules/icon/widgets/icon.php:96, includes/modules/image/widgets/image.php:148, includes/modules/photo-album/skins/skin-cover.php:21, includes/modules/photo-album/skins/skin-cover.php:158, includes/modules/photo-album/skins/skin-stack.php:21, includes/modules/posts/classes/post-base.php:104, includes/modules/posts/classes/post-base.php:706, includes/modules/posts/carousel/actions/post-cover.php:319, includes/modules/posts/post/actions/post-cover.php:381
+msgid "Hover Effect"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:125
+msgid "Sub Categories"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:137, includes/modules/categories/skins/skin-inner-content.php:21, includes/modules/categories/skins/skin-outer-content.php:21, includes/modules/posts/classes/post-base.php:203, includes/modules/posts/classes/post-base.php:572, includes/modules/posts/carousel/actions/post-cover.php:268, includes/modules/posts/post/actions/post-cover.php:270
+msgid "Featured Image"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:223, includes/modules/forms/widgets/form.php:493, includes/modules/photo-album/skins/skin-base.php:173, includes/modules/posts/post/actions/post-classic.php:64, includes/modules/posts/post/actions/post-cover.php:496
+msgid "Column Spacing"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:236, includes/modules/forms/widgets/form.php:508, includes/modules/photo-album/skins/skin-base.php:185, includes/modules/posts/post/actions/post-classic.php:105, includes/modules/posts/post/actions/post-cover.php:537
+msgid "Row Spacing"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:287, includes/modules/posts/carousel/actions/post-cover.php:462
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:466, includes/modules/categories/skins/skin-base.php:584, includes/modules/categories/skins/skin-base.php:741, includes/modules/categories/skins/skin-outer-content.php:50, includes/modules/countdown/widgets/countdown.php:358, includes/modules/divider/widgets/divider.php:125, includes/modules/forms/widgets/form.php:554, includes/modules/forms/widgets/form.php:901, includes/modules/forms/widgets/form.php:1078, includes/modules/forms/widgets/form.php:1225, includes/modules/photo-album/skins/skin-base.php:305, includes/modules/photo-album/skins/skin-base.php:418, includes/modules/photo-album/skins/skin-cover.php:370, includes/modules/posts/classes/post-base.php:662, includes/modules/posts/classes/post-base.php:1243, includes/modules/posts/classes/post-base.php:1427, includes/modules/posts/classes/post-base.php:1585, includes/modules/posts/classes/post-base.php:1753, includes/modules/shopping-cart/widgets/shopping-cart.php:414, includes/modules/tabs/widgets/tabs.php:345, includes/modules/posts/carousel/skins/base.php:328, includes/modules/posts/carousel/skins/base.php:469, includes/modules/posts/carousel/skins/base.php:622, includes/modules/posts/post/skins/base.php:232, includes/modules/posts/post/skins/base.php:1122
+msgid "Spacing"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-base.php:560
+msgid "Length"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:14, includes/modules/posts/carousel/skins/cover.php:20, includes/modules/posts/post/skins/cover.php:20
+msgid "Inner Content"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:29, includes/modules/posts/carousel/actions/post-cover.php:279, includes/modules/posts/post/actions/post-cover.php:281
+msgid "Background Position"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:33, includes/modules/posts/carousel/actions/post-cover.php:283, includes/modules/posts/post/actions/post-cover.php:285
+msgid "Center Center"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:34, includes/modules/posts/carousel/actions/post-cover.php:284, includes/modules/posts/post/actions/post-cover.php:286
+msgid "Center Left"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:35, includes/modules/posts/carousel/actions/post-cover.php:285, includes/modules/posts/post/actions/post-cover.php:287
+msgid "Center Right"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:36, includes/modules/posts/carousel/actions/post-cover.php:286, includes/modules/posts/post/actions/post-cover.php:288
+msgid "Top Center"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:37, includes/modules/posts/carousel/actions/post-cover.php:287, includes/modules/posts/post/actions/post-cover.php:289
+msgid "Top Left"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:38, includes/modules/posts/carousel/actions/post-cover.php:288, includes/modules/posts/post/actions/post-cover.php:290
+msgid "Top Right"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:39, includes/modules/posts/carousel/actions/post-cover.php:289, includes/modules/posts/post/actions/post-cover.php:291
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:40, includes/modules/posts/carousel/actions/post-cover.php:290, includes/modules/posts/post/actions/post-cover.php:292
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:41, includes/modules/posts/carousel/actions/post-cover.php:291, includes/modules/posts/post/actions/post-cover.php:293
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:52, includes/modules/posts/carousel/actions/post-cover.php:302, includes/modules/posts/post/actions/post-cover.php:334
+msgid "Background Size"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:56, includes/modules/posts/carousel/actions/post-cover.php:306, includes/modules/posts/post/actions/post-cover.php:338
+msgid "Auto"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:57, includes/modules/photo-album/skins/skin-base.php:144, includes/modules/photo-album/skins/skin-cover.php:14, includes/modules/posts/carousel/actions/post-cover.php:307, includes/modules/posts/post/actions/post-cover.php:339
+msgid "Cover"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:58, includes/modules/posts/carousel/actions/post-cover.php:308, includes/modules/posts/post/actions/post-cover.php:340
+msgid "Contain"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:74, includes/modules/categories/skins/skin-outer-content.php:67, includes/modules/posts/classes/post-base.php:711, includes/modules/posts/carousel/actions/post-cover.php:324, includes/modules/posts/post/actions/post-cover.php:386
+msgid "Slide Right"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:75, includes/modules/categories/skins/skin-outer-content.php:68, includes/modules/posts/classes/post-base.php:712, includes/modules/posts/carousel/actions/post-cover.php:325, includes/modules/posts/post/actions/post-cover.php:387
+msgid "Slide Down"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:76, includes/modules/categories/skins/skin-outer-content.php:69, includes/modules/posts/classes/post-base.php:713, includes/modules/posts/carousel/actions/post-cover.php:326, includes/modules/posts/post/actions/post-cover.php:388
+msgid "Scale Down"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:77, includes/modules/categories/skins/skin-outer-content.php:70, includes/modules/posts/classes/post-base.php:714, includes/modules/posts/carousel/actions/post-cover.php:327, includes/modules/posts/post/actions/post-cover.php:389
+msgid "Scale Up"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:78, includes/modules/categories/skins/skin-outer-content.php:71, includes/modules/posts/classes/post-base.php:715, includes/modules/posts/carousel/actions/post-cover.php:328, includes/modules/posts/post/actions/post-cover.php:390
+msgid "Blur"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:79, includes/modules/categories/skins/skin-outer-content.php:72, includes/modules/posts/classes/post-base.php:716, includes/modules/posts/carousel/actions/post-cover.php:329, includes/modules/posts/post/actions/post-cover.php:391
+msgid "Grayscale to Color"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:80, includes/modules/categories/skins/skin-outer-content.php:73, includes/modules/posts/classes/post-base.php:717, includes/modules/posts/carousel/actions/post-cover.php:330, includes/modules/posts/post/actions/post-cover.php:392
+msgid "Color to Grayscale"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:98, includes/modules/categories/skins/skin-inner-content.php:140, includes/modules/categories/skins/skin-outer-content.php:91, includes/modules/categories/skins/skin-outer-content.php:133, includes/modules/photo-album/skins/skin-cover.php:206, includes/modules/photo-album/skins/skin-cover.php:288, includes/modules/posts/classes/post-base.php:735, includes/modules/posts/classes/post-base.php:821, includes/modules/posts/carousel/actions/post-cover.php:348, includes/modules/posts/carousel/actions/post-cover.php:375, includes/modules/posts/post/actions/post-cover.php:410, includes/modules/posts/post/actions/post-cover.php:446
+msgid "Opacity"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-inner-content.php:121, includes/modules/categories/skins/skin-inner-content.php:163, includes/modules/categories/skins/skin-outer-content.php:114, includes/modules/categories/skins/skin-outer-content.php:156
+msgid "Overlay Color Type"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-outer-content.php:14, includes/modules/posts/carousel/skins/classic.php:20, includes/modules/posts/post/skins/classic.php:20
+msgid "Outer Content"
+msgstr ""
+
+#: includes/modules/categories/skins/skin-outer-content.php:29, includes/modules/posts/classes/post-base.php:583
+msgid "Image Ratio"
+msgstr ""
+
+#: includes/modules/categories/widgets/categories.php:18, includes/modules/posts/classes/post-base.php:251
+msgid "Categories"
+msgstr ""
+
+#: includes/modules/categories/widgets/categories.php:50
+msgid "Source"
+msgstr ""
+
+#: includes/modules/categories/widgets/categories.php:54, includes/modules/posts/widgets/posts-carousel.php:62, includes/modules/posts/widgets/posts.php:56
+msgid "Blog"
+msgstr ""
+
+#: includes/modules/categories/widgets/categories.php:55, includes/modules/posts/widgets/posts-carousel.php:63, includes/modules/posts/widgets/posts.php:57
+msgid "Portfolio"
+msgstr ""
+
+#: includes/modules/categories/widgets/categories.php:56
+msgid "Shop"
+msgstr ""
+
+#: includes/modules/categories/widgets/categories.php:65
+msgid "Specific Categories"
+msgstr ""
+
+#: includes/modules/categories/widgets/categories.php:87
+msgid "Filter"
+msgstr ""
+
+#: includes/modules/categories/widgets/categories.php:94
+msgid "Exclude"
+msgstr ""
+
+#: includes/modules/countdown/widgets/countdown.php:16
+msgid "Countdown"
+msgstr ""
+
+#: includes/modules/countdown/widgets/countdown.php:46
+msgid "Due Date"
+msgstr ""
+
+#: includes/modules/countdown/widgets/countdown.php:73
+msgid "Inline"
+msgstr ""
+
+#: includes/modules/countdown/widgets/countdown.php:81
+msgid "Days"
+msgstr ""
+
+#: includes/modules/countdown/widgets/countdown.php:92
+msgid "Hours"
+msgstr ""
+
+#: includes/modules/countdown/widgets/countdown.php:103
+msgid "Minutes"
+msgstr ""
+
+#: includes/modules/countdown/widgets/countdown.php:114
+msgid "Seconds"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:15
+msgid "Counter"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:58
+msgid "Starting Number"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:67
+msgid "Ending Number"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:76
+msgid "Number Prefix"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:85
+msgid "Number Suffix"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:87
+msgid "Plus"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:97, includes/modules/counter/widgets/counter.php:98
+msgid "Cool Number"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:109
+msgid "Item #1"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:110, includes/modules/counter/widgets/counter.php:114
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:113
+msgid "Item #2"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:163
+msgid "Thousand Separator"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:174
+msgid "Animation Duration"
+msgstr ""
+
+#: includes/modules/counter/widgets/counter.php:261, includes/modules/counter/widgets/counter.php:316, includes/modules/counter/widgets/counter.php:362, includes/modules/heading/widgets/heading.php:120, includes/modules/icon/widgets/icon.php:128, includes/modules/icon/widgets/icon.php:179, includes/modules/photo-album/skins/skin-cover.php:120, includes/modules/photo-album/skins/skin-cover.php:144, includes/modules/posts/classes/post-base.php:926
+msgid "Color Type"
+msgstr ""
+
+#: includes/modules/divider/widgets/divider.php:15, includes/modules/divider/widgets/divider.php:30, includes/modules/nav-menu/widgets/nav-menu.php:810, includes/modules/nav-menu/widgets/nav-menu.php:1309
+msgid "Divider"
+msgstr ""
+
+#: includes/modules/divider/widgets/divider.php:43
+msgid "Line Color Type"
+msgstr ""
+
+#: includes/modules/divider/widgets/divider.php:53
+msgid "Line Type"
+msgstr ""
+
+#: includes/modules/divider/widgets/divider.php:57, includes/modules/nav-menu/widgets/nav-menu.php:823, includes/modules/nav-menu/widgets/nav-menu.php:1322
+msgid "Solid"
+msgstr ""
+
+#: includes/modules/divider/widgets/divider.php:58, includes/modules/nav-menu/widgets/nav-menu.php:824, includes/modules/nav-menu/widgets/nav-menu.php:1323
+msgid "Double"
+msgstr ""
+
+#: includes/modules/divider/widgets/divider.php:66
+msgid "Weight"
+msgstr ""
+
+#: includes/modules/flex-spacer/widgets/flex-spacer.php:15
+msgid "Flex Spacer"
+msgstr ""
+
+#: includes/modules/flex-spacer/widgets/flex-spacer.php:50
+msgid "The element is used to add automatic horizontal/vertical spacing between elements for Flex column."
+msgstr ""
+
+#: includes/modules/forms/actions/download.php:48
+msgid "Download Resource"
+msgstr ""
+
+#: includes/modules/forms/actions/download.php:52
+msgid "File"
+msgstr ""
+
+#: includes/modules/forms/actions/download.php:53
+msgid "URL"
+msgstr ""
+
+#: includes/modules/forms/actions/download.php:61
+msgid "Download URL"
+msgstr ""
+
+#: includes/modules/forms/actions/download.php:63, includes/modules/icon/widgets/icon.php:51, includes/modules/image/widgets/image.php:82, includes/modules/video/widgets/video.php:92, includes/modules/video/widgets/video.php:108
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/modules/forms/actions/download.php:77
+msgid "Download File"
+msgstr ""
+
+#: includes/modules/forms/actions/download.php:137
+msgid "Download Action: The \"Download URL\" value is not a valid URL."
+msgstr ""
+
+#: includes/modules/forms/actions/download.php:166
+msgid "Download Action: The \"Download File\" doesn't exist anymore."
+msgstr ""
+
+#: includes/modules/forms/actions/email.php:49
+msgid "To"
+msgstr ""
+
+#: includes/modules/forms/actions/email.php:53, includes/modules/forms/actions/email.php:109, includes/modules/forms/actions/email.php:120
+msgid "Separate emails with commas"
+msgstr ""
+
+#: includes/modules/forms/actions/email.php:62
+msgid "Email Subject"
+msgstr ""
+
+#: includes/modules/forms/actions/email.php:74
+msgid "From Email"
+msgstr ""
+
+#: includes/modules/forms/actions/email.php:85
+msgid "From Name"
+msgstr ""
+
+#: includes/modules/forms/actions/email.php:96
+msgid "Reply-To"
+msgstr ""
+
+#: includes/modules/forms/actions/email.php:107
+msgid "Cc"
+msgstr ""
+
+#: includes/modules/forms/actions/email.php:118
+msgid "Bcc"
+msgstr ""
+
+#. translators: %s: Today date
+#: includes/modules/forms/actions/email.php:158
+msgid "Date: %s"
+msgstr ""
+
+#. translators: %s: Today time
+#: includes/modules/forms/actions/email.php:160
+msgid "Time: %s"
+msgstr ""
+
+#. translators: %s: Referrer URL
+#: includes/modules/forms/actions/email.php:162
+msgid "Page URL: %s"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:54
+msgid "Portal ID *"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:56
+msgid "Enter the Hubspot Portal ID"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:56, includes/modules/forms/actions/hubspot.php:65, includes/modules/forms/actions/slack.php:60
+msgid "More Info"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:63
+msgid "Form ID *"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:65
+msgid "Enter the Hubspot Form ID"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:72
+msgid "SFDC Campaign ID"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:80
+msgid "GoToWebinar key/ID"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:88
+msgid "Submission timestamp"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:97
+msgid "Hubspot Field"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:106, includes/modules/forms/actions/mailchimp.php:186
+msgid "Form Field"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:115, includes/modules/forms/actions/mailchimp.php:195
+msgid "Field Mapping"
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:164
+msgid "Hubspot Action: Hubspot Webhook Error."
+msgstr ""
+
+#: includes/modules/forms/actions/hubspot.php:171
+msgid "Hubspot Action: "
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:53
+msgid "API key"
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:57
+msgid "Custom"
+msgstr ""
+
+#. translators: %s: Settings page URL
+#: includes/modules/forms/actions/mailchimp.php:70
+msgid "Set your MailChimp API in <a target=\"_blank\" href=\"%s\">Raven Settings <i class=\"fa fa-external-link-square\"></i></a>."
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:84
+msgid "Custom API Key"
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:89
+msgid "Enter your Mailchimp API key for only this form."
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:96
+msgid "Audience"
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:121
+msgid "Groups"
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:136
+msgid "Double Opt-In"
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:158
+msgid "First Name"
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:167
+msgid "Last Name"
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:177
+msgid "Mailchimp Field"
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:263
+msgid "MailChimp list ID is missing."
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:270
+msgid "MailChimp Email Field ID is missing."
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:290
+msgid "MailChimp Audience ID is not valid."
+msgstr ""
+
+#: includes/modules/forms/actions/mailchimp.php:372
+msgid "Mailchimp Audience ID is missing."
+msgstr ""
+
+#. translators: %s: MailChimp knowledge base URL
+#: includes/modules/forms/actions/mailchimp.php:417
+msgid "To integrate with our forms you need an <a href=\"%s\" target=\"_blank\">API key</a>."
+msgstr ""
+
+#: includes/modules/forms/actions/redirect.php:47
+msgid "Redirect To"
+msgstr ""
+
+#: includes/modules/forms/actions/redirect.php:74
+msgid "Redirect Action: The \"Redirect To\" value is not a valid URL."
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:58, includes/modules/forms/actions/webhook.php:57
+msgid "Webhook URL"
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:60
+msgid "Enter the Slack webhook URL for Slack notifications"
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:69
+msgid "Channel"
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:77
+msgid "Username"
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:85
+msgid "Pre Text"
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:109
+msgid "Form Data"
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:117
+msgid "Timestamp"
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:133
+msgid "Webhook Color"
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:143
+msgid "Fallback Message"
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:188
+msgid "Slack Action: Slack Webhook Error."
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:235, includes/modules/forms/actions/slack.php:239
+msgid "A new Form Submission has been received."
+msgstr ""
+
+#: includes/modules/forms/actions/slack.php:236
+msgid "A new Submission"
+msgstr ""
+
+#. translators: %s: Plugin Name
+#: includes/modules/forms/actions/slack.php:331
+msgid "Powered by %s"
+msgstr ""
+
+#: includes/modules/forms/actions/webhook.php:60
+msgid "Enter the webhook URL where you want to send your Form data after submit e.g. "
+msgstr ""
+
+#: includes/modules/forms/actions/webhook.php:60
+msgid "Integrate with Zapier Webhook"
+msgstr ""
+
+#: includes/modules/forms/actions/webhook.php:97
+msgid "Webhook Action: Webhook Error."
+msgstr ""
+
+#: includes/modules/forms/classes/ajax-handler.php:196
+msgid "There's something wrong. The form is not valid."
+msgstr ""
+
+#: includes/modules/forms/fields/acceptance.php:110
+msgid "Acceptance Text"
+msgstr ""
+
+#: includes/modules/forms/fields/acceptance.php:111
+msgid "I agree to terms."
+msgstr ""
+
+#: includes/modules/forms/fields/acceptance.php:119
+msgid "Checked by Default"
+msgstr ""
+
+#. translators: %s: Settings page URL
+#: includes/modules/forms/fields/address.php:79
+msgid "<small>Set your Google API key in <a target=\"_blank\" href=\"%s\">Raven Settings <i class=\"fa fa-external-link-square\"></i></a></small>."
+msgstr ""
+
+#: includes/modules/forms/fields/date.php:87
+msgid "Min Date"
+msgstr ""
+
+#: includes/modules/forms/fields/date.php:102
+msgid "Max Date"
+msgstr ""
+
+#: includes/modules/forms/fields/email.php:45
+msgid "The value is not a valid email address"
+msgstr ""
+
+#: includes/modules/forms/fields/number.php:47
+msgid "Min Value"
+msgstr ""
+
+#: includes/modules/forms/fields/number.php:55
+msgid "Max Value"
+msgstr ""
+
+#. translators: %s: Min value
+#: includes/modules/forms/fields/number.php:92
+msgid "The value should be bigger than %s"
+msgstr ""
+
+#. translators: %s: Max value
+#: includes/modules/forms/fields/number.php:100
+msgid "The value should be smaller than %s"
+msgstr ""
+
+#: includes/modules/forms/fields/number.php:106
+msgid "The value is not a valid number"
+msgstr ""
+
+#. translators: %s: Settings page URL
+#: includes/modules/forms/fields/recaptcha.php:63
+msgid "Set reCAPTCHA Site and Secret Keys in"
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:65
+msgid "Raven Settings"
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:126
+msgid "Theme"
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:130
+msgid "Light"
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:131
+msgid "Dark"
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:144
+msgid "Compact"
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:214
+msgid "The secret parameter is missing."
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:215
+msgid "The secret parameter is invalid or malformed."
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:216
+msgid "The response parameter is missing."
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:217
+msgid "The response parameter is invalid or malformed."
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:218
+msgid "The request is invalid or malformed."
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:227
+msgid "The reCAPTCHA field is required."
+msgstr ""
+
+#. translators: %s: reCAPTCHA URL
+#: includes/modules/forms/fields/recaptcha.php:255
+msgid "<a href=\"%s\" target=\"_blank\">reCAPTCHA</a> is a free Google service that protects your website from spam and abuse."
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:261
+msgid "Site Key"
+msgstr ""
+
+#: includes/modules/forms/fields/recaptcha.php:267
+msgid "Secret Key"
+msgstr ""
+
+#: includes/modules/forms/fields/tel.php:47, includes/modules/forms/fields/tel.php:69
+msgid "The value should only consist numbers and phone characters (-, +, (), etc)"
+msgstr ""
+
+#: includes/modules/forms/fields/time.php:90
+msgid "Min Time"
+msgstr ""
+
+#: includes/modules/forms/fields/time.php:104
+msgid "Max Time"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:20, includes/modules/forms/widgets/form.php:53
+msgid "Form"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:46
+msgid "Form Fields"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:56
+msgid "Enter your form name"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:65
+msgid "ID"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:83, includes/modules/forms/widgets/form.php:372, includes/modules/forms/widgets/form.php:526, includes/modules/nav-menu/widgets/nav-menu.php:111
+msgid "Label"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:91, includes/modules/forms/widgets/form.php:695, includes/modules/search-form/widgets/search-form.php:41
+msgid "Placeholder"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:115
+msgid "Options"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:118
+msgid "Enter each option in a separate line. To differentiate between label and value, separate them with a pipe char (\"|\"). For example: First Name|f_name"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:139
+msgid "Inline List"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:161
+msgid "Native HTML5"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:179
+msgid "Multiple Selection"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:199, includes/modules/products/skins/classic.php:62
+msgid "Rows"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:236
+msgid "Required"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:257, includes/modules/forms/widgets/form.php:338
+msgid "Column Width"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:314
+msgid "Submit Button"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:323
+msgid "Send"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:383
+msgid "Required Mark"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:393
+msgid "Add Action"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:409
+msgid "Feedback Messages"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:416
+msgid "Custom Messages"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:425
+msgid "Success Message"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:439
+msgid "Error Message"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:453
+msgid "Required Message"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:467
+msgid "Subscriber Already Exists Message"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:485
+msgid "General"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:570
+msgid "Field"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:586, includes/modules/forms/widgets/form.php:638, includes/modules/forms/widgets/form.php:922, includes/modules/forms/widgets/form.php:963, includes/modules/forms/widgets/form.php:1099, includes/modules/forms/widgets/form.php:1140, includes/modules/nav-menu/widgets/nav-menu.php:507, includes/modules/nav-menu/widgets/nav-menu.php:595, includes/modules/nav-menu/widgets/nav-menu.php:683, includes/modules/nav-menu/widgets/nav-menu.php:961, includes/modules/nav-menu/widgets/nav-menu.php:997, includes/modules/nav-menu/widgets/nav-menu.php:1032, includes/modules/nav-menu/widgets/nav-menu.php:1464, includes/modules/nav-menu/widgets/nav-menu.php:1499, includes/modules/nav-menu/widgets/nav-menu.php:1534, includes/modules/nav-menu/widgets/nav-menu.php:1865, includes/modules/nav-menu/widgets/nav-menu.php:1958, includes/modules/posts/classes/post-base.php:398, includes/modules/posts/classes/post-base.php:485, includes/modules/posts/classes/post-base.php:1832, includes/modules/posts/classes/post-base.php:1939, includes/modules/products/skins/classic.php:290, includes/modules/products/skins/classic.php:406, includes/modules/search-form/skins/classic.php:133, includes/modules/search-form/skins/classic.php:226, includes/modules/search-form/skins/classic.php:347, includes/modules/search-form/skins/classic.php:431, includes/modules/search-form/skins/full.php:110, includes/modules/search-form/skins/full.php:203, includes/modules/search-form/skins/full.php:383, includes/modules/search-form/skins/full.php:476, includes/modules/shopping-cart/widgets/shopping-cart.php:165, includes/modules/shopping-cart/widgets/shopping-cart.php:258, includes/modules/shopping-cart/widgets/shopping-cart.php:367, includes/modules/tabs/widgets/tabs.php:131, includes/modules/posts/carousel/actions/post-cover.php:102, includes/modules/posts/carousel/actions/post-cover.php:189, includes/modules/posts/carousel/skins/base.php:287, includes/modules/posts/carousel/skins/base.php:428, includes/modules/posts/post/actions/post-cover.php:104, includes/modules/posts/post/actions/post-cover.php:191, includes/modules/posts/post/skins/base.php:383, includes/modules/posts/post/skins/base.php:504, includes/modules/posts/post/skins/base.php:625, includes/modules/posts/post/skins/base.php:871, includes/modules/posts/post/skins/base.php:1003, includes/modules/posts/post/skins/base.php:1208, includes/modules/posts/post/skins/base.php:1315, includes/modules/posts/post/skins/base.php:1422
+msgid "Background Color"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:631, includes/modules/search-form/skins/classic.php:208, includes/modules/search-form/skins/full.php:185
+msgid "Focus"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:726
+msgid "Value"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:816
+msgid "Vertical Offset"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:828
+msgid "Horizontal Offset"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:889, includes/modules/forms/widgets/form.php:1066
+msgid "Spacing Between"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:956, includes/modules/forms/widgets/form.php:1133
+msgid "Checked"
+msgstr ""
+
+#: includes/modules/forms/widgets/form.php:1299, includes/modules/forms/widgets/form.php:1348
+msgid "Icon Color"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:16, includes/modules/heading/widgets/heading.php:109
+msgid "Heading"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:44
+msgid "Add your text heading here"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:74
+msgid "HTML Tag"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:94, includes/modules/heading/widgets/heading.php:210
+msgid "Ornaments"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:196, includes/modules/nav-menu/widgets/nav-menu.php:471
+msgid "Justify"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:221
+msgid "Ornament Style"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:225
+msgid "Rovi Single"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:226
+msgid "Rovi Double"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:227
+msgid "Norman Single"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:228
+msgid "Norman Double"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:229
+msgid "Norman Short Single"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:230
+msgid "Norman Short Double"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:231
+msgid "Lemo Single"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:232
+msgid "Lemo Double"
+msgstr ""
+
+#: includes/modules/heading/widgets/heading.php:240, includes/modules/posts/carousel/skins/base.php:982, includes/modules/posts/carousel/skins/base.php:1029, includes/modules/posts/carousel/skins/base.php:1076
+msgid "Thickness"
+msgstr ""
+
+#: includes/modules/icon/widgets/icon.php:79
+msgid "Shape"
+msgstr ""
+
+#: includes/modules/icon/widgets/icon.php:82, includes/modules/photo-album/skins/skin-cover.php:189
+msgid "Circle"
+msgstr ""
+
+#: includes/modules/icon/widgets/icon.php:83
+msgid "Square"
+msgstr ""
+
+#: includes/modules/icon/widgets/icon.php:152, includes/modules/icon/widgets/icon.php:203
+msgid "Rotate"
+msgstr ""
+
+#: includes/modules/image/widgets/image.php:17, includes/modules/image/widgets/image.php:46, includes/modules/image/widgets/image.php:118, includes/modules/image/widgets/image.php:176, includes/modules/photo-roller/widgets/photo-roller.php:38, includes/modules/video/widgets/video.php:143
+msgid "Image"
+msgstr ""
+
+#: includes/modules/image/widgets/image.php:57, includes/modules/image/widgets/image.php:340
+msgid "Caption"
+msgstr ""
+
+#: includes/modules/image/widgets/image.php:59
+msgid "Enter your image caption"
+msgstr ""
+
+#: includes/modules/image/widgets/image.php:66, includes/modules/image/widgets/image.php:80
+msgid "Link to"
+msgstr ""
+
+#: includes/modules/image/widgets/image.php:71
+msgid "Media File"
+msgstr ""
+
+#: includes/modules/image/widgets/image.php:72
+msgid "Custom URL"
+msgstr ""
+
+#: includes/modules/image/widgets/image.php:92, includes/modules/video/widgets/video.php:185
+msgid "Lightbox"
+msgstr ""
+
+#: includes/modules/image/widgets/image.php:108
+msgid "Switch on Hover"
+msgstr ""
+
+#: includes/modules/image/widgets/image.php:160
+msgid "Loop Animation"
+msgstr ""
+
+#: includes/modules/image/widgets/image.php:209
+msgid "Opacity (%)"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:26
+msgid "Navigation Menu"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:86, includes/modules/nav-menu/widgets/nav-menu.php:120
+msgid "Menu"
+msgstr ""
+
+#. translators: %s: Link directky to nav menu screen
+#. translators: %s: Link directly to nav menu screen
+#: includes/modules/nav-menu/widgets/nav-menu.php:91, includes/modules/nav-menu/widgets/nav-menu.php:125
+msgid "Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your menus."
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:98
+msgid "Add exception for menu"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:113
+msgid "Menu Name"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:132
+msgid "Menu visible for"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:135
+msgid "Please set the exception roles in a way that does not overlap each other."
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:137
+msgid "Everyone"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:138
+msgid "Logged In Users"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:139
+msgid "Logged Out Users"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:149
+msgid "Which roles can see this menu"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:150
+msgid "Conditions does not work on Elementor editor side."
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:204
+msgid "Center Logo"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:221, includes/modules/nav-menu/widgets/nav-menu.php:361, includes/modules/site-logo/widgets/site-logo.php:36
+msgid "Primary"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:222, includes/modules/nav-menu/widgets/nav-menu.php:362, includes/modules/site-logo/widgets/site-logo.php:37
+msgid "Secondary"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:223, includes/modules/nav-menu/widgets/nav-menu.php:363, includes/modules/site-logo/widgets/site-logo.php:38
+msgid "Sticky"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:224, includes/modules/nav-menu/widgets/nav-menu.php:271, includes/modules/nav-menu/widgets/nav-menu.php:302, includes/modules/nav-menu/widgets/nav-menu.php:364, includes/modules/site-logo/widgets/site-logo.php:39
+msgid "Mobile"
+msgstr ""
+
+#. translators: %1$s: Choose logo name | %2$s: Link to Customizer page
+#. translators: %1$s: Choose logo name | %2$s: Link to Customizer page
+#. translators: %1$s: Choose logo name | %2$s: Link to Customizer page
+#: includes/modules/nav-menu/widgets/nav-menu.php:228, includes/modules/nav-menu/widgets/nav-menu.php:368, includes/modules/site-logo/widgets/site-logo.php:46
+msgid "Please select or upload your <strong>Logo</strong> in the <a target=\"_blank\" href=\"%1$s\"><em>Customizer</em></a>."
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:240
+msgid "Logo Link"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:258
+msgid "Menu Icons"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:280, includes/modules/nav-menu/widgets/nav-menu.php:1244
+msgid "Full Width"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:282
+msgid "Stretch the mobile menu to full width."
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:300
+msgid "Desktop & Laptop"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:301
+msgid "Tablet"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:311
+msgid "Menu Layout"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:315
+msgid "Dropdown"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:316, includes/modules/search-form/skins/full.php:13
+msgid "Full Screen"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:317
+msgid "Side Menu"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:326
+msgid "Effect"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:330, includes/modules/photo-album/skins/skin-cover.php:98, includes/modules/search-form/skins/full.php:284
+msgid "Overlay"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:331, includes/modules/shopping-cart/widgets/shopping-cart.php:478
+msgid "Push"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:343
+msgid "Side Menu Logo"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:380
+msgid "Side Logo Link"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:407
+msgid "Menu Items"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:661, includes/modules/nav-menu/widgets/nav-menu.php:1010, includes/modules/nav-menu/widgets/nav-menu.php:1512, includes/modules/posts/carousel/skins/base.php:756, includes/modules/posts/carousel/skins/base.php:1005, includes/modules/posts/post/skins/base.php:461, includes/modules/posts/post/skins/base.php:1281
+msgid "Active"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:755
+msgid "Submenu"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:796, includes/modules/posts/carousel/skins/base.php:568
+msgid "Position"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:819, includes/modules/nav-menu/widgets/nav-menu.php:1318
+msgid "Border Type"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:825, includes/modules/nav-menu/widgets/nav-menu.php:1324
+msgid "Dotted"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:826, includes/modules/nav-menu/widgets/nav-menu.php:1325
+msgid "Dashed"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:827, includes/modules/nav-menu/widgets/nav-menu.php:1326
+msgid "Groove"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:1051, includes/modules/site-logo/widgets/site-logo.php:26, includes/modules/site-logo/widgets/site-logo.php:72
+msgid "Logo"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:1093, includes/modules/nav-menu/widgets/nav-menu.php:1151
+msgid "Margin"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:1109
+msgid "Side Logo"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:1236
+msgid "Mobile Menu"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:1287
+msgid "Distance"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:1553
+msgid "Menu Container"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:1696
+msgid "Close Button"
+msgstr ""
+
+#: includes/modules/nav-menu/widgets/nav-menu.php:1773
+msgid "Mobile Menu Button"
+msgstr ""
+
+#: includes/modules/photo-album/skins/skin-base.php:86, includes/modules/photo-album/skins/skin-cover.php:176
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/modules/photo-album/skins/skin-base.php:131
+msgid "Random Order"
+msgstr ""
+
+#: includes/modules/photo-album/skins/skin-cover.php:163
+msgid "Fading In"
+msgstr ""
+
+#: includes/modules/photo-album/skins/skin-cover.php:164
+msgid "Ripple"
+msgstr ""
+
+#: includes/modules/photo-album/skins/skin-cover.php:184
+msgid "Style"
+msgstr ""
+
+#: includes/modules/photo-album/skins/skin-cover.php:188
+msgid "Rectangular"
+msgstr ""
+
+#: includes/modules/photo-album/skins/skin-stack.php:14, includes/modules/photo-album/skins/skin-stack.php:30
+msgid "Stack"
+msgstr ""
+
+#: includes/modules/photo-album/skins/skin-stack.php:29
+msgid "Bunch"
+msgstr ""
+
+#: includes/modules/photo-album/widgets/photo-album.php:18
+msgid "Photo Album"
+msgstr ""
+
+#: includes/modules/photo-album/widgets/photo-album.php:82
+msgid "Stack Color"
+msgstr ""
+
+#: includes/modules/photo-roller/widgets/photo-roller.php:15
+msgid "Photo Roller"
+msgstr ""
+
+#: includes/modules/photo-roller/widgets/photo-roller.php:64
+msgid "Rolling Speed (px/s)"
+msgstr ""
+
+#: includes/modules/photo-roller/widgets/photo-roller.php:84
+msgid "Reverse direction"
+msgstr ""
+
+#: includes/modules/photo-roller/widgets/photo-roller.php:95
+msgid "Pause on hover"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:84
+msgid "Title HTML Tag"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:112
+msgid "Show Content on Hover"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:126
+msgid "Link feature image to post"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:141
+msgid "Quick View"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:172
+msgid "Permalink"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:215, includes/modules/posts/classes/post-base.php:1223
+msgid "Post Title"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:239
+msgid "Author"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:263
+msgid "Tags"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:275
+msgid "Comments"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:287
+msgid "Meta Position"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:291
+msgid "Before Title"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:292
+msgid "After Title"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:293
+msgid "After Excerpt"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:302, includes/modules/posts/classes/post-base.php:1546
+msgid "Excerpt"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:314, includes/modules/posts/classes/post-base.php:1679
+msgid "CTA Button"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:611
+msgid "Image Width"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:645
+msgid "Image Position"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:914
+msgid "Overlay (Hover)"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:952
+msgid "Icons"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:1019
+msgid "center"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:1379
+msgid "Meta"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:1398
+msgid "Meta Divider"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:1408
+msgid "Divider Spacing"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:1487, includes/modules/posts/classes/post-base.php:1520
+msgid "Links Color"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:1557
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/modules/posts/classes/post-base.php:1692
+msgid "Read More"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:23
+msgid "Posts Carousel"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:89
+msgid "How many posts?"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:105, includes/modules/posts/widgets/posts.php:99, includes/modules/products/widgets/products.php:84
+msgid "Sort & Filter"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:112, includes/modules/posts/widgets/posts.php:106, includes/modules/products/widgets/products.php:91
+msgid "Order By"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:118, includes/modules/posts/widgets/posts.php:112, includes/modules/products/widgets/products.php:97
+msgid "Menu Order"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:119, includes/modules/posts/widgets/posts.php:113, includes/modules/products/widgets/products.php:98
+msgid "Random"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:127, includes/modules/posts/widgets/posts.php:121, includes/modules/products/widgets/products.php:106
+msgid "Order"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:131, includes/modules/posts/widgets/posts.php:125, includes/modules/products/widgets/products.php:110
+msgid "ASC"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:132, includes/modules/posts/widgets/posts.php:126, includes/modules/products/widgets/products.php:111
+msgid "DESC"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:140, includes/modules/posts/widgets/posts.php:134, includes/modules/products/widgets/products.php:119
+msgid "Offset"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:141, includes/modules/posts/widgets/posts.php:135, includes/modules/products/widgets/products.php:120
+msgid "Use this setting to skip over posts (e.g. '4' to skip over 4 posts)."
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:153, includes/modules/posts/widgets/posts.php:147, includes/modules/products/widgets/products.php:132
+msgid "Excludes"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts-carousel.php:159, includes/modules/posts/widgets/posts.php:153
+msgid "Current Post"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts.php:17
+msgid "Posts"
+msgstr ""
+
+#: includes/modules/posts/widgets/posts.php:83
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/modules/products/skins/classic.php:15, includes/modules/search-form/skins/classic.php:13
+msgid "Classic"
+msgstr ""
+
+#: includes/modules/products/skins/classic.php:85, includes/modules/products/skins/classic.php:119, includes/modules/posts/carousel/skins/base.php:85, includes/modules/posts/carousel/skins/base.php:557, includes/modules/posts/post/skins/base.php:130, includes/modules/posts/post/skins/base.php:171
+msgid "Pagination"
+msgstr ""
+
+#: includes/modules/products/skins/classic.php:97, includes/modules/posts/carousel/skins/base.php:97, includes/modules/posts/post/skins/base.php:142
+msgid "View Pagination As"
+msgstr ""
+
+#: includes/modules/products/skins/classic.php:101, includes/modules/posts/post/skins/base.php:146
+msgid "Page Based"
+msgstr ""
+
+#: includes/modules/products/skins/classic.php:102, includes/modules/products/skins/classic.php:147, includes/modules/posts/post/skins/base.php:147, includes/modules/posts/post/skins/base.php:712
+msgid "Load More"
+msgstr ""
+
+#: includes/modules/products/skins/classic.php:103, includes/modules/posts/post/skins/base.php:148
+msgid "Infinite Load"
+msgstr ""
+
+#: includes/modules/products/skins/classic.php:145, includes/modules/posts/post/skins/base.php:710
+msgid "Button Label"
+msgstr ""
+
+#: includes/modules/products/widgets/products.php:21
+msgid "Products"
+msgstr ""
+
+#: includes/modules/products/widgets/products.php:138
+msgid "Current Product"
+msgstr ""
+
+#: includes/modules/search-form/skins/classic.php:29, includes/modules/search-form/skins/full.php:30
+msgid "Input"
+msgstr ""
+
+#: includes/modules/search-form/skins/classic.php:315, includes/modules/search-form/skins/full.php:313, includes/modules/shopping-cart/widgets/shopping-cart.php:89
+msgid "Icon Size"
+msgstr ""
+
+#: includes/modules/search-form/widgets/search-form.php:23
+msgid "Search Form"
+msgstr ""
+
+#: includes/modules/shopping-cart/widgets/shopping-cart.php:20
+msgid "Shopping Cart"
+msgstr ""
+
+#: includes/modules/shopping-cart/widgets/shopping-cart.php:66, includes/modules/shopping-cart/widgets/shopping-cart.php:466
+msgid "Cart Quick View"
+msgstr ""
+
+#: includes/modules/shopping-cart/widgets/shopping-cart.php:474
+msgid "Animation"
+msgstr ""
+
+#: includes/modules/shopping-cart/widgets/shopping-cart.php:542
+msgid "Shopping cart"
+msgstr ""
+
+#: includes/modules/site-logo/widgets/site-logo.php:15
+msgid "Site Logo"
+msgstr ""
+
+#: includes/modules/site-logo/widgets/site-logo.php:33
+msgid "Choose Logo"
+msgstr ""
+
+#: includes/modules/site-logo/widgets/site-logo.php:111
+msgid "Max Width"
+msgstr ""
+
+#: includes/modules/tabs/widgets/tabs.php:15, includes/modules/tabs/widgets/tabs.php:123
+msgid "Tabs"
+msgstr ""
+
+#: includes/modules/tabs/widgets/tabs.php:44
+msgid "Title & Content"
+msgstr ""
+
+#: includes/modules/tabs/widgets/tabs.php:46, includes/modules/tabs/widgets/tabs.php:47
+msgid "Tab Title"
+msgstr ""
+
+#: includes/modules/tabs/widgets/tabs.php:56, includes/modules/tabs/widgets/tabs.php:57
+msgid "Tab Content"
+msgstr ""
+
+#: includes/modules/tabs/widgets/tabs.php:74
+msgid "Tabs Items"
+msgstr ""
+
+#: includes/modules/tabs/widgets/tabs.php:79
+msgid "Tab #1"
+msgstr ""
+
+#: includes/modules/tabs/widgets/tabs.php:80, includes/modules/tabs/widgets/tabs.php:84
+msgid "I am tab content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: includes/modules/tabs/widgets/tabs.php:83
+msgid "Tab #2"
+msgstr ""
+
+#: includes/modules/tabs/widgets/tabs.php:228
+msgid "Active Color"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:21, includes/modules/video/widgets/video.php:40
+msgid "Video"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:47
+msgid "Video Type"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:52
+msgid "YouTube"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:53
+msgid "Vimeo"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:54
+msgid "Self Hosted"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:64
+msgid "Enter your YouTube link"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:78
+msgid "Enter your Vimeo link"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:90
+msgid "Upload Video - MP4"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:106
+msgid "Upload Video - WebM"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:126, includes/modules/video/widgets/video.php:133
+msgid "Image Overlay"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:157
+msgid "Play Icon"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:188
+msgid "Off"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:189
+msgid "On"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:204
+msgid "Device Mockup Frame"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:211
+msgid "Frame this video in Device Mockup"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:221
+msgid "Device Type"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:225
+msgid "Desktop"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:226
+msgid "Laptop"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:248
+msgid "Aspect Ratio"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:264, includes/modules/video/widgets/video.php:339, includes/modules/video/widgets/video.php:415, includes/modules/posts/carousel/skins/base.php:157
+msgid "Autoplay"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:275
+msgid "Suggested Videos"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:288
+msgid "Player Control"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:302
+msgid "Player Title & Actions"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:316, includes/modules/video/widgets/video.php:427
+msgid "Mute"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:327
+msgid "Privacy Mode"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:329
+msgid "When you turn on privacy mode, YouTube won't store information about visitors on your website unless they play the video."
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:350, includes/modules/video/widgets/video.php:439
+msgid "Loop"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:361
+msgid "Intro Title"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:375
+msgid "Intro Portrait"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:389
+msgid "Intro Byline"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:403
+msgid "Controls Color"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:451
+msgid "Player Controls"
+msgstr ""
+
+#: includes/modules/video/widgets/video.php:510
+msgctxt "Text Shadow Control"
+msgid "Shadow"
+msgstr ""
+
+#: includes/core/compatibility/wpml/modules/counter.php:20
+msgid "Raven Counter: Counter number prefix"
+msgstr ""
+
+#: includes/core/compatibility/wpml/modules/counter.php:23
+msgid "Raven Counter: Counter number suffix"
+msgstr ""
+
+#: includes/core/compatibility/wpml/modules/counter.php:26
+msgid "Raven Counter: Title"
+msgstr ""
+
+#: includes/core/compatibility/wpml/modules/form.php:20
+msgid "Raven Form: Form field label"
+msgstr ""
+
+#: includes/core/compatibility/wpml/modules/form.php:23
+msgid "Raven Form: Form field placeholder"
+msgstr ""
+
+#: includes/core/compatibility/wpml/modules/photo-album.php:20
+msgid "Raven Form: Photo Album item title"
+msgstr ""
+
+#: includes/core/compatibility/wpml/modules/photo-album.php:23
+msgid "Raven Form: Photo Album item description"
+msgstr ""
+
+#: includes/core/compatibility/wpml/modules/tabs.php:20
+msgid "Raven Tabs: Tab title"
+msgstr ""
+
+#: includes/core/compatibility/wpml/modules/tabs.php:23
+msgid "Raven Tabs: Tab content"
+msgstr ""
+
+#: includes/modules/posts/carousel/skins/base.php:35
+msgid "Posts per View"
+msgstr ""
+
+#: includes/modules/posts/carousel/skins/base.php:55
+msgid "Slides to Scroll"
+msgstr ""
+
+#: includes/modules/posts/carousel/skins/base.php:73, includes/modules/posts/carousel/skins/base.php:256
+msgid "Arrows"
+msgstr ""
+
+#: includes/modules/posts/carousel/skins/base.php:101
+msgid "Dots"
+msgstr ""
+
+#: includes/modules/posts/carousel/skins/base.php:102
+msgid "Lines"
+msgstr ""
+
+#: includes/modules/posts/carousel/skins/base.php:114
+msgid "Transition Duration"
+msgstr ""
+
+#: includes/modules/posts/carousel/skins/base.php:169
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/modules/posts/carousel/skins/base.php:185
+msgid "Pause on Hover"
+msgstr ""
+
+#: includes/modules/posts/carousel/skins/base.php:200
+msgid "Infinite Loop"
+msgstr ""
+
+#: includes/modules/posts/carousel/skins/base.php:572
+msgid "Outside"
+msgstr ""
+
+#: includes/modules/posts/carousel/skins/base.php:573
+msgid "Inside"
+msgstr ""
+
+#: includes/modules/posts/post/skins/base.php:50
+msgid "Mirror Rows"
+msgstr ""
+
+#: includes/modules/posts/post/skins/base.php:84
+msgid "Equal Columns Height"
+msgstr ""
+
+#: includes/modules/posts/post/skins/base.php:105, includes/modules/posts/post/skins/base.php:1099
+msgid "Sortable"
+msgstr ""
+
+#: includes/modules/posts/post/skins/base.php:115
+msgid "All Title"
+msgstr ""
+
+#: includes/modules/posts/post/skins/base.php:194
+msgid "Pages Visible"
+msgstr ""
+
+#: includes/modules/posts/post/skins/base.php:208
+msgid "Previous Label"
+msgstr ""
+
+#: includes/modules/posts/post/skins/base.php:210
+msgid "&laquo; Prev"
+msgstr ""
+
+#: includes/modules/posts/post/skins/base.php:220
+msgid "Next Label"
+msgstr ""
+
+#: includes/modules/posts/post/skins/base.php:222
+msgid "Next &raquo;"
+msgstr ""
+
+#: includes/modules/posts/post/skins/base.php:1110
+msgid "Container Spacing"
+msgstr ""
+
+#: includes/modules/posts/post/skins/base.php:1653
+msgid "All"
+msgstr ""

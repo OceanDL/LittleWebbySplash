@@ -1,0 +1,147 @@
+.jet-form {
+	&.is-loading {
+		opacity: .5;
+		pointer-events: none;
+	}
+	&-row {
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0 -5px;
+		padding: 5px 0;
+		&:last-child {
+			padding-bottom: 0 !important;
+		}
+		&--first-visible {
+			padding-top: 0 !important;
+		}
+		&.jet-form-row--hidden {
+			margin: 0 !important;
+			padding: 0 !important;
+		}
+	}
+	&-col {
+		min-height: 1px;
+		padding: 0 5px;
+		display: flex;
+		align-items: top;
+		flex-wrap: wrap;
+		max-width: 100%;
+		flex: 0 0 100%;
+		&__start {
+			flex: 0 0 30%;
+			max-width: 30%;
+		}
+		&__end {
+			display: flex;
+			flex: 1 1 auto;
+		}
+	}
+	@media ( min-width: 600px ) {
+		&-col-1 {
+			max-width: 8.33333%;
+			flex: 0 0 8.33333%;
+		}
+		&-col-2 {
+			max-width: 16.66666%;
+			flex: 0 0 16.66666%;
+		}
+		&-col-3 {
+			max-width: 25%;
+			flex: 0 0 25%;
+		}
+		&-col-4 {
+			max-width: 33.33333%;
+			flex: 0 0 33.33333%;
+		}
+		&-col-5 {
+			max-width: 41.66666%;
+			flex: 0 0 41.66666%;
+		}
+		&-col-6 {
+			max-width: 50%;
+			flex: 0 0 50%;
+		}
+		&-col-7 {
+			max-width: 58.33333%;
+			flex: 0 0 58.33333%;
+		}
+		&-col-8 {
+			max-width: 66.66666%;
+			flex: 0 0 66.66666%;
+		}
+		&-col-9 {
+			max-width: 75%;
+			flex: 0 0 75%;
+		}
+		&-col-10 {
+			max-width: 83.33333%;
+			flex: 0 0 83.33333%;
+		}
+		&-col-11 {
+			max-width: 91.66666%;
+			flex: 0 0 91.66666%;
+		}
+		&-col-12 {
+			max-width: 100%;
+			flex: 0 0 100%;
+		}
+	}
+	&__calculated-field {
+		display: flex;
+	}
+	&__label {
+		.layout-column & {
+			max-width: 100%;
+			flex: 0 1 100%;
+		}
+	}
+	&__field-error {
+		width: 100%;
+	}
+	&__desc {
+		display: block;
+		.layout-column & {
+			max-width: 100%;
+			flex: 0 1 100%;
+		}
+	}
+	&__field {
+		box-sizing: border-box;
+		.layout-column &:not(.checkboxes-field):not(.radio-field) {
+			max-width: 100%;
+			flex: 0 1 100%;
+		}
+		.layout-row &:not(.checkboxes-field):not(.radio-field) {
+			width: 100%;
+		}
+		&-label {
+			cursor: pointer;
+			display: inline-flex;
+			align-items: center;
+			input {
+				margin: 0 5px 0 0;
+			}
+		}
+	}
+	&__submit {
+		&-wrap {
+			display: flex;
+			flex-direction: column;
+			width: 100%;
+		}
+	}
+}
+
+.jet-form-message {
+	margin: 20px 0 0 0;
+	text-align: center;
+	padding: 20px;
+	&--success {
+		border: 1px solid green;
+		color: green;
+	}
+	&--error {
+		border: 1px solid red;
+		color: red;
+	}
+}

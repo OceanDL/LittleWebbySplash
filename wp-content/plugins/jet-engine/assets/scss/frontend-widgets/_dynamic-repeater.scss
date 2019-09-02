@@ -1,0 +1,11 @@
+.jet-listing-dynamic-repeater {
+	&__items {
+		display: flex;
+	}
+	&__item {
+		> *:not(td):not(.jet-engine-gallery-grid) {
+			display: flex;
+			align-items: center;
+		}
+	}
+}

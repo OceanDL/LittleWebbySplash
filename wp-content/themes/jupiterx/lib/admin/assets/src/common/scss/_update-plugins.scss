@@ -1,0 +1,92 @@
+div.jupiterx-update-plugins-notice {
+	display: flex;
+	position: relative;
+	overflow: auto;
+	margin: 16px 0;
+	padding: 14px;
+	background: #fff;
+	font-size: 13px;
+	line-height: 2.1em;
+
+	h2 {
+		margin: 0 0 2px;
+		font-size: 18px;
+		font-weight: bold;
+	}
+
+	p {
+		margin: 0;
+		padding: 2px 0;
+		font-size: 14px;
+	}
+
+	.button {
+		display: flex;
+		align-items: center;
+		margin-top: 6px;
+	}
+
+	.updating-message {
+		pointer-events: none;
+
+		&:before {
+			margin: 0 5px 0 0;
+		}
+
+		.dashicons {
+			display: none;
+		}
+	}
+}
+
+div.jupiterx-update-plugins-notice-hidden {
+	display: none;
+}
+
+.jupiterx-update-plugins-notice-logo {
+	max-width: 170px;
+	margin-right: 18px;
+
+	img {
+		display: block;
+		width: 100%;
+	}
+}
+
+.jupiterx-modal-update-plugins {
+	width: 546px;
+
+	.jupiterx-modal-header,
+	.jupiterx-modal-desc {
+		padding-left: 19px;
+		padding-right: 19px;
+	}
+
+	.jupiterx-modal-title {
+		img.emoji {
+			font-size: 30px;
+		}
+	}
+}
+
+.jupiterx-update-plugins-footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+
+	.jupiterx-update-plugins-learn-more {
+		font-size: 16px;
+	}
+
+	i {
+		color: #007bff;
+		vertical-align: middle;
+	}
+}
+
+.jupiterx-update-plugins-name {
+	display: block;
+	color: #444;
+	font-weight: bold;
+}
